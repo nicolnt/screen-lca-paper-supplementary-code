@@ -1,0 +1,60 @@
+﻿PRODCOM code,Long name,Figure name,Quantity (Mt),Ecoinvent 3.11 activity name proxy,Molecular formula (MF),Molecular weight (MW),Carbon atoms
+20165130,"Polypropylene, in primary forms",Polypropylene,10.4388995,"market for polypropylene, granulate",(C3H6)x,42.081,3
+20141140,Propene (propylene),Propylene,9.380366283,market for propylene,C3H6,42.08,3
+20141130,Ethylene,Ethylene,9.244465008,market for ethylene,C2H4,28.05,2
+20161050,"Polyethylene having a specific gravity of >= 0,94, in primary forms",Polyethylene,7.209667177,"market for polyethylene, high density, granulate",(C2H4)n,28.054,2
+20142210,Methanol (methyl alcohol),Methanol,7.123081145,market for methanol,CH4O,32.042,1
+20141223,Benzene,Benzene,5.990570951,market for benzene,C6H6,78.11,6
+20163010,"Polyvinyl chloride, not mixed with any other substances, in primary forms",Polyvinyl chloride,4.830409327,"market for polyvinyl chloride, emulsion polymerised",C2H3Cl,62.5,2
+20161039,"Polyethylene having a specific gravity < 0,94, in primary forms (excluding linear)",Polyethylene,4.233640295,"market for polyethylene, low density, granulate",(C2H4)n,28.054,2
+20143430,Phthalic anhydride; terephthalic acid and its salts,Terephthalic acid,4.032953658,market for purified terephthalic acid,C8H6O4,166.13,8
+20164062,Polyethylene terephthalate in primary forms having a viscosity number of >= 78 ml/g,Polyethylene terephthalate,3.309299066,"market for polyethylene terephthalate, granulate, amorphous",C12H14O4,222.24,12
+20141250,Styrene,Styrene,2.992240374,market for styrene,C8H8,104.15,8
+20161035,"Linear polyethylene having a specific gravity < 0,94, in primary forms",Polyethylene,2.58329194,"market for polyethylene, linear low density, granulate",(C2H4)n,28.054,2
+20141160,"Buta-1,3-diene and isoprene",Butadiene,2.049547428,market for butadiene,C4H6,54.09,4
+20141150,Butene (butylene) and isomers thereof,Butylene,1.800076728,"market for butene, mixed",C8H16,112.21,8
+20162039,"Polystyrene, in primary forms (excluding expansible polystyrene)",Polystyrene,1.649416689,"market for polystyrene, extruded",(C8H8)x,104.152,8
+20146375,Methyloxirane (propylene oxide),Propylene oxide,1.512054785,"market for propylene oxide, liquid",C3H6O,58.08,3
+20142310,Ethylene glycol (ethanediol),Ethylene glycol,1.489049224,market for ethylene glycol,C2H6O2,62.07,2
+20162035,"Expansible polystyrene, in primary forms",Polystyrene,1.468523517,"market for polystyrene, expandable",(C8H8)x,104.152,8
+20165230,"Polymers of vinyl acetate, in aqueous dispersion, in primary forms",Polyvinyl acetate,1.074467957,market for vinyl acetate,(C4H6O2)x,86.09,4
+20146211,Acetone,Acetone,1.037784064,"market for acetone, liquid",C3H6O,58.08,3
+20141353,"1,2-Dichloroethane (ethylene dichloride)",Ethylene dichloride,1.018745547,market for ethylene dichloride,C2H4Cl2,98.96,2
+20141225,Toluene,Toluene,1.006460688,"market for toluene, liquid",C7H8,92.14,7
+20144151,Aniline and its salts (excluding derivatives),Aniline,0.959497198,market for aniline,C6H7N,93.13,6
+20146111,Methanal (formaldehyde),Formaldehyde,0.898541723,market for formaldehyde,CH2O,30.026,1
+20143271,Acetic acid,Acetic acid,0.889396781,market for acetic acid,C2H4O2,60.05,2
+20162070,"Acrylonitrile-butadiene-styrene (ABS) copolymers, in primary forms",ABS,0.817325644,market for acrylonitrile-butadiene-styrene copolymer,C15H17N,211.3,15
+20141371,Vinyl chloride (chloroethylene),Vinyl chloride,0.807789565,market for vinyl chloride,C2H3Cl,62.5,2
+20146373,Oxirane (ethylene oxide),Ethylene oxide,0.802127934,market for ethylene oxide,C2H4O,44.05,2
+20164064,Other polyethylene terephthalate in primary forms,Polyethylene terephthalate,0.781183226,"market for polyethylene terephthalate, granulate, amorphous",C12H14O4,222.24,12
+20163025,"Plasticised polyvinyl chloride mixed with any other substance, in primary forms",Polyvinyl chloride,0.779956664,"market for polyvinyl chloride, suspension polymerised",C2H3Cl,62.5,2
+20161070,"Ethylene-vinyl acetate copolymers, in primary forms",Ethylene-vinyl acetate,0.677151979,market for ethylene vinyl acetate copolymer,C6H10O2,114.14,6
+20143320,Esters of acrylic acid,Esters of acrylic acid,0.648954423,market for butyl acrylate,C7H12O2,128.169,7
+20142220,Propan-1-ol (propyl alcohol) and propan-2-ol (isopropyl alcohol),Isopropanol,0.633630002,market for isopropanol,C3H8O,60.1,3
+20141270,Cumene,Cumene,0.615550552,market for cumene,C9H12,120.19,9
+20141213,Cyclohexane,Cyclohexane,0.614333996,market for cyclohexane,C6H12,84.16,6
+20143385,Adipic acid; its salts and esters,Adipic acid,0.581289067,market for adipic acid,C6H10O4,146.14,6
+20141245,p-Xylene,p-Xylene,0.579092855,market for p-xylene,C8H10,106.16,8
+20141260,Ethylbenzene,Ethylbenzene,0.443532407,market for ethyl benzene,C8H10,106.16,8
+20143250,"Formic acid, its salts and esters",Formic acid,0.442926298,market for formic acid,CH2O2,46.025,1
+20142320,"Propylene glycol (propane-1,2-diol)",Propylene glycol,0.44189643,"market for propylene glycol, liquid",C3H8O2,76.09,3
+20142230,Butan-1-ol (n-butyl alcohol),n-Butanol,0.428048199,market for n-butanol,C4H10O,74.12,4
+20144123,Hexamethylenediamine and its salts; ethylenediamine and its salts,Hexamethylenediamine,0.418743118,market for hexamethylenediamine,C6H16N2,116.2,6
+20141247,m-Xylene and mixed xylene isomers,m-Xylene,0.403599974,"market for xylene, mixed",C8H10,106.16,8
+20143340,Esters of methacrylic acid,Methyl methacrylate,0.394694541,market for methyl methacrylate,C5H8O2,100.12,5
+20144350,Acrylonitrile,Acrylonitrile,0.363643432,market for acrylonitrile,C3H3N,53.06,3
+20146115,Butanal (butyraldehyde; normal isomer),Butanal,0.3600118,market for n-butanol,C4H8O,72.11,4
+20164013,"Polyacetals, in primary forms",Polyoxymethylene,0.356093749,manual:3.64,(CH2O)n ,30.026,1
+20143215,Ethyl acetate,Ethyl acetate,0.341312049,market for ethyl acetate,C4H8O2,88.11,4
+20146333,"2,2-Oxydiethanol (diethylene glycol; digol)",Diethylene glycol,0.328424854,market for diethylene glycol,C4H10O3,106.12,4
+20165250,"Polymers of vinyl acetate, in primary forms (excluding in aqueous dispersion)",Polyvinyl acetate,0.320172965,market for vinyl acetate,(C4H6O2)x,86.08905,4
+20141243,o-Xylene,o-Xylene,0.260760131,market for o-xylene,C8H10,106.16,8
+20143363,Benzoic acid; its salts and esters,Benzoic acid,0.232327254,market for benzoic acid,C7H6O2,122.12,7
+20142433,"4,4-Isopropylidenediphenol (bisphenol A; diphenylolpropane) and its salts",Bisphenol A,0.213130407,"market for bisphenol A, powder",C15H16O2,228.29,15
+20143277,Acetic anhydride,Acetic anhydride,0.212247473,market for acetic anhydride,C4H6O3,102.09,4
+20165350,"Polymethyl methacrylate, in primary forms",Polymethyl methacrylate,0.210079972,market for polymethyl methacrylate,(C5H8O2)x,100.117,5
+20144450_1,Toluene diisocyanate (TDI),Toluene diisocyanate,0.237128752,market for toluene diisocyanate,C9H6N2O2,174.16,9
+20144450_2,Methylene diphenyl diisocyanate (MDI),Methylene diphenyl diisocyanate,0.790429172,market for methylene diphenyl diisocyanate,C15H10N2O2,250.25,15
+20165450_1,"Polyamide -6,6 (PA 66)","Polyamide -6,6",1.068178825,market for nylon 6-6,C12H20N2O2,224.3,12
+20165450_2,Polyamide -6 (PA 6),Polyamide -6,1.25668097,market for nylon 6,C30H56N5O6-,582.8,30
