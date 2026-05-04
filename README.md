@@ -25,6 +25,9 @@ They can be read directly from Gitlab or Github in there rendered form.
 │   └── EXIOBASE_v3.9.5/
 │       └── IOT_2019_pxp/
 │           └── (... Extracted Exiobase files)
+├── Kumu_data/
+│   ├── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.json
+│   └── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.xlsx
 ├── Prodcom_data/
 │   ├── 20260326 - data input.csv
 │   ├── ESTAT_GEO_27.0.tsv
@@ -67,3 +70,9 @@ and activate the environment:
 ```bash
 conda activate 'lienart_etal_2026-screenlca-paper-si-code'
 ```
+
+## Kumu database
+
+Interactive pathway database available at https://kumu.io/nicolas-lienart/screenlca-paper-biobased-pathways
+
+Raw JSON and Excel database files are available in the [`Kumu_data/`](.Kumu_data/) directory.
