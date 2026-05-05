@@ -21,6 +21,10 @@ They can be read directly from Gitlab or Github in there rendered form.
 
 ```
 .
+├── Article_data/
+│   ├── Step 2 results from Exiobase data manipulations.xlsx
+│   ├── Step 3 results from Prodcom data manipulations.xlsx
+│   └── Step 4 hotspot figure data.xlsx
 ├── Exiobase_data/
 │   └── EXIOBASE_v3.9.5/
 │       └── IOT_2019_pxp/
