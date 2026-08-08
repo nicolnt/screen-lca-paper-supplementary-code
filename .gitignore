@@ -1,5 +1,7 @@
 # Folders
 Exiobase_data/*
+.vscode
+tmp/*
 
 # Files
 Prodcom_data/estat_ds-059358.*
