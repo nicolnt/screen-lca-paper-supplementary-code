@@ -7,3 +7,9 @@ tmp/*
 Prodcom_data/estat_ds-059358.*
 .env
 
+output/2026080* - output_exiobase_vpxp2019_*.csv
+~*
+output/S.csv
+output/ghg_emissions_extension.csv
+output/20260204 - reorganized annual_series.csv
+output/20260808 - filtered_prodcom_grouped_EU27_2019.csv
