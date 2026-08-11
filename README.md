@@ -16,6 +16,7 @@ They can be read directly from Gitlab or Github in there rendered form.
  - [Sectors footprint with Exiobase.ipynb](<./Sectors footprint with Exiobase.ipynb>)
  - [Extract Prodcom data.ipynb](<./Extract Prodcom data.ipynb>)
  - [Calculate product footprints and generate hotspot figure.ipynb](<./Calculate product footprints and generate hotspot figure.ipynb>)
+ - [Get product importers from BACI.ipynb](<./Get product importers from BACI.ipynb>)
 
 ## Structure
 
@@ -25,6 +26,14 @@ They can be read directly from Gitlab or Github in there rendered form.
 │   ├── Step 2 results from Exiobase data manipulations.xlsx
 │   ├── Step 3 results from Prodcom data manipulations.xlsx
 │   └── Step 4 hotspot figure data.xlsx
+├── BACI_data/
+│   └── BACI_HS22_V202501/
+│       ├── BACI_HS22_Y2022_V202501.csv
+│       ├── Readme.txt
+│       ├── country_codes_V202501.csv
+│       └── product_codes_HS22_V202501.csv
+├── Ecoinvent_data/
+│   ├── Ecoinvent all locations - v2.5 - allgeos.csv
 ├── Exiobase_data/
 │   └── EXIOBASE_v3.9.5/
 │       └── IOT_2019_pxp/
@@ -47,18 +56,14 @@ They can be read directly from Gitlab or Github in there rendered form.
 └── environment.yml
 ```
 
+Some of the files presented here are not included due to licencing or size constraints (e.g., Baci, Exiobase). The user is invited to follow the relevant procedures to obtain them via the official sources ([See "Download missing data"](#Download-missing-data) or links provided in the Python notebooks).
+
 ## Setup Repository
 
-1. Clone this repository:
+Clone this repository:
 
 ```bash
 git clone https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code/ --depth=1
-```
-
-2. Initialize (=download) the submodules (`brightway-2-analyzer`, `brightway2-calc`, etc.):
-
-```bash
-git submodule update --init --recursive --remote --force
 ```
 
 ## Setup Python Environment
@@ -80,3 +85,19 @@ conda activate 'lienart_etal_2026-screenlca-paper-si-code'
 Interactive pathway database available at https://kumu.io/nicolas-lienart/screenlca-paper-biobased-pathways
 
 Raw JSON and Excel database files are available in the [`Kumu_data/`](.Kumu_data/) directory.
+
+## Download missing data
+
+### Exiobase
+
+EXIOBASE 3 | Published May 13, 2026 | Version 3.10.2
+Dataset link: https://zenodo.org/records/20051562
+
+### BACI
+
+Get BACI data here: https://www.cepii.fr/DATA_DOWNLOAD/baci/doc/baci_webpage.html
+
+### Prodcom
+
+- Repository link: https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&alphabeticalFilter=D&searchFilter=DS
+- Reporter regions of Prodcom download link: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/codelist/ESTAT/geo?format=TSV

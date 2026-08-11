@@ -1,0 +1,541 @@
+collection,name,isotwolettercode,uncode,isothreelettercode,unsubregion,unregion,uuid,shortname
+countries,Scarborough Reef,,,,South-Eastern Asia,Asia,aa97629e-e94b-4270-a042-979d38785ecd,Scarborough Reef
+countries,Germany,DE,,DEU,Western Europe,Europe,"0e0e1020-7d7e-11de-9ae2-0019e336be3a",DE
+countries,Estonia,EE,,EST,Northern Europe,Europe,"0d28a62a-7d7e-11de-9ae2-0019e336be3a",EE
+countries,Turkmenistan,TM,,TKM,Central Asia,Asia,1356be2e-7d7e-11de-9ae2-0019e336be3a,TM
+countries,Tunisia,TN,,TUN,Northern Africa,Africa,133fc02a-7d7e-11de-9ae2-0019e336be3a,TN
+countries,Tonga,TO,,TON,Polynesia,Oceania,13335286-7d7e-11de-9ae2-0019e336be3a,TO
+countries,Trinidad and Tobago,TT,,TTO,Caribbean,Americas,1317a572-7d7e-11de-9ae2-0019e336be3a,TT
+countries,Tuvalu,TV,,TUV,Polynesia,Oceania,1351b0f0-7d7e-11de-9ae2-0019e336be3a,TV
+countries,Serranilla Bank,,,,Caribbean,Americas,c692fbb4-53d5-4e63-920d-361e98c90dab,Serranilla Bank
+countries,United Kingdom,GB,,GBR,Northern Europe,Europe,13725fee-7d7e-11de-9ae2-0019e336be3a,GB
+countries,Ireland,IE,,IRL,Northern Europe,Europe,"0d1de104-7d7e-11de-9ae2-0019e336be3a",IE
+countries,France,FR,,FRA,Western Europe,Europe,"0d751636-7d7e-11de-9ae2-0019e336be3a",FR
+countries,Guyana,GY,,GUY,South America,Americas,"0e3b3d98-7d7e-11de-9ae2-0019e336be3a",GY
+countries,Suriname,SR,,SUR,South America,Americas,1117f7f4-7d7e-11de-9ae2-0019e336be3a,SR
+countries,Vatican,VA,,VAT,Southern Europe,Europe,15265aa2-7d7e-11de-9ae2-0019e336be3a,VA
+countries,Saint Vincent and the Grenadines,VC,,VCT,Caribbean,Americas,1436d536-7d7e-11de-9ae2-0019e336be3a,VC
+countries,British Virgin Islands,VG,,VGB,Caribbean,Americas,14480004-7d7e-11de-9ae2-0019e336be3a,VG
+countries,United States Virgin Islands,VI,,VIR,Caribbean,Americas,14599396-7d7e-11de-9ae2-0019e336be3a,VI
+countries,Christmas Island,CX,,CXR,Australia and New Zealand,Oceania,10c7c482-7d7e-11de-9ae2-0019e336be3a,CX
+countries,Poland,PL,,POL,Eastern Europe,Europe,114ebb04-7d7e-11de-9ae2-0019e336be3a,PL
+countries,Afghanistan,AF,,AFG,Southern Asia,Asia,"0c608726-7d7e-11de-9ae2-0019e336be3a",AF
+countries,Bangladesh,BD,,BGD,Southern Asia,Asia,"09e8ed3a-7d7e-11de-9ae2-0019e336be3a",BD
+countries,Myanmar,MM,,MMR,South-Eastern Asia,Asia,"0a06dd7c-7d7e-11de-9ae2-0019e336be3a",MM
+countries,Aruba,AW,,ABW,Caribbean,Americas,"0fec983a-7d7e-11de-9ae2-0019e336be3a",AW
+countries,The Bahamas,BS,,BHS,Caribbean,Americas,"09da334e-7d7e-11de-9ae2-0019e336be3a",BS
+countries,Nepal,NP,,NPL,Southern Asia,Asia,110f1ea4-7d7e-11de-9ae2-0019e336be3a,NP
+countries,Cameroon,CM,,CMR,Middle Africa,Africa,"0cb47d54-7d7e-11de-9ae2-0019e336be3a",CM
+countries,Panama,PA,,PAN,Central America,Americas,115546c2-7d7e-11de-9ae2-0019e336be3a,PA
+countries,Venezuela,VE,,VEN,South America,Americas,143d4e2a-7d7e-11de-9ae2-0019e336be3a,VE
+countries,Antarctica,AQ,,ATA,Antarctica,Antarctica,105b361e-7d7e-11de-9ae2-0019e336be3a,AQ
+countries,Madagascar,MG,,MDG,Eastern Africa,Africa,"0f6066da-7d7e-11de-9ae2-0019e336be3a",MG
+countries,Philippines,PH,,PHL,South-Eastern Asia,Asia,119679bc-7d7e-11de-9ae2-0019e336be3a,PH
+countries,Montserrat,MS,,MSR,Caribbean,Americas,"0f759550-7d7e-11de-9ae2-0019e336be3a",MS
+countries,Malta,MT,,MLT,Southern Europe,Europe,"0f9402ce-7d7e-11de-9ae2-0019e336be3a",MT
+countries,Maldives,MV,,MDV,Southern Asia,Asia,"0f9f2f00-7d7e-11de-9ae2-0019e336be3a",MV
+countries,Mozambique,MZ,,MOZ,Eastern Africa,Africa,"0fc883d2-7d7e-11de-9ae2-0019e336be3a",MZ
+countries,Namibia,NA,,NAM,Southern Africa,Africa,145e04ee-7d7e-11de-9ae2-0019e336be3a,NA
+countries,Puerto Rico,PR,,PRI,Caribbean,Americas,11a7c1a4-7d7e-11de-9ae2-0019e336be3a,PR
+countries,Norfolk Island,NF,,NFK,Australia and New Zealand,Oceania,10271ce4-7d7e-11de-9ae2-0019e336be3a,NF
+countries,Nauru,NR,,NRU,Micronesia,Oceania,11148498-7d7e-11de-9ae2-0019e336be3a,NR
+countries,New Zealand,NZ,,NZL,Australia and New Zealand,Oceania,11258d1a-7d7e-11de-9ae2-0019e336be3a,NZ
+countries,Oman,OM,,OMN,Western Asia,Asia,"0f980b80-7d7e-11de-9ae2-0019e336be3a",OM
+countries,Saint Pierre and Miquelon,PM,,SPM,Northern America,Americas,150dbd3a-7d7e-11de-9ae2-0019e336be3a,PM
+countries,Pitcairn Islands,PN,,PCN,Polynesia,Oceania,150266d8-7d7e-11de-9ae2-0019e336be3a,PN
+countries,Qatar,QA,,QAT,Western Asia,Asia,117936fe-7d7e-11de-9ae2-0019e336be3a,QA
+countries,Romania,RO,,ROU,Eastern Europe,Europe,11813638-7d7e-11de-9ae2-0019e336be3a,RO
+countries,Serbia,RS,,SRB,Southern Europe,Europe,1520c2a4-7d7e-11de-9ae2-0019e336be3a,RS
+countries,Russia,RU,,RUS,Eastern Europe,Europe,12143bfe-7d7e-11de-9ae2-0019e336be3a,RU
+countries,Rwanda,RW,,RWA,Eastern Africa,Africa,129718da-7d7e-11de-9ae2-0019e336be3a,RW
+countries,Saudi Arabia,SA,,SAU,Western Asia,Asia,129c6a88-7d7e-11de-9ae2-0019e336be3a,SA
+countries,Solomon Islands,SB,,SLB,Melanesia,Oceania,"0a1ab78e-7d7e-11de-9ae2-0019e336be3a",SB
+countries,Mayotte,YT,,MYT,Eastern Africa,Africa,10207fa6-7d7e-11de-9ae2-0019e336be3a,YT
+countries,South Africa,ZA,,ZAF,Southern Africa,Africa,12b21766-7d7e-11de-9ae2-0019e336be3a,ZA
+countries,Zimbabwe,ZW,,ZWE,Eastern Africa,Africa,147cde5a-7d7e-11de-9ae2-0019e336be3a,ZW
+countries,Clipperton Island,,,,Central America,Americas,e9f525be-34b8-45b6-9c33-5daf8b97fe7c,Clipperton Island
+countries,"Australia, Ashmore and Cartier Islands",,,,Australia and New Zealand,Oceania,4a271c88-5c3c-42de-9bee-1e950cc9d9f5,AU-AC
+countries,Singapore,SG,,SGP,South-Eastern Asia,Asia,12dcac1a-7d7e-11de-9ae2-0019e336be3a,SG
+countries,Slovakia,SK,,SVK,Eastern Europe,Europe,"0f515f00-7d7e-11de-9ae2-0019e336be3a",SK
+countries,Sierra Leone,SL,,SLE,Western Africa,Africa,12d57c60-7d7e-11de-9ae2-0019e336be3a,SL
+countries,Senegal,SN,,SEN,Western Africa,Africa,12c6a37a-7d7e-11de-9ae2-0019e336be3a,SN
+aluminium,"IAI Area, Russia & Europe outside EU27 & EFTA",,,,,,"0fc981f0-eb14-436c-834f-c6ce005a4dc4","IAI Area, Russia & RER w/o EU27 & EFTA"
+aluminium,"IAI Area, EU27 & EFTA",,,,,,b7fcfda9-0add-49aa-87d4-d60f3bda4283,"IAI Area, EU27 & EFTA"
+aluminium,"IAI Area, North America",,,,,,446707ca-ceb0-4e24-b794-73e95e6154c0,"IAI Area, North America"
+aluminium,"IAI Area, Africa",,,,,,4484cb2d-50e8-43a0-a79f-80313021306a,"IAI Area, Africa"
+aluminium,"IAI Area, North America, without Quebec",,,,,,4a81aea7-bf37-4c83-ac1e-9a2050f88920,"IAI Area, North America, without Quebec"
+aluminium,"IAI Area, South America",,,,,,f3b8b2cb-5fd9-4cfc-b947-783a102c739e,"IAI Area, South America"
+aluminium,"IAI Area, Asia, without China and GCC",,,,,,77b2f7ee-3f79-4946-a2d7-50c46d1756d2,"IAI Area, Asia, without China and GCC"
+aluminium,"IAI Area, Gulf Cooperation Council",,,,,,"058885d6-d0a9-48ff-8d95-4baacf75ce97","IAI Area, Gulf Cooperation Council"
+legacy,Union for the Co-ordination of Transmission of Electricity,,,,,,ce1503be-7060-4959-8387-bc3ea3f4c885,UCTE
+legacy,UCTE without Germany and France,,,,,,"088a91da-e0cc-11de-823b-0019e336be3a",UCTE without Germany and France
+legacy,UCTE without France,,,,,,26c31b7c-e0d1-11de-823b-0019e336be3a,UCTE without France
+legacy,UCTE without Germany,,,,,,dde7310e-e0d0-11de-823b-0019e336be3a,UCTE without Germany
+countries,Cocos (Keeling) Islands,CC,,CCK,Australia and New Zealand,Oceania,102a1b92-7d7e-11de-9ae2-0019e336be3a,CC
+countries,Cook Islands,CK,,COK,Polynesia,Oceania,"0cf01346-7d7e-11de-9ae2-0019e336be3a",CK
+states,"Canada, New Brunswick",,,,,,b8ce14f4-e09b-4117-b4dd-d74af99da744,CA-NB
+countries,Samoa,WS,,WSM,Polynesia,Oceania,14679ce8-7d7e-11de-9ae2-0019e336be3a,WS
+states,"Canada, Yukon",,,,,,29dca13b-9d4b-4714-9c80-1808b9127dda,CA-YK
+states,"United States of America, California",,,,,,5d7486b1-a50c-4c86-8dd3-ce9773bd2bab,US-CA
+countries,Moldova,MD,,MDA,Eastern Europe,Europe,1188faee-7d7e-11de-9ae2-0019e336be3a,MD
+electricity,"Brazil, South-eastern and Mid-western grid",,,,,,7e6d7407-6a88-50d1-8f56-eb53f1c12102,BR-South-eastern/Mid-western grid
+legacy,Nordic Countries Power Association,,,,,,fe0113e8-7e2d-11de-9820-0019e336be3a,NORDEL
+un-subregions,Southern Asia,,,,,,30e68c9c-7e2a-11de-9820-0019e336be3a,SAS
+un-subregions,Caribbean,,,,,,87b165cf-8b3c-4289-807e-4512b4fb2b2f,UN-CARIBBEAN
+un-subregions,Australia and New Zealand,,,,,,fb4bde60-e62b-11de-ba56-0019e336be3a,UN-AUSTRALIANZ
+un-subregions,Eastern Asia,,,,,,2b57aeea-88d5-11de-99d3-0019e336be3a,UN-EASIA
+un-subregions,Eastern Europe,,,,,,50ec320c-88d5-11de-99d3-0019e336be3a,UN-EEUROPE
+un-subregions,Northern Europe,,,,,,548bd19c-88d5-11de-99d3-0019e336be3a,UN-NEUROPE
+un-subregions,Southern Europe,,,,,,57c8c52c-88d5-11de-99d3-0019e336be3a,UN-SEUROPE
+un-subregions,Western Asia,,,,,,4ed30b08-88d5-11de-99d3-0019e336be3a,UN-WASIA
+un-subregions,Western Europe,,,,,,de74489a-e3bf-4b3a-8463-b7b9eba8a8fb,WEU
+special,North American Free Trade Agreement,,,,,,"047116e2-d932-11de-9627-0019e336be3a",NAFTA
+special,United States–Mexico–Canada Agreement,,,,,,598a17a2-889f-4c84-a870-08fbf1f8917f,CUSMA/T-MEC/USMCA
+special,Europe,,,,,,"0723d252-7e2a-11de-9820-0019e336be3a",RER
+russia,Russia (Asia),,,,,,6d696e3b-ac91-486c-8f04-349c496915ae,Russia (Asia)
+russia,Russia (Europe),,,,,,1cfaa6a1-259a-442f-80ca-1070cfbbf6da,Russia (Europe)
+un-regions,Africa,,,,,,2f693dc6-7e28-11de-9820-0019e336be3a,RAF
+un-regions,Americas,,,,,,2ea604e6-e5e8-11de-8102-0019e336be3a,UN-AMERICAS
+un-regions,"Asia, UN Region",,,,,,d509536a-7e28-11de-9820-0019e336be3a,UN-ASIA
+un-regions,"Europe, UN Region",,,,,,f2d812a2-e631-11de-ba56-0019e336be3a,UN-EUROPE
+un-regions,Oceania,,,,,,9232290c-e62b-11de-ba56-0019e336be3a,UN-OCEANIA
+electricity,Alaska Systems Coordinating Council,,,,,,a9c3be27-affe-464c-8ebf-996d8ab6a958,US-ASCC
+usa-electricity,"Midwest Reliability Organization, US part only",,,,,,6432879f-dc31-4e80-bc55-573f72dafee8,US-MRO
+usa-electricity,"Northeast Power Coordinating Council, US part only",,,,,,50f826e7-ab13-444e-987b-180701b691c9,US-NPCC
+special,China without Inner Mongol,,,,,,5874165e-031e-4e85-ab69-8c2ae6a1a970,China w/o Inner Mongol
+usa-electricity,"Western Electricity Coordinating Council, US part only",,,,,,f37ced82-5df8-48c2-a207-1e36dd11a112,US-WECC
+electricity,European Network of Transmission Systems Operators for Electricity,,,,,,f87aa98c-d820-11de-a736-0019e336be3a,ENTSO-E
+electricity,"China, China Southern Power Grid",,,,,,5b64ff1c-3c47-4adf-b89c-9e18078b9bf7,CN-CSG
+electricity,"China, Northeast Grid",,,,,,f0894a96-367f-5327-bc91-e156fdb6a5c7,CN-NECG
+electricity,"China, North Grid",,,,,,ae30ab76-bfa2-59fb-bccc-1ad0246cd7b3,CN-NCGC
+electricity,"China, East Grid",,,,,,b6ec5424-a43b-5e34-a8ca-f35abb031049,CN-ECGC
+electricity,"China, Central Grid",,,,,,f6298475-5b7f-5c28-9885-2338946a6cd6,CN-CCG
+electricity,"China, Northwest Grid",,,,,,fa7f6c22-bd54-58c5-a8f0-0939ace8b856,CN-NWG
+electricity,"China, Southwest Grid",,,,,,"094ba255-b84b-5fbd-8c8a-75547f362075",CN-SWG
+electricity,"China, State Grid Corporation of China",,,,,,4c9baec2-f9fc-4f36-84f7-a3ed2eab82a1,CN-SGCC
+electricity,"India, Northern grid",,,,,,59003ab7-b40a-43ac-b7c9-3e3e8907803e,IN-Northern grid
+electricity,"India, Western grid",,,,,,25457a88-a525-4fd8-b73d-72fd3f37fc74,IN-Western grid
+electricity,"India, Southern grid",,,,,,8a80d1d2-de76-44e0-a3d3-46b98c053ca1,IN-Southern grid
+countries,US Naval Base Guantanamo Bay,,,,Caribbean,Americas,f557e57c-b331-4ed4-b103-cb9a167c71b0,Guantanamo Bay
+states,"United States of America, Alaska",,,,,,"053e6c3d-7a86-45f4-85af-be0f971998a0",US-AK
+electricity,"Brazil, South-eastern grid",,,,,,df7d08ae-6f20-4095-96e6-3d9cc6f49263,BR-South-eastern grid
+electricity,"Brazil, Mid-western grid",,,,,,6e1c02cc-e7fc-4e63-a30e-59cfa5c4d9c1,BR-Mid-western grid
+electricity,"Brazil, Southern grid",,,,,,dd2330a8-30dc-4af9-bb3a-d2d2bf404dde,BR-Southern grid
+electricity,HICC,,,,,,598f9aa4-e409-11de-bce5-0019e336be3a,US-HICC
+electricity,Midwest Reliability Organization,,,,,,39185d7c-a546-424b-8605-6bc8e94e109f,MRO
+electricity,Northeast Power Coordinating Council,,,,,,d48cee40-0ff1-49d6-a80d-9e0be3e0c2f6,NPCC
+electricity,ReliabilityFirst Corporation,,,,,,42e6cfaf-ffa3-4f42-85bb-55e1b1c40c56,US-RFC
+electricity,SERC Reliability Corporation,,,,,,a7b38401-afb6-4130-86f6-cd5184c6c40e,US-SERC
+electricity,Texas Regional Entity,,,,,,854cdfab-82bf-4c25-8515-ba33589d3efe,US-TRE
+electricity,Western Electricity Coordinating Council,,,,,,3af78f04-f008-43fd-8e29-dccfba3075c7,WECC
+states,"China, Anhui (安徽)",,,,,,2f82cf2a-d2e0-4be3-b60c-399bfe93d403,CN-AH
+states,"China, Shanghai (上海)",,,,,,4a15b2ab-5593-48d7-a7b9-b1c07c5ca99b,CN-SH
+states,"United States of America, District of Columbia",,,,,,909aae3b-d802-4626-a75e-f0d48dba9812,US-DC
+states,"United States of America, Iowa",,,,,,d38650a8-8c23-4941-9292-f9d7a4dce29b,US-IA
+states,"United States of America, Michigan",,,,,,"00e67757-ad16-44e0-90fe-2bf10d4c2186",US-MI
+states,"United States of America, Minnesota",,,,,,8f365212-2317-4cce-bf8d-5898730bcd98,US-MN
+states,"India, Jharkhand",,,,,,2221b78c-5a1c-454c-a637-744d54a0bbe9,IN-JH
+states,"India, Karnataka",,,,,,c23d9dc6-d794-4775-8e92-ee830a084a7f,IN-KA
+states,"India, Kerala",,,,,,518f1827-fe70-400e-b521-48f2f72fd777,IN-KL
+un-subregions,Eastern Africa,,,,,,e3daf92a-88d2-11de-99d3-0019e336be3a,UN-EAFRICA
+un-subregions,Micronesia,,,,,,26bf514e-e62c-11de-ba56-0019e336be3a,UN-MICRONESIA
+un-subregions,Polynesia,,,,,,4d22983c-e62c-11de-ba56-0019e336be3a,UN-POLYNESIA
+states,"United States of America, Oregon",,,,,,4324911f-22e8-4e7f-ae3a-c7f95ecd13a2,US-OR
+countries,"Bonaire, Saint Eustatius and Saba",BQ,,BES,Caribbean,Americas,cef71bbd-ab04-4959-ac3b-89a0c55e2e8c,BQ
+states,"Canada, Québec",,,,,,868a66d1-7428-4ba2-9125-253b07afc119,CA-QC
+states,"India, Madhya Pradesh",,,,,,b3d19998-fe81-4783-a19e-408d7424d876,IN-MP
+states,"India, Maharashtra",,,,,,14bfff77-d5a0-4ad5-9936-58636c295e99,IN-MH
+special,Europe without Austria,,,,,,67c114d5-d361-4466-a5e7-fc21c498a254,Europe without Austria
+special,Europe without Switzerland and Austria,,,,,,f4f87f1d-101c-4b43-b2de-f646734ae9fe,Europe without Switzerland and Austria
+special,Canada without Alberta,,,,,,39c8f992-22b7-4d59-9be0-eb461b36df2f,Canada without Alberta
+special,Canada without Alberta and Quebec,,,,,,ae9d0b20-e4e3-4cd3-9699-63eca5319c9b,Canada without Alberta and Quebec
+special,North America without Quebec,,,,,,aab06382-a476-4bec-a78b-d2fc0b849980,North America without Quebec
+states,"Canada, Alberta",,,,,,6bf93cce-7c23-463e-9962-898efa030fa2,CA-AB
+states,"Canada, British Columbia",,,,,,533c318c-a189-4fc6-84a8-e9d48eab987c,CA-BC
+countries,Mauritius,MU,,MUS,Eastern Africa,Africa,"0f8a5012-7d7e-11de-9ae2-0019e336be3a",MU
+states,"India, Odisha",,,,,,bf61f94b-cbd6-4a41-9c8b-0ef2b4e06c3c,IN-OR
+countries,Comoros,KM,,COM,Eastern Africa,Africa,"0cc14d18-7d7e-11de-9ae2-0019e336be3a",KM
+states,"India, Telangana",,,,,,,IN-TG
+states,"India, Punjab",,,,,,83cdc953-e485-453b-a8f9-749f92aca417,IN-PB
+states,"India, Rajasthan",,,,,,4024933b-d7a2-4ebb-87dc-80460ff13c50,IN-RJ
+states,"India, Tamil Nadu",,,,,,eb2442cf-93eb-4784-99f9-7a0c97c3576f,IN-TN
+countries,Sao Tome and Principe,ST,,STP,Middle Africa,Africa,133bfb7a-7d7e-11de-9ae2-0019e336be3a,ST
+states,"China, Chongqing (重庆)",,,,,,8bc809e8-f246-46f7-bf1f-93e34e06befd,CN-CQ
+states,"China, Fujian (福建)",,,,,,7ac3c1e7-0b7d-4ff9-9aa5-0d67d7da37fa,CN-FJ
+states,"China, Gansu (甘肃)",,,,,,d5231e2f-479b-4f21-9173-35beeaf2406a,CN-GS
+states,"China, Guangdong (广东)",,,,,,fbfd6cb0-56b1-4d0b-a13f-7f9f213f9afa,CN-GD
+states,"China, Guangxi (广西壮族自治区)",,,,,,c6b0afc2-8321-49aa-81f3-a793417eed91,CN-GX
+states,"China, Guizhou (贵州)",,,,,,4a743c1d-f819-4398-b389-784b84de386e,CN-GZ
+countries,Bajo Nuevo Bank (Petrel Is.),,,,Caribbean,Americas,43c4f591-2b61-4145-a9f6-e10b4349c2cd,Bajo Nuevo
+countries,Isle of Man,IM,,IMN,Northern Europe,Europe,1009d666-7d7e-11de-9ae2-0019e336be3a,IM
+countries,Akrotiri Sovereign Base Area,,,,Western Asia,Asia,7abf336a-09c3-487b-bdc3-989bbe50ee05,Akrotiri
+countries,Dhekelia Sovereign Base Area,,,,Western Asia,Asia,"0fe2ebfb-0eb4-4f42-8ec4-628d26f61f77",Dhekelia Base
+states,"China, Shanxi (山西)",,,,,,79abbd47-8e8b-4932-94c8-f3518ff110e9,CN-SX
+states,"China, Sichuan (四川)",,,,,,1238ec0d-4167-453a-9ec5-50cfef0782a1,CN-SC
+countries,Finland,FI,,FIN,Northern Europe,Europe,"0d512a50-7d7e-11de-9ae2-0019e336be3a",FI
+countries,Latvia,LV,,LVA,Northern Europe,Europe,"0f3a36f4-7d7e-11de-9ae2-0019e336be3a",LV
+countries,Norway,NO,,NOR,Northern Europe,Europe,10f1ec30-7d7e-11de-9ae2-0019e336be3a,NO
+countries,Sweden,SE,,SWE,Northern Europe,Europe,1301c428-7d7e-11de-9ae2-0019e336be3a,SE
+countries,Vietnam,VN,,VNM,South-Eastern Asia,Asia,144e6f5c-7d7e-11de-9ae2-0019e336be3a,VN
+countries,Chile,CL,,CHL,South America,Americas,"0c852cde-7d7e-11de-9ae2-0019e336be3a",CL
+countries,Indonesia,ID,,IDN,South-Eastern Asia,Asia,14ba15f4-7d7e-11de-9ae2-0019e336be3a,ID
+countries,Malaysia,MY,,MYS,South-Eastern Asia,Asia,"0fbd80a4-7d7e-11de-9ae2-0019e336be3a",MY
+countries,Greece,GR,,GRC,Southern Europe,Europe,"0e22b962-7d7e-11de-9ae2-0019e336be3a",GR
+countries,Zambia,ZM,,ZMB,Eastern Africa,Africa,147563fa-7d7e-11de-9ae2-0019e336be3a,ZM
+countries,Ethiopia,ET,,ETH,Eastern Africa,Africa,"0d3920fe-7d7e-11de-9ae2-0019e336be3a",ET
+countries,Kenya,KE,,KEN,Eastern Africa,Africa,"0ef4e126-7d7e-11de-9ae2-0019e336be3a",KE
+countries,Malawi,MW,,MWI,Eastern Africa,Africa,"0fd0c588-7d7e-11de-9ae2-0019e336be3a",MW
+countries,Somalia,SO,,SOM,Eastern Africa,Africa,12e2e22e-7d7e-11de-9ae2-0019e336be3a,SO
+countries,South Sudan,SS,,SSD,Eastern Africa,Africa,cff5fe64-d6cf-4256-8bd0-428dc0f104f6,SS
+countries,Tanzania,TZ,,TZA,Eastern Africa,Africa,13615776-7d7e-11de-9ae2-0019e336be3a,TZ
+countries,South Korea,KR,,KOR,Eastern Asia,Asia,"0f0f980e-7d7e-11de-9ae2-0019e336be3a",KR
+countries,Albania,AL,,ALB,Southern Europe,Europe,"097c2556-7d7e-11de-9ae2-0019e336be3a",AL
+countries,Azerbaijan,AZ,,AZE,Western Asia,Asia,"096781b4-7d7e-11de-9ae2-0019e336be3a",AZ
+countries,Pakistan,PK,,PAK,Southern Asia,Asia,11430eee-7d7e-11de-9ae2-0019e336be3a,PK
+countries,Spain,ES,,ESP,Southern Europe,Europe,12ea642c-7d7e-11de-9ae2-0019e336be3a,ES
+countries,Kyrgyzstan,KG,,KGZ,Central Asia,Asia,"0efacce4-7d7e-11de-9ae2-0019e336be3a",KG
+countries,Laos,LA,,LAO,South-Eastern Asia,Asia,"0f2f07ac-7d7e-11de-9ae2-0019e336be3a",LA
+countries,Türkiye,TR,,TUR,Western Asia,Asia,1347b0a0-7d7e-11de-9ae2-0019e336be3a,TR
+countries,Austria,AT,,AUT,Western Europe,Europe,"0d3f4416-7d7e-11de-9ae2-0019e336be3a",AT
+countries,Switzerland,CH,,CHE,Western Europe,Europe,131278d6-7d7e-11de-9ae2-0019e336be3a,CH
+countries,Ivory Coast,CI,,CIV,Western Africa,Africa,"0ec6dff6-7d7e-11de-9ae2-0019e336be3a",CI
+countries,Eritrea,ER,,ERI,Eastern Africa,Africa,"0d2ed0a4-7d7e-11de-9ae2-0019e336be3a",ER
+countries,Iraq,IQ,,IRQ,Western Asia,Asia,"0ecd6952-7d7e-11de-9ae2-0019e336be3a",IQ
+countries,Iran,IR,,IRN,Southern Asia,Asia,"0ea9e766-7d7e-11de-9ae2-0019e336be3a",IR
+countries,Italy,IT,,ITA,Southern Europe,Europe,"0ebb28b4-7d7e-11de-9ae2-0019e336be3a",IT
+countries,Netherlands,NL,,NLD,Western Europe,Europe,10df2fe6-7d7e-11de-9ae2-0019e336be3a,NL
+countries,Curaçao,CW,,CUW,Caribbean,Americas,c08de0ce-64e7-4efb-a37f-8df754c262c8,CW
+countries,Gabon,GA,,GAB,Middle Africa,Africa,"0d8399c2-7d7e-11de-9ae2-0019e336be3a",GA
+countries,Egypt,EG,,EGY,Northern Africa,Africa,"0d168940-7d7e-11de-9ae2-0019e336be3a",EG
+countries,Papua New Guinea,PG,,PNG,Melanesia,Oceania,11663ae0-7d7e-11de-9ae2-0019e336be3a,PG
+countries,Yemen,YE,,YEM,Western Asia,Asia,146f1702-7d7e-11de-9ae2-0019e336be3a,YE
+countries,Australia,AU,,AUS,Australia and New Zealand,Oceania,"09b1a988-7d7e-11de-9ae2-0019e336be3a",AU
+countries,Falkland Islands,FK,,FLK,South America,Americas,"0d627bf2-7d7e-11de-9ae2-0019e336be3a",FK
+countries,Tokelau,TK,,TKL,Australia and New Zealand,Oceania,132fcda0-7d7e-11de-9ae2-0019e336be3a,TK
+countries,Réunion,RE,,REU,Eastern Africa,Africa,117d1850-7d7e-11de-9ae2-0019e336be3a,RE
+states,"United States of America, Missouri",,,,,,16e5b85a-c069-429c-b0e1-6032ca19c322,US-MO
+un-subregions,Melanesia,,,,,,13fd916a-e62c-11de-ba56-0019e336be3a,UN-MELANESIA
+states,"Australia, Indian Ocean Territories",,,,,,946938ce-9c81-4a3c-a6ce-ce60a931c602,AU-IOT
+states,"United States of America, Florida",,,,,,8dbe7fbe-7375-4cb0-a1a2-6d55bc55e86e,US-FL
+states,"United States of America, Georgia",,,,,,c59de648-8f45-40a3-a479-191e3f558996,US-GA
+states,"United States of America, Hawaii",,,,,,44528d9e-bc8d-4c2f-a949-c2c956ddce9c,US-HI
+states,"United States of America, Idaho",,,,,,78a0e465-7d36-4e37-a266-79acaa4a681f,US-ID
+states,"United States of America, Illinois",,,,,,21b47bba-7f1b-4c4c-ac3e-75cc1ad33231,US-IL
+states,"Brazil, Paraná",,,,,,3b2c2140-c25c-47c5-876d-78e5dc82f066,BR-PR
+states,"Brazil, Pernambuco",,,,,,a64ba70d-b110-4f81-b415-299c0c193faa,BR-PE
+special,Europe without Switzerland,,,,,,f9221622-cc45-11de-98ed-0019e336be3a,Europe without Switzerland
+un-subregions,Middle Africa,,,,,,e60b420e-88d2-11de-99d3-0019e336be3a,UN-MAFRICA
+un-subregions,Northern Africa,,,,,,e675a82e-88d2-11de-99d3-0019e336be3a,UN-NAFRICA
+un-subregions,Southern Africa,,,,,,e6d3af00-88d2-11de-99d3-0019e336be3a,UN-SASIA
+un-subregions,Western Africa,,,,,,e89dc6f4-88d2-11de-99d3-0019e336be3a,UN-WAFRICA
+states,"Australia, Jervis Bay Territory",,,,,,1799e32a-b029-4981-ab1b-1cd932c1e64b,AU-JBT
+states,"Australia, New South Wales",,,,,,ee4baa34-3c79-4919-9393-c5d8a9015674,AU-NSW
+states,"Australia, Northern Territory",,,,,,dbee0af4-00e0-4280-a377-414d0a39998e,AU-NT
+states,"Australia, Queensland",,,,,,3624a72f-ca5a-48d6-be41-27e705be5b61,AU-QLD
+states,"Brazil, Rondônia",,,,,,d9497730-f613-4d31-aab2-1d82add2d1bc,BR-RO
+states,"Brazil, Roraima",,,,,,2a7e9ed2-4de5-4b28-9b4e-b12c50a1ed53,BR-RR
+states,"Brazil, Santa Catarina",,,,,,4645f771-3596-4c42-ba0f-822d1ce2fb72,BR-SC
+states,"Brazil, São Paulo",,,,,,a7ba1868-375a-4d62-9048-bdf2136447c4,BR-SP
+electricity,"India, Eastern grid",,,,,,1eb1f8b3-8c35-425e-94ca-cf502eb004c3,IN-Eastern grid
+electricity,"India, North-eastern grid",,,,,,26e353a9-dac6-4123-833d-75cd720d9e19,IN-North-eastern grid
+states,"India, Gujarat",,,,,,"0d325613-94aa-4a65-8014-d3f6ead19eb3",IN-GJ
+states,"India, Haryana",,,,,,3f1442fa-0808-438c-a355-2a1e96f9adeb,IN-HR
+states,"India, Himachal Pradesh",,,,,,763ca99d-f561-45ef-8d36-84cb877f9c08,IN-HP
+special,Europe without Switzerland and France,,,,,,6a1e0054-4990-4d43-b7e4-e3d9a595a275,Europe without Switzerland and France
+special,"Europe without Germany, the Netherlands, Norway, and Russia",,,,,,8bd484ff-ec4e-45c6-9f61-e211a872a4ff,RER w/o DE+NL+NO+RU
+special,"Europe without Germany, the Netherlands, and Russia",,,,,,5c322a16-89ab-48d4-b1a2-fec5759774a3,RER w/o DE+NL+RU
+special,Europe without Germany and Switzerland,,,,,,5d5718f2-ee74-462a-888c-be4d534ef542,RER w/o CH+DE
+special,"Europe without Germany, the Netherlands, and Norway",,,,,,ae85cec6-cc61-4a0d-a322-5fb10b6b4ece,RER w/o DE+NL+NO
+special,"France, including overseas territories",,,,,,28d52c97-56c5-4bcd-9504-ccc5b4797c67,"France, including overseas territories"
+special,Asia without China,,,,,,b7ac8bd0-a9d4-4caf-a832-48a0f3660da7,Asia without China
+special,Europe without NORDEL (NCPA),,,,,,a2d4e588-e0d1-11de-823b-0019e336be3a,Europe without NORDEL (NCPA)
+special,"Europe without Austria, Belgium, France, Germany, Italy, Liechtenstein, Monaco, San Marino, Switzerland, and the Vatican",,,,,,c428af56-39c0-4dca-a617-8716b52a6640,RER w/o AT+BE+CH+DE+FR+IT
+countries,Antigua and Barbuda,AG,,ATG,Caribbean,Americas,"09581fbc-7d7e-11de-9ae2-0019e336be3a",AG
+countries,Anguilla,AI,,AIA,Caribbean,Americas,"0fefde28-7d7e-11de-9ae2-0019e336be3a",AI
+countries,Aland,AX,,ALA,Northern Europe,Europe,1023d322-7d7e-11de-9ae2-0019e336be3a,AX
+countries,Bosnia and Herzegovina,BA,,BIH,Southern Europe,Europe,"09f7dc00-7d7e-11de-9ae2-0019e336be3a",BA
+countries,Barbados,BB,,BRB,Caribbean,Americas,"09d2df90-7d7e-11de-9ae2-0019e336be3a",BB
+countries,Belgium,BE,,BEL,Western Europe,Europe,"0ff33cbc-7d7e-11de-9ae2-0019e336be3a",BE
+countries,Bermuda,BM,,BMU,Northern America,Americas,"09d5d736-7d7e-11de-9ae2-0019e336be3a",BM
+countries,Heard Island and McDonald Islands,HM,,HMD,Seven seas (open ocean),Africa,10c0fae4-7d7e-11de-9ae2-0019e336be3a,HM
+countries,Niue,NU,,NIU,Polynesia,Oceania,"0fe1621c-7d7e-11de-9ae2-0019e336be3a",NU
+states,"India, Uttar Pradesh",,,,,,ae2be714-8cbe-4abd-afac-a5e7ca2b0d55,IN-UP
+countries,Equatorial Guinea,GQ,,GNQ,Middle Africa,Africa,"0d245584-7d7e-11de-9ae2-0019e336be3a",GQ
+states,"Canada, Saskatchewan",,,,,,e3aa6506-9887-4e27-9102-b3671e430090,CA-SK
+countries,Portugal,PT,,PRT,Southern Europe,Europe,115c647a-7d7e-11de-9ae2-0019e336be3a,PT
+countries,French Polynesia,PF,,PYF,Polynesia,Oceania,"0d6d36be-7d7e-11de-9ae2-0019e336be3a",PF
+states,"China, Hebei (河北)",,,,,,"06bbed25-6ebe-48aa-9b92-300bddaeb2b7",CN-HB
+states,"China, Heilongjiang (黑龙江省)",,,,,,"0f7b1e31-0d0b-404a-994b-e3cd1b7586f0",CN-HL
+states,"China, Henan (河南)",,,,,,bf7827a3-16a7-4a38-ad02-527898a12a7f,CN-HE
+states,"China, Hubei (湖北)",,,,,,2a19941e-dd11-44b4-919f-fb33c9150b71,CN-HU
+states,"China, Hunan (湖南)",,,,,,9923dac7-3164-4e2f-8723-f343d998072d,CN-HN
+states,"China, Inner Mongol (内蒙古自治区)",,,,,,da5d7825-8e05-4bad-b026-4204389cdef3,CN-NM
+states,"China, Jiangsu (江苏)",,,,,,dc5987d0-7a19-4843-82f1-15708e106edb,CN-JS
+states,"China, Jiangxi (江西)",,,,,,f5c62675-f6ae-4bc4-8c9b-3b737ef2ea53,CN-JX
+countries,Argentina,AR,,ARG,South America,Americas,"09951f84-7d7e-11de-9ae2-0019e336be3a",AR
+countries,Bolivia,BO,,BOL,South America,Americas,"09fd4f82-7d7e-11de-9ae2-0019e336be3a",BO
+countries,China,CN,,CHN,Eastern Asia,Asia,"0c40fa1e-7d7e-11de-9ae2-0019e336be3a",CN
+countries,India,IN,,IND,Southern Asia,Asia,"0e6a7860-7d7e-11de-9ae2-0019e336be3a",IN
+countries,Peru,PE,,PER,South America,Americas,11387d6c-7d7e-11de-9ae2-0019e336be3a,PE
+special,Serbia and Montenegro,,,,,,4eb91d59-44f6-4ec6-9f21-0c48bcf3becf,CS
+countries,Wallis and Futuna,WF,,WLF,Polynesia,Oceania,14644bba-7d7e-11de-9ae2-0019e336be3a,WF
+special,Middle East,,,,,,fd6f25d2-7e2d-11de-9820-0019e336be3a,RME
+states,"United States of America, Montana",,,,,,a0c4cf31-7062-4c1a-ba55-582bc899f766,US-MT
+countries,Central African Republic,CF,,CAF,Middle Africa,Africa,"0cd759a0-7d7e-11de-9ae2-0019e336be3a",CF
+countries,Guinea,GN,,GIN,Western Africa,Africa,"0e34b6f8-7d7e-11de-9ae2-0019e336be3a",GN
+countries,American Samoa,AS,,ASM,Polynesia,Oceania,"098df75e-7d7e-11de-9ae2-0019e336be3a",AS
+countries,Czechia,CZ,,CZE,Eastern Europe,Europe,"0d45a5d6-7d7e-11de-9ae2-0019e336be3a",CZ
+countries,Algeria,DZ,,DZA,Northern Africa,Africa,"095ec4f2-7d7e-11de-9ae2-0019e336be3a",DZ
+countries,North Korea,KP,,PRK,Eastern Asia,Asia,"0f0215a8-7d7e-11de-9ae2-0019e336be3a",KP
+countries,Bulgaria,BG,,BGR,Eastern Europe,Europe,"0a46f524-7d7e-11de-9ae2-0019e336be3a",BG
+countries,San Marino,SM,,SMR,Southern Europe,Europe,15146d88-7d7e-11de-9ae2-0019e336be3a,SM
+countries,Canada,CA,,CAN,Northern America,Americas,"0b2a8a96-7d7e-11de-9ae2-0019e336be3a",CA
+countries,Gibraltar,GI,,GIB,Southern Europe,Europe,10061efe-7d7e-11de-9ae2-0019e336be3a,GI
+countries,Guinea Bissau,GW,,GNB,Western Africa,Africa,11738740-7d7e-11de-9ae2-0019e336be3a,GW
+countries,Mexico,MX,,MEX,Central America,Americas,"0fa9a53e-7d7e-11de-9ae2-0019e336be3a",MX
+countries,Angola,AO,,AGO,Middle Africa,Africa,"098771a4-7d7e-11de-9ae2-0019e336be3a",AO
+countries,Burkina Faso,BF,,BFA,Western Africa,Africa,1420c7f0-7d7e-11de-9ae2-0019e336be3a,BF
+countries,Saint Barthelemy,BL,,BLM,Caribbean,Americas,153e85be-7d7e-11de-9ae2-0019e336be3a,BL
+countries,Mauritania,MR,,MRT,Western Africa,Africa,"0f8e6c2e-7d7e-11de-9ae2-0019e336be3a",MR
+countries,Fiji,FJ,,FJI,Melanesia,Oceania,"0d5bcf64-7d7e-11de-9ae2-0019e336be3a",FJ
+countries,Bouvet Island,BV,,BVT,Northern Europe,Europe,10b7703c-7d7e-11de-9ae2-0019e336be3a,BV
+countries,Svalbard and Jan Mayen,SJ,,SJM,Northern Europe,Europe,152d7e40-7d7e-11de-9ae2-0019e336be3a,SJ
+states,"Canada, Newfoundland and Labrador",,,,,,92618f91-5370-41d9-b5d4-6a9d60b3239f,CA-NF
+states,"Canada, Nova Scotia",,,,,,8cd8dbae-aa08-44b0-be67-6ed7e876cedd,CA-NS
+states,"Canada, Northwest Territories",,,,,,5fb3ee97-3981-4918-b09a-4de1b1fdb517,CA-NT
+states,"Canada, Nunavut",,,,,,1325cfa3-2b0d-487e-8d46-3e66b4b00f85,CA-NU
+states,"Canada, Ontario",,,,,,1d87302d-fd96-4acb-9f9f-d3389ba929b7,CA-ON
+special,Europe without Russia,,,,,,e6a1bb9b-c1f3-49ed-a64b-87d488244ef9,RER w/o RU
+states,"India, Dadra and Nagar Haveli and Daman and Diu",,,,,,,IN-DH
+states,"India, Puducherry",,,,,,f7228566-0785-45da-b946-01f82d277dda,IN-PY
+states,"United States of America, Kentucky",,,,,,761f191a-af54-47b8-8e42-5bed90017b8d,US-KY
+un-subregions,South-Eastern Asia,,,,,,4aff9c9e-88d5-11de-99d3-0019e336be3a,UN-SEASIA
+countries,Eswatini,SZ,,SWZ,Southern Africa,Africa,146af956-7d7e-11de-9ae2-0019e336be3a,SZ
+states,"Brazil, Paraíba",,,,,,717c6f47-2eda-4d1b-8277-83f634ea7c23,BR-PB
+states,"India, Sikkim",,,,,,"01c44dfa-113d-427b-81b9-1d4fde230f93",IN-SK
+states,"Brazil, Rio Grande do Sul",,,,,,2248c6cf-f68d-4dac-85bb-fac7e80064f6,BR-RS
+countries,"Australia, including overseas territories",,,,,,161ff7b5-7ecf-4021-8fff-5def0bf2b27e,"Australia, including overseas territories"
+un-subregions,Latin America and the Caribbean,,,,,,"09db3260-7e2a-11de-9820-0019e336be3a",RLA
+special,"Québec, Hydro-Québec distribution network",,,,,,c231d8f9-39e9-408c-9884-8508b8f9baf7,"Québec, HQ distribution network"
+special,Asia,,,,,,19c7cdd2-e590-11de-9dfe-0019e336be3a,RAS
+states,"Australia, South Australia",,,,,,c2bb7d7f-6242-4b3c-98cd-62b03f7a8be3,AU-SA
+states,"Australia, Tasmania",,,,,,fdb06d13-ea53-4a9a-878b-7489f2bae2f7,AU-TAS
+states,"Australia, Victoria",,,,,,7441e29d-0a88-49fa-8ce4-eeb7f1949f2f,AU-VIC
+states,"Australia, Western Australia",,,,,,"0ae22e97-4563-473f-9209-3221544a097f",AU-WA
+states,"India, Ladakh",,,,,,,IN-LA
+un-subregions,Northern America,,,,,,"0fecb5e8-7e2a-11de-9820-0019e336be3a",RNA
+un-subregions,Central Asia,,,,,,23ccc3fe-88d5-11de-99d3-0019e336be3a,Central Asia
+un-subregions,South America,,,,,,1ae80e7c-e5e3-11de-a739-0019e336be3a,UN-SAMERICA
+special,Canada without Quebec,,,,,,a4d7d7fd-94ae-4f44-91ba-53cd7f79bac4,Canada without Quebec
+special,"Europe, without Russia and Türkiye",,,,,,c670b4a0-6051-4935-bafe-866736a010a9,"Europe, without Russia and Türkiye"
+special,"United States of America, including overseas territories",,,,,,969d69ce-e0b1-452b-8f5a-389a62ed40ff,"United States of America, including overseas territories"
+legacy,Baltic System Operator,,,,,,d4c8443a-d821-11de-b50d-0019e336be3a,BALTSO
+legacy,Central European Power Association,,,,,,fd95ae8c-7e2d-11de-9820-0019e336be3a,CENTREL
+special,Commonwealth of Independent States,,,,,,14a80a4c-7e2a-11de-9820-0019e336be3a,FSU
+countries,Turks and Caicos Islands,TC,,TCA,Caribbean,Americas,15177c76-7d7e-11de-9ae2-0019e336be3a,TC
+countries,Chad,TD,,TCD,Middle Africa,Africa,"0cbbba9c-7d7e-11de-9ae2-0019e336be3a",TD
+countries,Spratly Islands,,,,South-Eastern Asia,Asia,6ba95ea2-6963-4dad-aa26-a5b45785e7f0,Spratly Islands
+countries,Thailand,TH,,THA,South-Eastern Asia,Asia,131dd2ee-7d7e-11de-9ae2-0019e336be3a,TH
+countries,Tajikistan,TJ,,TJK,Central Asia,Asia,13293cec-7d7e-11de-9ae2-0019e336be3a,TJ
+un-subregions,Central America,,,,,,fc467bec-d8f0-11de-b1d3-0019e336be3a,UN-CAMERICA
+electricity,"Brazil, North-eastern grid",,,,,,3ece4ff8-55ae-40b2-baea-0d2bf2034fbf,BR-North-eastern grid
+states,"China, Jilin (吉林)",,,,,,e58a4a8a-ca18-48d8-9023-3628de160e8e,CN-JL
+states,"China, Liaoning (辽宁)",,,,,,13b215dc-598a-480e-98e6-13675076ac78,CN-LN
+states,"China, Ningxia (宁夏回族自治区)",,,,,,9e2f10b3-138f-4320-95a3-ea3853c5fbdd,CN-NX
+states,"China, Qinghai (青海)",,,,,,"06422af3-6431-4f6f-a555-7c0e008bce8b",CN-QH
+states,"China, Shaanxi (陕西)",,,,,,232efb31-1dd5-4d00-87a8-5fa631021c17,CN-SA
+states,"China, Shandong (山东)",,,,,,2b2ddda2-bb8e-42f7-82e5-013cc04f7bc5,CN-SD
+states,"Brazil, Mato Grosso do Sul",,,,,,23baa40a-53e2-4d6c-a61e-a412c2b7aaae,BR-MS
+states,"Brazil, Minas Gerais",,,,,,"00e9e1a4-0cf8-4f07-8bad-fd782ed54382",BR-MG
+states,"Brazil, Pará",,,,,,9a205fd8-72f3-423f-b3a7-6b805aaee30b,BR-PA
+states,"Brazil, Piauí",,,,,,70c9eee0-7dc4-4e2f-8dcc-f6bc4358ead9,BR-PI
+states,"United States of America, Delaware",,,,,,ae2ca200-3008-48a6-b85b-00edb7bf9f34,US-DE
+states,"Canada, Manitoba",,,,,,aae610ca-cdef-4c81-9631-ded55d455444,CA-MB
+states,"Brazil, Rio de Janeiro",,,,,,862723a2-2563-490a-9b7a-7206cb46fcb1,BR-RJ
+states,"Canada, Prince Edward Island",,,,,,b5b34218-bee7-4196-b70c-1b5ad433801a,CA-PE
+states,"India, Chandigarh",,,,,,1b5afe13-e071-4c8a-81b5-68eb8982053f,IN-CH
+states,"India, Chhattisgarh",,,,,,89f88c37-befd-49fa-92ad-35875a6709eb,IN-CT
+states,"India, Delhi",,,,,,de26c625-ae68-4c9e-8fde-a6c33b3dfe14,IN-DL
+states,"Brazil, Acre",,,,,,251a2d08-d031-4589-9318-029ba543abde,BR-AC
+states,"India, Lakshadweep",,,,,,dee052a0-3714-41b6-86c0-79d062704c25,IN-LD
+states,"Brazil, Alagoas",,,,,,4c05bd06-d401-45cd-b594-c1eafa0ef95b,BR-AL
+states,"Brazil, Amapá",,,,,,744e0bff-1149-4c95-bea7-74792bc71a21,BR-AP
+states,"Brazil, Amazonas",,,,,,12e2f855-d67d-492c-b59d-12205eeb79ea,BR-AM
+states,"Brazil, Bahia",,,,,,929f1a52-bb4d-4a86-8439-6b01d8813196,BR-BA
+states,"Brazil, Ceará",,,,,,dc8836a3-1d91-49ed-b4b7-0482f7ec3eaf,BR-CE
+states,"Brazil, Distrito Federal",,,,,,c65371a5-fd9a-4ca9-ae24-c4fde6615445,BR-DF
+states,"Brazil, Espírito Santo",,,,,,5d8ac1db-f842-4688-aba1-673c4f07b1dd,BR-ES
+states,"Brazil, Goiás",,,,,,1a3d1ef6-b2f8-44b8-b51a-c82dec5f769b,BR-GO
+states,"Brazil, Maranhão",,,,,,6eaa35ce-47d2-4c3d-9079-12adc7ffb375,BR-MA
+states,"Brazil, Mato Grosso",,,,,,64441fa1-0151-47ac-b97a-1fd886b90cae,BR-MT
+states,"Brazil, Rio Grande do Norte",,,,,,8cd18b82-fdd2-4cf9-87c8-33e125b675f4,BR-RN
+states,"Brazil, Sergipe",,,,,,17a40e27-7f28-48c3-892d-6121e748ed01,BR-SE
+states,"Brazil, Tocantins",,,,,,54e71d4b-1d1f-473d-91db-15d40c496a6d,BR-TO
+states,"India, Andaman and Nicobar",,,,,,7661383e-998b-4738-b8dc-9e1e60070c8a,IN-AN
+states,"India, Andhra Pradesh",,,,,,888f6bc1-22f6-486b-b2f3-814672df6930,IN-AP
+states,"India, Arunachal Pradesh",,,,,,28388907-7605-469a-b28d-cdc8f963b28b,IN-AR
+states,"India, Assam",,,,,,d0145549-5ad2-4cc6-8e5b-c6ed6223d2db,IN-AS
+states,"India, Bihar",,,,,,5ba6d534-2083-4167-975d-84579c9e5202,IN-BR
+states,"India, Goa",,,,,,567cc8ea-05d0-4d27-a509-89f10e1a280e,IN-GA
+states,"India, Jammu and Kashmir",,,,,,d8cc1385-8b61-4509-8db0-d9cb5fa95725,IN-JK
+states,"India, Manipur",,,,,,d6bf166c-b5aa-45a6-b0e9-7c169d2c7cbc,IN-MN
+countries,Bahrain,BH,,BHR,Western Asia,Asia,"09cf6a0e-7d7e-11de-9ae2-0019e336be3a",BH
+states,"India, Meghalaya",,,,,,10988ebe-8be4-43c6-8451-3273ca12cd47,IN-ML
+countries,Brazil,BR,,BRA,South America,Americas,"0a2c8c66-7d7e-11de-9ae2-0019e336be3a",BR
+states,"India, Mizoram",,,,,,cab4fbd7-e8ae-4ea6-9e74-0e41df667c61,IN-MZ
+countries,Denmark,DK,,DNK,Northern Europe,Europe,"0cf950f0-7d7e-11de-9ae2-0019e336be3a",DK
+countries,Dominica,DM,,DMA,Caribbean,Americas,"0d04edb6-7d7e-11de-9ae2-0019e336be3a",DM
+states,"India, Nagaland",,,,,,df16b2b2-c49e-4560-9b74-cbcbe0a8d281,IN-NL
+countries,Guernsey,GG,,GGY,Northern Europe,Europe,1541988a-7d7e-11de-9ae2-0019e336be3a,GG
+countries,Ghana,GH,,GHA,Western Africa,Africa,"0d95a34c-7d7e-11de-9ae2-0019e336be3a",GH
+countries,Greenland,GL,,GRL,Northern America,Americas,"0dc048d6-7d7e-11de-9ae2-0019e336be3a",GL
+states,"India, Tripura",,,,,,"001c936c-cf14-46dd-a99e-b1ef30f51c96",IN-TR
+states,"United States of America, Connecticut",,,,,,a6ed7d3f-b1a1-4690-8278-852a75a0115e,US-CT
+states,"India, Uttarakhand",,,,,,6859dfd7-168b-4a36-9429-e0e884bff83a,IN-UT
+states,"India, West Bengal",,,,,,77849b53-31ea-4b25-93e5-451909753ad3,IN-WB
+states,"United States of America, Alabama",,,,,,7676497b-9db7-4ec9-9b0f-0eae9df88caf,US-AL
+states,"United States of America, Arizona",,,,,,5cf02fb9-22f3-4f49-9745-9e5bb7756935,US-AZ
+states,"United States of America, Arkansas",,,,,,3af9101d-692a-4f6c-87c5-e43f00714165,US-AR
+states,"United States of America, Colorado",,,,,,a150972e-6242-4692-9e48-0a7e72b5c7f0,US-CO
+states,"United States of America, Indiana",,,,,,4ebadc58-485e-4742-86bb-11b324dfebf4,US-IN
+states,"United States of America, Kansas",,,,,,235c5fdc-360e-42dc-9659-3e812977b3d1,US-KS
+states,"United States of America, Louisiana",,,,,,2ee2dbc5-0095-44a4-bb20-5faa60c17efe,US-LA
+states,"United States of America, Maine",,,,,,"03374b13-9a75-45a0-a630-6f80fbbb0d79",US-ME
+states,"United States of America, Maryland",,,,,,d732da9a-2e3b-4a4e-8324-c0bbe6d42014,US-MD
+states,"United States of America, Nevada",,,,,,7ae6d206-a642-4775-a362-6d941033ce51,US-NV
+states,"United States of America, Massachusetts",,,,,,567d4ce8-81a3-4303-b6b1-7caa97a49680,US-MA
+states,"United States of America, Mississippi",,,,,,224fd156-b734-4ac7-b7b8-a6ad56e8ccec,US-MS
+states,"United States of America, Nebraska",,,,,,53b04726-ffcb-4dc7-97ab-85e7fd150d17,US-NE
+countries,Guadeloupe,GP,,GLP,Caribbean,Americas,14f2285e-7d7e-11de-9ae2-0019e336be3a,GP
+states,"United States of America, New Hampshire",,,,,,32ed4dc7-920a-4fd1-9977-d2237c652bde,US-NH
+states,"United States of America, Rhode Island",,,,,,7f9bc659-76be-4030-b000-742494310a5d,US-RI
+states,"United States of America, South Carolina",,,,,,2d9cae4c-ebc2-4f5f-8ba1-0070559cb32a,US-SC
+states,"United States of America, New Jersey",,,,,,"0a4f62db-9145-46d3-b4b0-7f6ad5dce81c",US-NJ
+states,"United States of America, New Mexico",,,,,,8bf9c359-354b-4334-a329-633004c85d3c,US-NM
+states,"United States of America, New York",,,,,,1d8c3d96-7a65-4a30-8032-9e8e11f63e7c,US-NY
+states,"United States of America, North Carolina",,,,,,bf5150ab-4ff1-479e-91ae-b88a1c2519a7,US-NC
+countries,Guam,GU,,GUM,Micronesia,Oceania,"0e1a52e0-7d7e-11de-9ae2-0019e336be3a",GU
+states,"United States of America, North Dakota",,,,,,57777d57-f253-466e-b1fa-916a1caf586b,US-ND
+states,"United States of America, Utah",,,,,,9a2c77cc-6736-4058-96d0-de5f041b22fc,US-UT
+states,"United States of America, Ohio",,,,,,3c1511cf-4beb-4d40-b2a0-3929d41dad7a,US-OH
+states,"United States of America, Oklahoma",,,,,,382dddce-39d3-40f4-9c5a-775510ec29ef,US-OK
+states,"United States of America, Pennsylvania",,,,,,886e8d1a-613d-4086-ba9f-314a2bff2f40,US-PA
+states,"Australia, Australian Capital Territory",,,,,,96e0124a-b1b0-4303-b26c-44ee5857f3a1,AU-ACT
+states,"United States of America, South Dakota",,,,,,18288eee-911f-4f54-8881-39c0c0b70779,US-SD
+countries,Andorra,AD,,AND,Southern Europe,Europe,10033c48-7d7e-11de-9ae2-0019e336be3a,AD
+countries,United Arab Emirates,AE,,ARE,Western Asia,Asia,14f9e5d0-7d7e-11de-9ae2-0019e336be3a,AE
+states,"United States of America, Tennessee",,,,,,"01fcfa20-03c3-4d3c-ba62-69a60afb5759",US-TN
+states,"United States of America, Texas",,,,,,cc63eb09-90af-4ab4-b81c-0c3c7dec25d0,US-TX
+states,"United States of America, Vermont",,,,,,bfa34abd-72eb-4b5f-aa6c-4a337891eff8,US-VT
+states,"United States of America, Virginia",,,,,,61afcbeb-199e-45b6-9431-a88d74cdc275,US-VA
+states,"United States of America, Washington",,,,,,152b7aad-0b95-4317-be14-c8513a2dff8c,US-WA
+states,"United States of America, West Virginia",,,,,,39f4e9cc-478c-4fc8-847e-d219f7f9f23e,US-WV
+states,"United States of America, Wisconsin",,,,,,60764ee9-9608-433e-a86d-96e993703bc7,US-WI
+states,"United States of America, Wyoming",,,,,,3ba5f7ad-9ae4-4af2-ba30-25bdfdc16295,US-WY
+countries,Armenia,AM,,ARM,Western Asia,Asia,"09818690-7d7e-11de-9ae2-0019e336be3a",AM
+countries,Burundi,BI,,BDI,Eastern Africa,Africa,"0c33b64c-7d7e-11de-9ae2-0019e336be3a",BI
+countries,Benin,BJ,,BEN,Western Africa,Africa,"0a13f5c0-7d7e-11de-9ae2-0019e336be3a",BJ
+countries,Brunei,BN,,BRN,South-Eastern Asia,Asia,"0a4bff9c-7d7e-11de-9ae2-0019e336be3a",BN
+countries,Bhutan,BT,,BTN,Southern Asia,Asia,"0c67c0cc-7d7e-11de-9ae2-0019e336be3a",BT
+countries,Botswana,BW,,BWA,Southern Africa,Africa,12bee8d8-7d7e-11de-9ae2-0019e336be3a,BW
+countries,Belarus,BY,,BLR,Eastern Europe,Europe,"0f405034-7d7e-11de-9ae2-0019e336be3a",BY
+countries,Belize,BZ,,BLZ,Central America,Americas,"09f36814-7d7e-11de-9ae2-0019e336be3a",BZ
+countries,"Congo, Democratic Republic of the",CD,,COD,Middle Africa,Africa,"0c29d73a-7d7e-11de-9ae2-0019e336be3a",CD
+countries,Congo,CG,,COG,Middle Africa,Africa,"0c193b28-7d7e-11de-9ae2-0019e336be3a",CG
+countries,Colombia,CO,,COL,South America,Americas,"0cc6c45a-7d7e-11de-9ae2-0019e336be3a",CO
+countries,Costa Rica,CR,,CRI,Central America,Americas,"0cd04f34-7d7e-11de-9ae2-0019e336be3a",CR
+countries,Cuba,CU,,CUB,Caribbean,Americas,"0ce31d3a-7d7e-11de-9ae2-0019e336be3a",CU
+countries,Cape Verde,CV,,CPV,Western Africa,Africa,"0cec2628-7d7e-11de-9ae2-0019e336be3a",CV
+countries,Hong Kong S.A.R.,HK,,HKG,Eastern Asia,Asia,"0ff7be54-7d7e-11de-9ae2-0019e336be3a",HK
+countries,Honduras,HN,,HND,Central America,Americas,"0e4809f6-7d7e-11de-9ae2-0019e336be3a",HN
+countries,Croatia,HR,,HRV,Southern Europe,Europe,"0e4ef37e-7d7e-11de-9ae2-0019e336be3a",HR
+countries,Cyprus,CY,,CYP,Western Asia,Asia,"0cf40280-7d7e-11de-9ae2-0019e336be3a",CY
+countries,British Indian Ocean Territory,IO,,IOT,Seven seas (open ocean),Africa,10c45112-7d7e-11de-9ae2-0019e336be3a,IO
+countries,Iceland,IS,,ISL,Northern Europe,Europe,"0e5d5856-7d7e-11de-9ae2-0019e336be3a",IS
+special,Canary Islands,,,,,,6a0f08e3-19ed-4748-a62f-f0920f99d65a,Canary Islands
+countries,Djibouti,DJ,,DJI,Eastern Africa,Africa,"0d0167a4-7d7e-11de-9ae2-0019e336be3a",DJ
+countries,Dominican Republic,DO,,DOM,Caribbean,Americas,"0d083d04-7d7e-11de-9ae2-0019e336be3a",DO
+countries,Ecuador,EC,,ECU,South America,Americas,"0d0e72a0-7d7e-11de-9ae2-0019e336be3a",EC
+countries,Jersey,JE,,JEY,Northern Europe,Europe,1544d680-7d7e-11de-9ae2-0019e336be3a,JE
+countries,Western Sahara,EH,,ESH,Northern Africa,Africa,151bdf00-7d7e-11de-9ae2-0019e336be3a,EH
+countries,"Micronesia, Federated States of",FM,,FSM,Micronesia,Oceania,"0d684cbc-7d7e-11de-9ae2-0019e336be3a",FM
+countries,Faroe Islands,FO,,FRO,Northern Europe,Europe,"0fff8e5e-7d7e-11de-9ae2-0019e336be3a",FO
+countries,Grenada,GD,,GRD,Caribbean,Americas,"0d9a9384-7d7e-11de-9ae2-0019e336be3a",GD
+countries,Georgia,GE,,GEO,Western Asia,Asia,"0d8feaa6-7d7e-11de-9ae2-0019e336be3a",GE
+countries,French Guiana,GF,,GUF,South America,Americas,"0d4ac2be-7d7e-11de-9ae2-0019e336be3a",GF
+countries,Gambia,GM,,GMB,Western Africa,Africa,"0d7e9abc-7d7e-11de-9ae2-0019e336be3a",GM
+countries,South Georgia and South Sandwich Islands,GS,,SGS,Seven seas (open ocean),Americas,154830be-7d7e-11de-9ae2-0019e336be3a,GS
+countries,Guatemala,GT,,GTM,Central America,Americas,"0e2fbd60-7d7e-11de-9ae2-0019e336be3a",GT
+countries,Haiti,HT,,HTI,Caribbean,Americas,"0e422e82-7d7e-11de-9ae2-0019e336be3a",HT
+countries,Hungary,HU,,HUN,Eastern Europe,Europe,"0e56bc44-7d7e-11de-9ae2-0019e336be3a",HU
+countries,Kosovo,XK,,"-99",Southern Europe,Europe,ca32e3be-5acc-4486-88cf-731cdff3b9c5,XK
+countries,Jamaica,JM,,JAM,Caribbean,Americas,"0eed3c64-7d7e-11de-9ae2-0019e336be3a",JM
+countries,Israel,IL,,ISR,Western Asia,Asia,"0eb3bcbe-7d7e-11de-9ae2-0019e336be3a",IL
+countries,Jordan,JO,,JOR,Western Asia,Asia,"0ef0fe6c-7d7e-11de-9ae2-0019e336be3a",JO
+countries,Japan,JP,,JPN,Eastern Asia,Asia,"0ed905c8-7d7e-11de-9ae2-0019e336be3a",JP
+countries,Cambodia,KH,,KHM,South-Eastern Asia,Asia,"0c0d5768-7d7e-11de-9ae2-0019e336be3a",KH
+countries,Kiribati,KI,,KIR,Micronesia,Oceania,"0f0882c6-7d7e-11de-9ae2-0019e336be3a",KI
+countries,Saint Kitts and Nevis,KN,,KNA,Caribbean,Americas,12a2ee3a-7d7e-11de-9ae2-0019e336be3a,KN
+countries,Kuwait,KW,,KWT,Western Asia,Asia,"0f16e870-7d7e-11de-9ae2-0019e336be3a",KW
+countries,Cayman Islands,KY,,CYM,Caribbean,Americas,"0cb02330-7d7e-11de-9ae2-0019e336be3a",KY
+countries,Kazakhstan,KZ,,KAZ,Central Asia,Asia,"0f1fdb74-7d7e-11de-9ae2-0019e336be3a",KZ
+countries,Lebanon,LB,,LBN,Western Asia,Asia,"0f35d820-7d7e-11de-9ae2-0019e336be3a",LB
+countries,Saint Lucia,LC,,LCA,Caribbean,Americas,12f2d954-7d7e-11de-9ae2-0019e336be3a,LC
+countries,Liechtenstein,LI,,LIE,Western Europe,Europe,"0f55e480-7d7e-11de-9ae2-0019e336be3a",LI
+countries,Sri Lanka,LK,,LKA,Southern Asia,Asia,"0c13823c-7d7e-11de-9ae2-0019e336be3a",LK
+countries,Liberia,LR,,LBR,Western Africa,Africa,"0f4c70f8-7d7e-11de-9ae2-0019e336be3a",LR
+countries,Lesotho,LS,,LSO,Southern Africa,Africa,12ba54da-7d7e-11de-9ae2-0019e336be3a,LS
+countries,Lithuania,LT,,LTU,Northern Europe,Europe,"0f46d4ea-7d7e-11de-9ae2-0019e336be3a",LT
+countries,Marshall Islands,MH,,MHL,Micronesia,Oceania,15099fa2-7d7e-11de-9ae2-0019e336be3a,MH
+countries,Luxembourg,LU,,LUX,Western Europe,Europe,100cd4b0-7d7e-11de-9ae2-0019e336be3a,LU
+countries,Libya,LY,,LBY,Northern Africa,Africa,"0f59bb46-7d7e-11de-9ae2-0019e336be3a",LY
+countries,Morocco,MA,,MAR,Northern Africa,Africa,"0f848e98-7d7e-11de-9ae2-0019e336be3a",MA
+countries,Monaco,MC,,MCO,Western Europe,Europe,1013310c-7d7e-11de-9ae2-0019e336be3a,MC
+countries,Macao S.A.R.,MO,,MAC,Eastern Asia,Asia,10105c52-7d7e-11de-9ae2-0019e336be3a,MO
+countries,Northern Mariana Islands,MP,,MNP,Micronesia,Oceania,"0ffb63d8-7d7e-11de-9ae2-0019e336be3a",MP
+countries,Montenegro,ME,,MNE,Southern Europe,Europe,101cf458-7d7e-11de-9ae2-0019e336be3a,ME
+countries,Saint Martin,MF,,MAF,Caribbean,Americas,153b614a-7d7e-11de-9ae2-0019e336be3a,MF
+countries,North Macedonia,MK,,MKD,Southern Europe,Europe,"0f78e944-7d7e-11de-9ae2-0019e336be3a",MK
+countries,Mali,ML,,MLI,Western Africa,Africa,"0f7d8030-7d7e-11de-9ae2-0019e336be3a",ML
+countries,Mongolia,MN,,MNG,Eastern Asia,Asia,"0f6c1a98-7d7e-11de-9ae2-0019e336be3a",MN
+countries,Martinique,MQ,,MTQ,Caribbean,Americas,"0f671a66-7d7e-11de-9ae2-0019e336be3a",MQ
+countries,New Caledonia,NC,,NCL,Melanesia,Oceania,"0fdb5bec-7d7e-11de-9ae2-0019e336be3a",NC
+countries,Niger,NE,,NER,Western Africa,Africa,"0fe7b522-7d7e-11de-9ae2-0019e336be3a",NE
+countries,Nigeria,NG,,NGA,Western Africa,Africa,10d6bc3a-7d7e-11de-9ae2-0019e336be3a,NG
+countries,Nicaragua,NI,,NIC,Central America,Americas,111cdba2-7d7e-11de-9ae2-0019e336be3a,NI
+countries,Palestine,PS,,PSE,Western Asia,Asia,1019325a-7d7e-11de-9ae2-0019e336be3a,PS
+countries,Palau,PW,,PLW,Micronesia,Oceania,1505b46e-7d7e-11de-9ae2-0019e336be3a,PW
+countries,Paraguay,PY,,PRY,South America,Americas,11311298-7d7e-11de-9ae2-0019e336be3a,PY
+countries,Seychelles,SC,,SYC,Eastern Africa,Africa,12a65db8-7d7e-11de-9ae2-0019e336be3a,SC
+countries,Sudan,SD,,SDN,Northern Africa,Africa,12f773b0-7d7e-11de-9ae2-0019e336be3a,SD
+countries,Saint Helena,SH,,SHN,Western Africa,Africa,1510fb80-7d7e-11de-9ae2-0019e336be3a,SH
+countries,Slovenia,SI,,SVN,Southern Europe,Europe,12d0bd4c-7d7e-11de-9ae2-0019e336be3a,SI
+countries,El Salvador,SV,,SLV,Central America,Americas,"0d349e44-7d7e-11de-9ae2-0019e336be3a",SV
+countries,Sint Maarten,SX,,SXM,Caribbean,Americas,4c344fd5-a67d-412e-adb4-f3191817011f,SX
+countries,Syria,SY,,SYR,Western Asia,Asia,130d4f28-7d7e-11de-9ae2-0019e336be3a,SY
+countries,French Southern and Antarctic Lands,TF,,ATF,Seven seas (open ocean),Africa,10bb74b6-7d7e-11de-9ae2-0019e336be3a,TF
+countries,East Timor,TL,,TLS,South-Eastern Asia,Asia,14fec0f0-7d7e-11de-9ae2-0019e336be3a,TL
+countries,Togo,TG,,TGO,Western Africa,Africa,1337d22a-7d7e-11de-9ae2-0019e336be3a,TG
+countries,Taiwan,TW,,TWN,Eastern Asia,Asia,154d2934-7d7e-11de-9ae2-0019e336be3a,TW
+countries,Ukraine,UA,,UKR,Eastern Europe,Europe,1387ef8a-7d7e-11de-9ae2-0019e336be3a,UA
+countries,Uganda,UG,,UGA,Eastern Africa,Africa,13685c7e-7d7e-11de-9ae2-0019e336be3a,UG
+countries,United States Minor Outlying Islands,UM,,UMI,Seven seas (open ocean),Oceania,10cadb86-7d7e-11de-9ae2-0019e336be3a,UM
+countries,United States of America,US,,USA,Northern America,Americas,13d387f6-7d7e-11de-9ae2-0019e336be3a,US
+countries,Uruguay,UY,,URY,South America,Americas,14266b60-7d7e-11de-9ae2-0019e336be3a,UY
+countries,Uzbekistan,UZ,,UZB,Central Asia,Asia,142f54c8-7d7e-11de-9ae2-0019e336be3a,UZ
+countries,Vanuatu,VU,,VUT,Melanesia,Oceania,10cf3776-7d7e-11de-9ae2-0019e336be3a,VU
+electricity,"India, Islands",,,,,,4a07e727-a1e5-4079-8433-b1d2b5ed544c,IN-Islands
+electricity,"Brazil, Northern grid",,,,,,572aa631-8a25-4c16-b437-2ee0672c450d,BR-Northern grid
+states,"China, Beijing (北京)",,,,,,a7cf4239-43f5-4256-ae84-e94595cbaac6,CN-BJ
+states,"China, Hainan (海南)",,,,,,dd10b4f5-3c51-4c62-9b32-a111e15e3e52,CN-HA
+states,"China, Tianjin (天津)",,,,,,24c6336b-e160-4d2a-8d25-ac207a66f6c1,CN-TJ
+states,"China, Xinjiang (新疆维吾尔自治区)",,,,,,e8a978ab-a183-4ce7-b791-760190d8a63c,CN-XJ
+states,"China, Xizang (西藏自治区)",,,,,,c079ba9b-dc27-45f0-96b5-a3dd168de8ed,CN-XZ
+states,"China, Yunnan (云南)",,,,,,f41e84aa-2c80-451e-a7ab-594acc1b096d,CN-YN
+states,"China, Zhejiang (浙江)",,,,,,a959ec4b-3db6-4b9f-9ea6-897fbcfdc610,CN-ZJ
+countries,Cyprus No Mans Area,,,,Western Asia,Asia,4aa2a59b-aed0-4438-9db4-960357820659,Cyprus No Mans Area
+countries,Northern Cyprus,,,,Western Asia,Asia,92f428e3-0631-408a-bb78-7cc010f272ca,Northern Cyprus
+countries,Siachen Glacier,,,,Southern Asia,Asia,3dc3c9af-74a3-472e-8af9-070146a3eec9,Siachen Glacier
+countries,Coral Sea Islands,,,,Australia and New Zealand,Oceania,2267ada9-09f7-4fc9-a93f-5b1e0086107e,Coral Sea Islands
+countries,Somaliland,,,,Eastern Africa,Africa,6d7964cb-db0a-4b40-b975-b5d4d6bdb331,Somaliland
+countries,Crimea,,,,Eastern Europe,Europe,5b41a056-f788-430e-8678-523b7f55bf67,Crimea
