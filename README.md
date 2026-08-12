@@ -2,6 +2,8 @@
 
 ## Related publication
 
+If you utilize any portions of the code, results, or draw inspiration for your projects, please reference the published article below.
+
  - Title: Residual biomass to bio-based chemicals and plastics: ex-ante screening methodology for prioritizing high-impact substitutions
  - Authors: [Nicolas LIENART](https://orcid.org/0009-0001-3259-2819), [Thibaut LECOMPTE](https://orcid.org/0000-0001-9237-8454), [Lorie HAMELIN](https://orcid.org/0000-0001-9092-1900) 
  - Journal: Resources, Conservation and Recycling (RCR) - Elsevier
@@ -101,3 +103,9 @@ Get BACI data here: https://www.cepii.fr/DATA_DOWNLOAD/baci/doc/baci_webpage.htm
 
 - Repository link: https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&alphabeticalFilter=D&searchFilter=DS
 - Reporter regions of Prodcom download link: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/codelist/ESTAT/geo?format=TSV
+
+## Licence
+
+This work is licenced under the Creative Commons Attribution (CC-BY 4.0) public licence.
+
+See the licence file: [LICENSE.txt](<LICENSE.txt>)
