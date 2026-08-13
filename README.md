@@ -2,7 +2,7 @@
 
 ## Related publication
 
-If you utilize any portions of the code, results, or draw inspiration for your projects, please reference the published article below.
+If you utilize any portions of the code, results, or draw inspiration for your projects, please give proper credit by citing the published article below.
 
  - Title: Residual biomass to bio-based chemicals and plastics: ex-ante screening methodology for prioritizing high-impact substitutions
  - Authors: [Nicolas LIENART](https://orcid.org/0009-0001-3259-2819), [Thibaut LECOMPTE](https://orcid.org/0000-0001-9237-8454), [Lorie HAMELIN](https://orcid.org/0000-0001-9092-1900) 
