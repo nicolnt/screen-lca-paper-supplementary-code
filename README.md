@@ -104,6 +104,18 @@ Get BACI data here: https://www.cepii.fr/DATA_DOWNLOAD/baci/doc/baci_webpage.htm
 - Repository link: https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&alphabeticalFilter=D&searchFilter=DS
 - Reporter regions of Prodcom download link: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/codelist/ESTAT/geo?format=TSV
 
+### Classification code correspondence
+
+#### Prodcom code ↔ 6-digit Harmonized System (HS) 2022
+
+Get the JSON-LD correspondence file from EU ShowVoc platform: https://showvoc.op.europa.eu/#/datasets/ESTAT_Combined_Nomenclature__2024__CN_2024/unknown/data
+
+(Combined Nomenclature, 2024 (CN 2024)) - "UNKNOWN (ESTAT_Combined_Nomenclature,_2024_(CN_2024))"
+
+Correspondences tab > CN2024_PRODCOM2024 > Download (JSON-LD) and save it to `Prodcom_data/CN2024_PRODCOM2024-export.jsonld`
+
+
+
 ## Licence
 
 This work is licenced under the Creative Commons Attribution (CC-BY 4.0) public licence.
