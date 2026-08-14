@@ -7,6 +7,7 @@ BACI_data/*
 # Files
 Prodcom_data/estat_ds-059358.*
 .env
+**/__pycache__/
 
 output/2026080* - output_exiobase_vpxp2019_*.csv
 ~*
