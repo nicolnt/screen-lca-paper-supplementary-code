@@ -1,17 +1,17 @@
 # Folders
-Exiobase_data/*
+EXIOBASE_data/*
 .vscode
 tmp/*
 BACI_data/*
 
 # Files
-Prodcom_data/estat_ds-059358.*
+PRODCOM_data/estat_ds-059358.*
 .env
 **/__pycache__/
 
-output/2026080* - output_exiobase_vpxp2019_*.csv
+Output_data/2026080* - output_exiobase_vpxp2019_*.csv
 ~*
-output/S.csv
-output/ghg_emissions_extension.csv
-output/20260204 - reorganized annual_series.csv
-output/20260808 - filtered_prodcom_grouped_EU27_2019.csv
+Output_data/S.csv
+Output_data/ghg_emissions_extension.csv
+Output_data/20260204 - reorganized annual_series.csv
+Output_data/20260808 - filtered_prodcom_grouped_EU27_2019.csv

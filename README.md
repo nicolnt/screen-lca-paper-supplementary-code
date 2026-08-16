@@ -15,11 +15,12 @@ If you utilize any portions of the code, results, or draw inspiration for your p
 
 They can be read directly (non-interactively) from Gitlab or Github in there rendered form. Links to notebooks listed in alphabetical order:
 
- - [Calculate product footprints and generate hotspot figure.ipynb](<./Python_notebooks/Calculate product footprints and generate hotspot figure.ipynb>)
- - [Extract Prodcom data.ipynb](<./Python_notebooks/Extract Prodcom data.ipynb>)
+ - [Calculate product footprints and generate hotspot figure.ipynb](<./Python_notebooks/Calculate hotspot products footprints and contributions.ipynb>)
+ - [Calculate sectors footprint with EXIOBASE.ipynb](<./Python_notebooks/Calculate sectors footprint with EXIOBASE.ipynb>)
+ - [Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb](<./Python_notebooks/Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb>)
+ - [Extract PRODCOM data.ipynb](<./Python_notebooks/Extract PRODCOM data.ipynb>)
+ - [Generate main paper hotspot figure 2.ipynb](<./Python_notebooks/Generate main paper hotspot figure 2.ipynb>)
  - [Get product importers from BACI and Ecoinvent geographies.ipynb](<./Python_notebooks/Get product importers from BACI and Ecoinvent geographies.ipynb>)
- - [Prodcom to HS 2022.ipynb](<./Python_notebooks/Prodcom to HS 2022.ipynb>)
- - [Sectors footprint with Exiobase.ipynb](<./Python_notebooks/Sectors footprint with Exiobase.ipynb>)
 
 ## Structure
 
@@ -37,36 +38,37 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 │       └── product_codes_HS22_V202501.csv
 ├── Ecoinvent_data/
 │   └── Ecoinvent all locations - v2.5 - allgeos.csv
-├── Exiobase_data/
+├── EXIOBASE_data/
 │   └── EXIOBASE_v3.10.2/
 │       └── IOT_2022_pxp/
 │           └── (... Extracted Exiobase files)
 ├── Kumu_data/
 │   ├── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.json
 │   └── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.xlsx
-├── Prodcom_data/
+├── PRODCOM_data/
 │   ├── CN2024_PRODCOM2024-export.jsonld
 │   ├── ESTAT_GEO_27.0.tsv
 │   ├── HS classification based on CN2024.csv
 │   ├── ds-059358__custom_19869966_spreadsheet.xlsx
 │   ├── estat_ds-059358.tsv
 ├── Python_notebooks/
-│   ├── Calculate product footprints and generate hotspot figure.ipynb
-│   ├── Extract Prodcom data.ipynb
-│   ├── Get product importers from BACI and Ecoinvent geographies.ipynb
-│   ├── Prodcom to HS 2022.ipynb
-│   └── Sectors footprint with Exiobase.ipynb
-├── py_utils/
+│   ├── Calculate hotspot products footprints and contributions.ipynb
+│   ├── Calculate sectors footprint with EXIOBASE.ipynb
+│   ├── Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb
+│   ├── Extract PRODCOM data.ipynb
+│   ├── Generate main paper hotspot figure 2.ipynb
+│   └── Get product importers from BACI and Ecoinvent geographies.ipynb
+├── Python_utils/
 │   ├── __init__.py
 │   └── ecoinvent_databases.py
-├── output/
-│   └── (... code intermediate and final outputs will go here)
+├── Output_data/
+│   └── (... intermediate and final outputs will go here)
 ├── LICENSE.txt
 ├── README.md
 └── environment.yml
 ```
 
-Some of the files presented here are not included due to licencing or size constraints (e.g., Baci, Exiobase). The user is invited to follow the relevant procedures to obtain them via the official sources ([See "Download missing data"](#Download-missing-data) or links provided in the Python notebooks).
+Some of the files presented here are not included due to licencing or size constraints (e.g., BACI, EXIOBASE). The user is invited to follow the relevant procedures to obtain them via the official sources ([See "Download missing data"](#Download-missing-data) or links provided in the Python notebooks).
 
 ## Setup Repository
 
@@ -98,7 +100,7 @@ Raw JSON and Excel database files are available in the [`Kumu_data/`](<./Kumu_da
 
 ## Download missing data
 
-### Exiobase
+### EXIOBASE
 
 EXIOBASE 3 | Published May 13, 2026 | Version 3.10.2
 Dataset link: https://zenodo.org/records/20051562
@@ -107,22 +109,20 @@ Dataset link: https://zenodo.org/records/20051562
 
 Get BACI data here: https://www.cepii.fr/DATA_DOWNLOAD/baci/doc/baci_webpage.html
 
-### Prodcom
+### PRODCOM
 
 - Repository link: https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&alphabeticalFilter=D&searchFilter=DS
-- Reporter regions of Prodcom download link: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/codelist/ESTAT/geo?format=TSV
+- Reporter regions of PRODCOM download link: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/codelist/ESTAT/geo?format=TSV
 
 ### Classification code correspondence
 
-#### Prodcom code ↔ 6-digit Harmonized System (HS) 2022
+#### PRODCOM code ↔ 6-digit Harmonized System (HS) 2022
 
 Get the JSON-LD correspondence file from EU ShowVoc platform: https://showvoc.op.europa.eu/#/datasets/ESTAT_Combined_Nomenclature__2024__CN_2024/unknown/data
 
 (Combined Nomenclature, 2024 (CN 2024)) - "UNKNOWN (ESTAT_Combined_Nomenclature,_2024_(CN_2024))"
 
 Correspondences tab > CN2024_PRODCOM2024 > Download (JSON-LD) and save it to `Prodcom_data/CN2024_PRODCOM2024-export.jsonld`
-
-
 
 ## Licence
 
