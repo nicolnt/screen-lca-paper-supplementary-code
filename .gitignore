@@ -1,5 +1,5 @@
 # Folders
-EXIOBASE_data/*
+EXIOBASE_data/EXIOBASE_v*
 .vscode
 tmp/*
 BACI_data/*

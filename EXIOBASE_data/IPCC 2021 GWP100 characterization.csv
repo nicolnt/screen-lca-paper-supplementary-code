@@ -1,0 +1,21 @@
+stressor,impact,factor,impact_unit,stressor_unit,comment
+CO2 - combustion - air,climate change: total (excl. biogenic CO2),1,kg CO2-Eq,kg,
+CO2 - agriculture - peat decay - air,climate change: total (excl. biogenic CO2),1,kg CO2-Eq,kg,
+CO2 - non combustion - Cement production - air,climate change: total (excl. biogenic CO2),1,kg CO2-Eq,kg,"Missing in Aguilar-Hernandez, G.A. (2025)"
+CO2 - non combustion - Lime production - air,climate change: total (excl. biogenic CO2),1,kg CO2-Eq,kg,"Missing in Aguilar-Hernandez, G.A. (2025)"
+CO2 - waste - fossil - air,climate change: total (excl. biogenic CO2),1,kg CO2-Eq,kg,"Missing in Aguilar-Hernandez, G.A. (2025)"
+CH4 - agriculture - air,climate change: total (excl. biogenic CO2),27.0,kg CO2-Eq,kg,
+CH4 - combustion - air,climate change: total (excl. biogenic CO2),29.8,kg CO2-Eq,kg,"Erroneous value in Aguilar-Hernandez, G.A. (2025)"
+CH4 - non combustion - Extraction/production of (natural) gas - air,climate change: total (excl. biogenic CO2),29.8,kg CO2-Eq,kg,"Missing in Aguilar-Hernandez, G.A. (2025)"
+CH4 - non combustion - Extraction/production of crude oil - air,climate change: total (excl. biogenic CO2),29.8,kg CO2-Eq,kg,"Missing in Aguilar-Hernandez, G.A. (2025)"
+CH4 - non combustion - Mining of antracite - air,climate change: total (excl. biogenic CO2),29.8,kg CO2-Eq,kg,"Missing in Aguilar-Hernandez, G.A. (2025)"
+CH4 - non combustion - Mining of bituminous coal - air,climate change: total (excl. biogenic CO2),29.8,kg CO2-Eq,kg,"Missing in Aguilar-Hernandez, G.A. (2025)"
+CH4 - non combustion - Mining of coking coal - air,climate change: total (excl. biogenic CO2),29.8,kg CO2-Eq,kg,"Missing in Aguilar-Hernandez, G.A. (2025)"
+CH4 - non combustion - Mining of lignite (brown coal) - air,climate change: total (excl. biogenic CO2),29.8,kg CO2-Eq,kg,"Missing in Aguilar-Hernandez, G.A. (2025)"
+CH4 - non combustion - Mining of sub-bituminous coal - air,climate change: total (excl. biogenic CO2),29.8,kg CO2-Eq,kg,"Missing in Aguilar-Hernandez, G.A. (2025)"
+CH4 - non combustion - Oil refinery - air,climate change: total (excl. biogenic CO2),29.8,kg CO2-Eq,kg,"Missing in Aguilar-Hernandez, G.A. (2025)"
+N2O - combustion - air,climate change: total (excl. biogenic CO2),273.0,kg CO2-Eq,kg,
+N2O - agriculture - air,climate change: total (excl. biogenic CO2),273.0,kg CO2-Eq,kg,
+SF6 - air,climate change: total (excl. biogenic CO2),25200.0,kg CO2-Eq,kg,
+HFC - air,climate change: total (excl. biogenic CO2),1,kg CO2-Eq,kg CO2-eq,In kg CO2-eq from EXIOBASE - as stated in "Exiobase_data\EXIOBASE_v3.9.5\IOT_2019_pxp\air_emissions\unit.txt"
+PFC - air,climate change: total (excl. biogenic CO2),1,kg CO2-Eq,kg CO2-eq,In kg CO2-eq from EXIOBASE - as stated in "Exiobase_data\EXIOBASE_v3.9.5\IOT_2019_pxp\air_emissions\unit.txt"
