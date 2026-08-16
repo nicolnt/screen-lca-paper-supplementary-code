@@ -35,19 +35,23 @@ They can be read directly from Gitlab or Github in there rendered form.
 │       ├── country_codes_V202501.csv
 │       └── product_codes_HS22_V202501.csv
 ├── Ecoinvent_data/
-│   ├── Ecoinvent all locations - v2.5 - allgeos.csv
+│   └── Ecoinvent all locations - v2.5 - allgeos.csv
 ├── Exiobase_data/
-│   └── EXIOBASE_v3.9.5/
+│   └── EXIOBASE_v3.10.2/
 │       └── IOT_2019_pxp/
 │           └── (... Extracted Exiobase files)
 ├── Kumu_data/
 │   ├── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.json
 │   └── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.xlsx
 ├── Prodcom_data/
-│   ├── 20260326 - data input.csv
+│   ├── CN2024_PRODCOM2024-export.jsonld
 │   ├── ESTAT_GEO_27.0.tsv
+│   ├── HS classification based on CN2024.csv
 │   ├── ds-059358__custom_19869966_spreadsheet.xlsx
 │   ├── estat_ds-059358.tsv
+├── py_utils/
+│   ├── __init__.py
+│   └── ecoinvent_databases.py
 ├── output/
 │   └── (... code intermediate and final outputs will go here)
 ├── Calculate product footprints and generate hotspot figure.ipynb
