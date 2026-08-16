@@ -13,12 +13,13 @@ If you utilize any portions of the code, results, or draw inspiration for your p
 
 ## Notebook files
 
-They can be read directly from Gitlab or Github in there rendered form.
+They can be read directly (non-interactively) from Gitlab or Github in there rendered form. Links to notebooks listed in alphabetical order:
 
- - [Sectors footprint with Exiobase.ipynb](<./Sectors footprint with Exiobase.ipynb>)
- - [Extract Prodcom data.ipynb](<./Extract Prodcom data.ipynb>)
- - [Calculate product footprints and generate hotspot figure.ipynb](<./Calculate product footprints and generate hotspot figure.ipynb>)
- - [Get product importers from BACI.ipynb](<./Get product importers from BACI.ipynb>)
+ - [Calculate product footprints and generate hotspot figure.ipynb](<./Python_notebooks/Calculate product footprints and generate hotspot figure.ipynb>)
+ - [Extract Prodcom data.ipynb](<./Python_notebooks/Extract Prodcom data.ipynb>)
+ - [Get product importers from BACI and Ecoinvent geographies.ipynb](<./Python_notebooks/Get product importers from BACI and Ecoinvent geographies.ipynb>)
+ - [Prodcom to HS 2022.ipynb](<./Python_notebooks/Prodcom to HS 2022.ipynb>)
+ - [Sectors footprint with Exiobase.ipynb](<./Python_notebooks/Sectors footprint with Exiobase.ipynb>)
 
 ## Structure
 
@@ -49,16 +50,19 @@ They can be read directly from Gitlab or Github in there rendered form.
 │   ├── HS classification based on CN2024.csv
 │   ├── ds-059358__custom_19869966_spreadsheet.xlsx
 │   ├── estat_ds-059358.tsv
+├── Python_notebooks/
+│   ├── Calculate product footprints and generate hotspot figure.ipynb
+│   ├── Extract Prodcom data.ipynb
+│   ├── Get product importers from BACI and Ecoinvent geographies.ipynb
+│   ├── Prodcom to HS 2022.ipynb
+│   └── Sectors footprint with Exiobase.ipynb
 ├── py_utils/
 │   ├── __init__.py
 │   └── ecoinvent_databases.py
 ├── output/
 │   └── (... code intermediate and final outputs will go here)
-├── Calculate product footprints and generate hotspot figure.ipynb
-├── Extract Prodcom data.ipynb
 ├── LICENSE.txt
 ├── README.md
-├── Sectors footprint with Exiobase.ipynb
 └── environment.yml
 ```
 
