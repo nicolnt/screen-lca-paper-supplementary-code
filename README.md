@@ -38,7 +38,7 @@ They can be read directly from Gitlab or Github in there rendered form.
 │   └── Ecoinvent all locations - v2.5 - allgeos.csv
 ├── Exiobase_data/
 │   └── EXIOBASE_v3.10.2/
-│       └── IOT_2019_pxp/
+│       └── IOT_2022_pxp/
 │           └── (... Extracted Exiobase files)
 ├── Kumu_data/
 │   ├── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.json
