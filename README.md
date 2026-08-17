@@ -15,6 +15,7 @@ If you utilize any portions of the code, results, or draw inspiration for your p
 
 They can be read directly (non-interactively) from Gitlab or Github in there rendered form. Links to notebooks listed in alphabetical order:
 
+ - [Calculate Ecoinvent unit product footprint for sensitivity analysis.ipynb](<./Python_notebooks/Calculate Ecoinvent unit product footprint for sensitivity analysis.ipynb>)
  - [Calculate product footprints and generate hotspot figure.ipynb](<./Python_notebooks/Calculate hotspot products footprints and contributions.ipynb>)
  - [Calculate sectors footprint with EXIOBASE.ipynb](<./Python_notebooks/Calculate sectors footprint with EXIOBASE.ipynb>)
  - [Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb](<./Python_notebooks/Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb>)
@@ -51,6 +52,7 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 │   ├── ds-059358__custom_19869966_spreadsheet.xlsx
 │   └── estat_ds-059358.tsv
 ├── Python_notebooks/
+│   ├── Calculate Ecoinvent unit product footprint for sensitivity analysis.ipynb
 │   ├── Calculate hotspot products footprints and contributions.ipynb
 │   ├── Calculate sectors footprint with EXIOBASE.ipynb
 │   ├── Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb
