@@ -1,14 +1,16 @@
-# Folders
 EXIOBASE_data/EXIOBASE_v*/**
 !EXIOBASE_data/EXIOBASE_v3.10.2/EXIOBASE LICENSE.txt
 .vscode
 tmp/*
 BACI_data/*
 
-# Files
 PRODCOM_data/estat_ds-059358.*
 .env
 **/__pycache__/
+
+# Contain confidential Ecoinvent data
+Output_data/Ecoinvent unit footprints.csv
+Article_data/Ecoinvent data for sensitivity analysis - confidential.xlsx
 
 Output_data/2026080* - output_exiobase_vpxp2019_*.csv
 ~*
