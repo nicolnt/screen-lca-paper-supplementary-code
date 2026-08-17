@@ -49,7 +49,7 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 ├── PRODCOM_data/
 │   ├── CN2024_PRODCOM2024-export.jsonld
 │   ├── ds-059358__custom_19869966_spreadsheet.xlsx
-│   ├── estat_ds-059358.tsv
+│   └── estat_ds-059358.tsv
 ├── Python_notebooks/
 │   ├── Calculate hotspot products footprints and contributions.ipynb
 │   ├── Calculate sectors footprint with EXIOBASE.ipynb
@@ -86,13 +86,13 @@ git clone https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-
 Set up a Python virtual environment that includes all packages required to build the documentation. A [Conda environment file](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) is provided [for convenient setup](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file). The file is located at [``./environment.yml``](environment.yml). You can replace the environment name `lienart_etal_2026-screenlca-paper-si-code`. Install the environment by running from the repository root directory:
 
 ```bash
-conda env create -f 'environment.yml' --name 'lienart_etal_2026-screenlca-paper-si-code'
+conda env create -f 'environment.yml' --name 'Lienart_etal_2026-SCREEN-LCA'
 ```
 
 and activate the environment:
 
 ```bash
-conda activate 'lienart_etal_2026-screenlca-paper-si-code'
+conda activate 'Lienart_etal_2026-SCREEN-LCA'
 ```
 
 ## Kumu database
