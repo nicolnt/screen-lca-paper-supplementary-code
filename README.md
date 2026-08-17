@@ -59,7 +59,7 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 │   └── Get product importers from BACI and Ecoinvent geographies.ipynb
 ├── Python_utils/
 │   ├── __init__.py
-│   └── ecoinvent_databases.py
+│   └── brightway_database.py
 ├── Other_data/
 │   ├── ESTAT_GEO_27.0.tsv
 │   ├── HS classification based on CN2024.csv
