@@ -1,5 +1,6 @@
 # Folders
-EXIOBASE_data/EXIOBASE_v*
+EXIOBASE_data/EXIOBASE_v*/**
+!EXIOBASE_data/EXIOBASE_v3.10.2/EXIOBASE LICENSE.txt
 .vscode
 tmp/*
 BACI_data/*

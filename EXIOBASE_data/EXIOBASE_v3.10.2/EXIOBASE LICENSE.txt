@@ -1,0 +1,43 @@
+EXIOBASE is released under a dual commercial and non-commercial license. Please see the conditions below for details. Feel free to contact us at exiobase-support@googlegroups.com for any clarifications.
+
+****************************************
+Non-commercial, academic use
+****************************************
+
+For non-commercial use, EXIOBASE v3.9.*, v3.10.* and later is released under a customized derivative of the CC-BY-SA-NC license, incorporating additional definitions listed in part (a) and (b), and with database components governed by specific licenses as detailed in part (c). Other than as set out in these additional definitions, the terms of CC-BY-SA-NC license apply to the use of EXIOBASE (See https://creativecommons.org/licenses/by-nc-sa/4.0/ for details).  
+
+(a) Non-commercial use
+This license allows for free non-commercial use by the following types of institutions:  
+	(1) Universities and non-profit research institutes. 
+	(2) Environmental/social focused NGO. 
+	(3) Government bodies and agencies at any level (international, national, regional, or local), including statistics offices, environmental agencies, and other public administrations.
+ 	(4) Organisations wholly owned by one or more public bodies, where the use is for public-interest purposes and not embedded in commercial products or services.
+
+“Non-commercial use” means any use that is not intended to generate financial gain or commercial advantage for the user or any other users. Specifically, it excludes: 
+	(i) Contracted or commissioned activities ('work-for-hire') by the entities listed above; 
+	(ii) Any use intended to generate revenue, including but not limited to consultancy fees or licensing fees, except for grant funding; and 
+	(iii) Any use by for-profit or commercial entities. 
+
+(b) Derivative works and publication
+Derived results can be published under any license provided it includes an attribution to EXIOBASE. Such publication must not include the original or derived coefficients (e.g., direct or full supply chain multipliers, scope 1, 2, 3 emission factors) or any raw data points from the EXIOBASE package.
+Creating derivative works that compete with EXIOBASE by any user (i.e., in the creation of other input-output databases or databases of coefficient/multipliers) is not permitted without prior written permission of the copyright holders. 
+
+(c) Copyright Notice
+EXIOBASE is managed by the EXIOBASE consortium. 
+Copyright holders
+	- MSUT, IOTs, emission data: © 2024, XIO SA AS  
+	- Material extensions: © 2024, Vienna University of Economics and Business (WU) 
+	- The material extensions are released under a CC-BY-SA license instead of the license conditions above.
+
+****************************************
+Commercial use
+****************************************
+
+Commercial licenses, which allow for use for any case not covered in the non-commercial license can be provided. For license inquiries or help in use of EXIOBASE data for spend-based emission factors, or other applications, email exiobase-support@googlegroups.com  
+
+The funding accumulated through any licensing and support is being used to fund updates to the database, and will result in more regular, reliable and precise updates benefiting everyone. 
+
+
+ 
+
+ 

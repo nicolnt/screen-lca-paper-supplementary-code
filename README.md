@@ -27,9 +27,9 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 ```
 .
 ├── Article_data/
-│   ├── Step 2 results from Exiobase data manipulations.xlsx
-│   ├── Step 3 results from Prodcom data manipulations.xlsx
-│   └── Step 4 hotspot figure data.xlsx
+│   ├── Step 2 - EXIOBASE data manipulations.xlsx
+│   ├── Step 3 - PRODCOM data manipulations.xlsx
+│   └── Step 4 - Figure 2 data - Hotspot products.xlsx
 ├── BACI_data/
 │   └── BACI_HS22_V202501/
 │       ├── BACI_HS22_Y2022_V202501.csv
@@ -40,15 +40,14 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 │   └── Ecoinvent all locations - v2.5 - allgeos.csv
 ├── EXIOBASE_data/
 │   └── EXIOBASE_v3.10.2/
-│       └── IOT_2022_pxp/
-│           └── (... Extracted Exiobase files)
+│       ├── IOT_2022_pxp/
+│       │   └── (... Extracted Exiobase files)
+│       └── EXIOBASE LICENSE.txt
 ├── Kumu_data/
 │   ├── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.json
 │   └── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.xlsx
 ├── PRODCOM_data/
 │   ├── CN2024_PRODCOM2024-export.jsonld
-│   ├── ESTAT_GEO_27.0.tsv
-│   ├── HS classification based on CN2024.csv
 │   ├── ds-059358__custom_19869966_spreadsheet.xlsx
 │   ├── estat_ds-059358.tsv
 ├── Python_notebooks/
@@ -61,6 +60,10 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 ├── Python_utils/
 │   ├── __init__.py
 │   └── ecoinvent_databases.py
+├── Other_data/
+│   ├── ESTAT_GEO_27.0.tsv
+│   ├── HS classification based on CN2024.csv
+│   └── IPCC 2021 GWP100 characterization.csv
 ├── Output_data/
 │   └── (... intermediate and final outputs will go here)
 ├── LICENSE.txt
