@@ -11,6 +11,10 @@ If you utilize any portions of the code, results, or draw inspiration for your p
  - Git repository (Forge INRAE): https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code
  - Git repository (GitHub): https://github.com/nicolnt/screen-lca-paper-supplementary-code
 
+### Published version of the repository
+
+In order to access the repository and its files at a state matching exactly with the one used for the published version of the article, the Git tag “v1.0”, standing for “Published version 1.0”, should be used. 
+
 ## Notebook files
 
 They can be read directly (non-interactively) from Gitlab or Github in there rendered form. Links to notebooks listed in alphabetical order:
@@ -28,8 +32,8 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 ```
 .
 ├── Article_data/
-│   ├── Step 2 - EXIOBASE data manipulations.xlsx
-│   ├── Step 3 - PRODCOM data manipulations.xlsx
+│   ├── Step 2 - EXIOBASE results.xlsx
+│   ├── Step 3 - PRODCOM results.xlsx
 │   └── Step 4 - Figure 2 data - Hotspot products.xlsx
 ├── BACI_data/
 │   └── BACI_HS22_V202501/
