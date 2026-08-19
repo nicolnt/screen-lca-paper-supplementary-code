@@ -111,7 +111,7 @@ conda activate 'Lienart_etal_2026-SCREEN-LCA'
 
 Interactive pathway database available at https://kumu.io/nicolas-lienart/screenlca-paper-biobased-pathways
 
-Raw JSON and Excel database files are available in the [`Kumu_data/`](<./Kumu_data/>) directory.
+Raw JSON which can be imported as a new Kumu project, Excel version of the database and the bibliography are available in the [`Kumu_data/`](<./Kumu_data/>) directory.
 
 ## Download missing data
 
