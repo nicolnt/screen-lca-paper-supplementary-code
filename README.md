@@ -11,9 +11,12 @@ If you utilize any portions of the code, results, or draw inspiration for your p
  - Git repository (Forge INRAE): https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code
  - Git repository (GitHub): https://github.com/nicolnt/screen-lca-paper-supplementary-code
 
-### Published version of the repository
+### Access published version of the repository
 
-In order to access the repository and its files at a state matching exactly with the one used for the published version of the article, the Git tag “v1.0”, standing for “Published version 1.0”, should be used. 
+This repository and its content may receive future updates after journal publication. In order to access the repository and its files at a state matching exactly with the one used for the published version of the article, the Git tag “v1.0”, standing for “Published version 1.0”, should be used. 
+
+ - Direct GitHub link: https://github.com/nicolnt/screen-lca-paper-supplementary-code/tree/v1.0
+ - Direct INRAE Forge link: https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code/-/tree/v1.0
 
 ## Notebook files
 
@@ -27,7 +30,7 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
  - [Generate main paper hotspot figure 2.ipynb](<./Python_notebooks/Generate main paper hotspot figure 2.ipynb>)
  - [Get product importers from BACI and Ecoinvent geographies.ipynb](<./Python_notebooks/Get product importers from BACI and Ecoinvent geographies.ipynb>)
 
-## Structure
+## Repository file structure
 
 ```
 .
@@ -36,16 +39,16 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 │   ├── Step 3 - PRODCOM results.xlsx
 │   └── Step 4 - Figure 2 data - Hotspot products.xlsx
 ├── BACI_data/
-│   └── BACI_HS22_V202501/
-│       ├── BACI_HS22_Y2022_V202501.csv
-│       ├── Readme.txt
-│       ├── country_codes_V202501.csv
-│       └── product_codes_HS22_V202501.csv
+│   └── BACI_HS22_V202501/ (not included)
+│       ├── BACI_HS22_Y2022_V202501.csv (not included)
+│       ├── Readme.txt (not included)
+│       ├── country_codes_V202501.csv (not included)
+│       └── product_codes_HS22_V202501.csv (not included)
 ├── Ecoinvent_data/
 │   └── Ecoinvent all locations - v2.5 - allgeos.csv
 ├── EXIOBASE_data/
 │   └── EXIOBASE_v3.10.2/
-│       ├── IOT_2022_pxp/
+│       ├── IOT_2022_pxp/ (not included)
 │       │   └── (... Extracted Exiobase files)
 │       └── EXIOBASE LICENSE.txt
 ├── Kumu_data/
@@ -53,8 +56,9 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 │   └── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.xlsx
 ├── PRODCOM_data/
 │   ├── CN2024_PRODCOM2024-export.jsonld
+│   ├── PRODCOM2024 classification.csv
 │   ├── ds-059358__custom_19869966_spreadsheet.xlsx
-│   └── estat_ds-059358.tsv
+│   └── estat_ds-059358.tsv (not included)
 ├── Python_notebooks/
 │   ├── Calculate Ecoinvent unit product footprint for sensitivity analysis.ipynb
 │   ├── Calculate hotspot products footprints and contributions.ipynb
@@ -86,6 +90,8 @@ Clone this repository:
 ```bash
 git clone https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code/ --depth=1
 ```
+
+Use this link instead if you want to clone from GitHub: https://github.com/nicolnt/screen-lca-paper-supplementary-code/
 
 ## Setup Python Environment
 
