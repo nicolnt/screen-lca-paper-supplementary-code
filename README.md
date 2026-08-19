@@ -129,6 +129,10 @@ Get BACI data here: https://www.cepii.fr/DATA_DOWNLOAD/baci/doc/baci_webpage.htm
 - Repository link: https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&alphabeticalFilter=D&searchFilter=DS
 - Reporter regions of PRODCOM download link: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/codelist/ESTAT/geo?format=TSV
 
+### Ecoinvent
+
+An Ecoinvent licence is required to calculate the products footprints. Instructions are provided in the following notebook on how to load the database: [Calculate product footprints and generate hotspot figure.ipynb](<./Python_notebooks/Calculate hotspot products footprints and contributions.ipynb#Import-some-global-variables-from-file>)
+
 ### Classification code correspondence
 
 #### PRODCOM code ↔ 6-digit Harmonized System (HS) 2022
