@@ -74,8 +74,10 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 │   ├── ESTAT_GEO_27.0.tsv
 │   ├── HS classification based on CN2024.csv
 │   └── IPCC 2021 GWP100 characterization.csv
-├── Output_data/
-│   └── (... intermediate and final outputs will go here)
+├── Output_data/ (... intermediate and final outputs will go here)
+│   ├── EXIOBASE/ (EXIOBASE specific outputs)
+│   ├── Figure 2/ (Hotspot figure 2 SVG outputs)
+│   └── (... other outputs)
 ├── LICENSE.txt
 ├── README.md
 └── environment.yml

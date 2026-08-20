@@ -1,0 +1,604 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1440pt" height="864pt" viewBox="0 0 1440 864" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-08-19T18:31:23.361652</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <path d="M 0 864  L 1440 864  L 1440 0  L 0 0  z " style="fill: #ffffff" id="patch_1" />
+  <g id="axes_1">
+   <path d="M 180 406.08  L 1296 406.08  L 1296 103.68  L 180 103.68  z " style="fill: #ffffff" id="patch_2" />
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="me3bf47ad95" d="M 0 0  L 0 5  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <use ns4:href="#me3bf47ad95" x="221.333333" y="406.08" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="221.333333" y="424.457969" transform="rotate(-0 221.333333 424.457969)" id="text_1">0</text>
+     </g>
+    <g id="xtick_2">
+     <use ns4:href="#me3bf47ad95" x="339.582031" y="406.08" style="stroke: #000000; stroke-width: 0.8" id="line2d_2" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="339.582031" y="424.457969" transform="rotate(-0 339.582031 424.457969)" id="text_2">10</text>
+     </g>
+    <g id="line2d_3">
+      <defs>
+       <path id="m76029fa2d5" d="M 0 0  L 0 2  " style="stroke: #000000; stroke-width: 0.6" />
+      </defs>
+      <use ns4:href="#m76029fa2d5" x="185.858724" y="406.08" style="stroke: #000000; stroke-width: 0.6" />
+      </g>
+    <use ns4:href="#m76029fa2d5" x="197.683594" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_4" />
+      <use ns4:href="#m76029fa2d5" x="209.508464" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_5" />
+      <use ns4:href="#m76029fa2d5" x="233.158203" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_6" />
+      <use ns4:href="#m76029fa2d5" x="244.983073" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_7" />
+      <use ns4:href="#m76029fa2d5" x="256.807943" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_8" />
+      <use ns4:href="#m76029fa2d5" x="268.632812" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_9" />
+      <use ns4:href="#m76029fa2d5" x="280.457682" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_10" />
+      <use ns4:href="#m76029fa2d5" x="292.282552" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_11" />
+      <use ns4:href="#m76029fa2d5" x="304.107422" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_12" />
+      <use ns4:href="#m76029fa2d5" x="315.932292" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_13" />
+      <use ns4:href="#m76029fa2d5" x="327.757161" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_14" />
+      <use ns4:href="#m76029fa2d5" x="351.406901" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_15" />
+      <use ns4:href="#m76029fa2d5" x="363.231771" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_16" />
+      <use ns4:href="#m76029fa2d5" x="375.056641" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_17" />
+      <use ns4:href="#m76029fa2d5" x="386.88151" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_18" />
+      <use ns4:href="#m76029fa2d5" x="398.70638" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_19" />
+      <use ns4:href="#m76029fa2d5" x="410.53125" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_20" />
+      <use ns4:href="#m76029fa2d5" x="422.35612" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_21" />
+      <use ns4:href="#m76029fa2d5" x="434.18099" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_22" />
+      <use ns4:href="#m76029fa2d5" x="446.005859" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_23" />
+      <use ns4:href="#m76029fa2d5" x="457.830729" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_24" />
+      <use ns4:href="#m76029fa2d5" x="469.655599" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_25" />
+      <use ns4:href="#m76029fa2d5" x="481.480469" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_26" />
+      <use ns4:href="#m76029fa2d5" x="493.305338" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_27" />
+      <use ns4:href="#m76029fa2d5" x="505.130208" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_28" />
+      <use ns4:href="#m76029fa2d5" x="516.955078" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_29" />
+      <use ns4:href="#m76029fa2d5" x="528.779948" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_30" />
+      <use ns4:href="#m76029fa2d5" x="540.604818" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_31" />
+      <use ns4:href="#m76029fa2d5" x="552.429687" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_32" />
+      <use ns4:href="#m76029fa2d5" x="564.254557" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_33" />
+      <use ns4:href="#m76029fa2d5" x="576.079427" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_34" />
+      <use ns4:href="#m76029fa2d5" x="587.904297" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_35" />
+      <use ns4:href="#m76029fa2d5" x="599.729167" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_36" />
+      <use ns4:href="#m76029fa2d5" x="611.554036" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_37" />
+      <use ns4:href="#m76029fa2d5" x="623.378906" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_38" />
+      <use ns4:href="#m76029fa2d5" x="635.203776" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_39" />
+      <use ns4:href="#m76029fa2d5" x="647.028646" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_40" />
+      <use ns4:href="#m76029fa2d5" x="658.853515" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_41" />
+      <use ns4:href="#m76029fa2d5" x="670.678385" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_42" />
+      <use ns4:href="#m76029fa2d5" x="682.503255" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_43" />
+      <use ns4:href="#m76029fa2d5" x="694.328125" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_44" />
+      <use ns4:href="#m76029fa2d5" x="706.152995" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_45" />
+      <use ns4:href="#m76029fa2d5" x="717.977864" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_46" />
+      <use ns4:href="#m76029fa2d5" x="729.802734" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_47" />
+      <use ns4:href="#m76029fa2d5" x="741.627604" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_48" />
+      <use ns4:href="#m76029fa2d5" x="753.452474" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_49" />
+      <use ns4:href="#m76029fa2d5" x="765.277344" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_50" />
+      <use ns4:href="#m76029fa2d5" x="777.102213" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_51" />
+      <use ns4:href="#m76029fa2d5" x="788.927083" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_52" />
+      <use ns4:href="#m76029fa2d5" x="800.751953" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_53" />
+      <use ns4:href="#m76029fa2d5" x="812.576823" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_54" />
+      <use ns4:href="#m76029fa2d5" x="824.401693" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_55" />
+      <use ns4:href="#m76029fa2d5" x="836.226562" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_56" />
+      <use ns4:href="#m76029fa2d5" x="848.051432" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_57" />
+      <use ns4:href="#m76029fa2d5" x="859.876302" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_58" />
+      <use ns4:href="#m76029fa2d5" x="871.701172" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_59" />
+      <use ns4:href="#m76029fa2d5" x="883.526041" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_60" />
+      <use ns4:href="#m76029fa2d5" x="895.350911" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_61" />
+      <use ns4:href="#m76029fa2d5" x="907.175781" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_62" />
+      <use ns4:href="#m76029fa2d5" x="919.000651" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_63" />
+      <use ns4:href="#m76029fa2d5" x="930.825521" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_64" />
+      <use ns4:href="#m76029fa2d5" x="942.65039" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_65" />
+      <use ns4:href="#m76029fa2d5" x="954.47526" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_66" />
+      <use ns4:href="#m76029fa2d5" x="966.30013" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_67" />
+      <use ns4:href="#m76029fa2d5" x="978.125" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_68" />
+      <use ns4:href="#m76029fa2d5" x="989.94987" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_69" />
+      <use ns4:href="#m76029fa2d5" x="1001.774739" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_70" />
+      <use ns4:href="#m76029fa2d5" x="1013.599609" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_71" />
+      <use ns4:href="#m76029fa2d5" x="1025.424479" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_72" />
+      <use ns4:href="#m76029fa2d5" x="1037.249349" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_73" />
+      <use ns4:href="#m76029fa2d5" x="1049.074218" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_74" />
+      <use ns4:href="#m76029fa2d5" x="1060.899088" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_75" />
+      <use ns4:href="#m76029fa2d5" x="1072.723958" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_76" />
+      <use ns4:href="#m76029fa2d5" x="1084.548828" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_77" />
+      <use ns4:href="#m76029fa2d5" x="1096.373698" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_78" />
+      <use ns4:href="#m76029fa2d5" x="1108.198567" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_79" />
+      <use ns4:href="#m76029fa2d5" x="1120.023437" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_80" />
+      <use ns4:href="#m76029fa2d5" x="1131.848307" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_81" />
+      <use ns4:href="#m76029fa2d5" x="1143.673177" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_82" />
+      <use ns4:href="#m76029fa2d5" x="1155.498047" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_83" />
+      <use ns4:href="#m76029fa2d5" x="1167.322916" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_84" />
+      <use ns4:href="#m76029fa2d5" x="1179.147786" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_85" />
+      <use ns4:href="#m76029fa2d5" x="1190.972656" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_86" />
+      <use ns4:href="#m76029fa2d5" x="1202.797526" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_87" />
+      <use ns4:href="#m76029fa2d5" x="1214.622396" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_88" />
+      <use ns4:href="#m76029fa2d5" x="1226.447265" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_89" />
+      <use ns4:href="#m76029fa2d5" x="1238.272135" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_90" />
+      <use ns4:href="#m76029fa2d5" x="1250.097005" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_91" />
+      <use ns4:href="#m76029fa2d5" x="1261.921875" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_92" />
+      <use ns4:href="#m76029fa2d5" x="1273.746744" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_93" />
+      <use ns4:href="#m76029fa2d5" x="1285.571614" y="406.08" style="stroke: #000000; stroke-width: 0.6" id="line2d_94" />
+      </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_95">
+      <defs>
+       <path id="m138dc05717" d="M 0 0  L -3.5 0  " style="stroke: #000000; stroke-width: 0.8" />
+      </defs>
+      <use ns4:href="#m138dc05717" x="180" y="394.345242" style="stroke: #000000; stroke-width: 0.8" />
+      </g>
+     <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="399.284227" transform="rotate(-0 173 399.284227)" id="text_3">−1</text>
+     </g>
+    <g id="ytick_2">
+     <use ns4:href="#m138dc05717" x="180" y="370.875727" style="stroke: #000000; stroke-width: 0.8" id="line2d_96" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="375.814711" transform="rotate(-0 173 375.814711)" id="text_4">0</text>
+     </g>
+    <g id="ytick_3">
+     <use ns4:href="#m138dc05717" x="180" y="347.406211" style="stroke: #000000; stroke-width: 0.8" id="line2d_97" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="352.345196" transform="rotate(-0 173 352.345196)" id="text_5">1</text>
+     </g>
+    <g id="ytick_4">
+     <use ns4:href="#m138dc05717" x="180" y="323.936696" style="stroke: #000000; stroke-width: 0.8" id="line2d_98" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="328.87568" transform="rotate(-0 173 328.87568)" id="text_6">2</text>
+     </g>
+    <g id="ytick_5">
+     <use ns4:href="#m138dc05717" x="180" y="300.46718" style="stroke: #000000; stroke-width: 0.8" id="line2d_99" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="305.406164" transform="rotate(-0 173 305.406164)" id="text_7">3</text>
+     </g>
+    <g id="ytick_6">
+     <use ns4:href="#m138dc05717" x="180" y="276.997665" style="stroke: #000000; stroke-width: 0.8" id="line2d_100" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="281.936649" transform="rotate(-0 173 281.936649)" id="text_8">4</text>
+     </g>
+    <g id="ytick_7">
+     <use ns4:href="#m138dc05717" x="180" y="253.528149" style="stroke: #000000; stroke-width: 0.8" id="line2d_101" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="258.467133" transform="rotate(-0 173 258.467133)" id="text_9">5</text>
+     </g>
+    <g id="ytick_8">
+     <use ns4:href="#m138dc05717" x="180" y="230.058633" style="stroke: #000000; stroke-width: 0.8" id="line2d_102" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="234.997618" transform="rotate(-0 173 234.997618)" id="text_10">6</text>
+     </g>
+    <g id="ytick_9">
+     <use ns4:href="#m138dc05717" x="180" y="206.589118" style="stroke: #000000; stroke-width: 0.8" id="line2d_103" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="211.528102" transform="rotate(-0 173 211.528102)" id="text_11">7</text>
+     </g>
+    <g id="ytick_10">
+     <use ns4:href="#m138dc05717" x="180" y="183.119602" style="stroke: #000000; stroke-width: 0.8" id="line2d_104" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="188.058587" transform="rotate(-0 173 188.058587)" id="text_12">8</text>
+     </g>
+    <g id="ytick_11">
+     <use ns4:href="#m138dc05717" x="180" y="159.650087" style="stroke: #000000; stroke-width: 0.8" id="line2d_105" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="164.589071" transform="rotate(-0 173 164.589071)" id="text_13">9</text>
+     </g>
+    <g id="ytick_12">
+     <use ns4:href="#m138dc05717" x="180" y="136.180571" style="stroke: #000000; stroke-width: 0.8" id="line2d_106" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="141.119556" transform="rotate(-0 173 141.119556)" id="text_14">10</text>
+     </g>
+    <g id="ytick_13">
+     <use ns4:href="#m138dc05717" x="180" y="112.711056" style="stroke: #000000; stroke-width: 0.8" id="line2d_107" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="117.65004" transform="rotate(-0 173 117.65004)" id="text_15">11</text>
+     </g>
+    <g id="line2d_108">
+      <defs>
+       <path id="md0e0cfd613" d="M 0 0  L -2 0  " style="stroke: #000000; stroke-width: 0.6" />
+      </defs>
+      <use ns4:href="#md0e0cfd613" x="180" y="406.08" style="stroke: #000000; stroke-width: 0.6" />
+      </g>
+    <use ns4:href="#md0e0cfd613" x="180" y="382.610484" style="stroke: #000000; stroke-width: 0.6" id="line2d_109" />
+      <use ns4:href="#md0e0cfd613" x="180" y="359.140969" style="stroke: #000000; stroke-width: 0.6" id="line2d_110" />
+      <use ns4:href="#md0e0cfd613" x="180" y="335.671453" style="stroke: #000000; stroke-width: 0.6" id="line2d_111" />
+      <use ns4:href="#md0e0cfd613" x="180" y="312.201938" style="stroke: #000000; stroke-width: 0.6" id="line2d_112" />
+      <use ns4:href="#md0e0cfd613" x="180" y="288.732422" style="stroke: #000000; stroke-width: 0.6" id="line2d_113" />
+      <use ns4:href="#md0e0cfd613" x="180" y="265.262907" style="stroke: #000000; stroke-width: 0.6" id="line2d_114" />
+      <use ns4:href="#md0e0cfd613" x="180" y="241.793391" style="stroke: #000000; stroke-width: 0.6" id="line2d_115" />
+      <use ns4:href="#md0e0cfd613" x="180" y="218.323876" style="stroke: #000000; stroke-width: 0.6" id="line2d_116" />
+      <use ns4:href="#md0e0cfd613" x="180" y="194.85436" style="stroke: #000000; stroke-width: 0.6" id="line2d_117" />
+      <use ns4:href="#md0e0cfd613" x="180" y="171.384845" style="stroke: #000000; stroke-width: 0.6" id="line2d_118" />
+      <use ns4:href="#md0e0cfd613" x="180" y="147.915329" style="stroke: #000000; stroke-width: 0.6" id="line2d_119" />
+      <use ns4:href="#md0e0cfd613" x="180" y="124.445814" style="stroke: #000000; stroke-width: 0.6" id="line2d_120" />
+      </g>
+   <path d="M 180 406.08  L 180 103.68  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" id="patch_3" />
+   <path d="M 1296 406.08  L 1296 103.68  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" id="patch_4" />
+   <path d="M 180 406.08  L 1296 406.08  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" id="patch_5" />
+   <path d="M 180 103.68  L 1296 103.68  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" id="patch_6" />
+   <g id="group_bar_eol"><path d="M 221.333333 311.723424  L 414.573031 311.723424  L 414.573031 293.149225  L 221.333333 293.149225  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polyethylene_0" />
+   <path d="M 414.573031 315.918603  L 545.353921 315.918603  L 545.353921 297.344404  L 414.573031 297.344404  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polypropylene_1" />
+   <path d="M 545.353921 326.771459  L 667.593438 326.771459  L 667.593438 308.194612  L 545.353921 308.194612  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Ethylene_2" />
+   <path d="M 667.593438 210.247124  L 708.466593 210.247124  L 708.466593 190.234812  L 667.593438 190.234812  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polystyrene_3" />
+   <path d="M 708.466593 326.578964  L 815.857 326.578964  L 815.857 308.004324  L 708.466593 308.004324  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Propylene_4" />
+   <path d="M 815.857 321.32892  L 889.578868 321.32892  L 889.578868 301.315583  L 815.857 301.315583  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Benzene_5" />
+   <path d="M 889.578868 284.028062  L 939.497803 284.028062  L 939.497803 269.960012  L 889.578868 269.960012  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polyethylene terephthalate_6" />
+   <path d="M 939.497803 313.443924  L 1008.067485 313.443924  L 1008.067485 305.106634  L 939.497803 305.106634  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polyvinyl chloride_7" />
+   <path d="M 1008.067485 290.277284  L 1050.967833 290.277284  L 1050.967833 270.264588  L 1008.067485 270.264588  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Styrene_8" />
+   <path d="M 1050.967833 152.29575  L 1066.119087 152.29575  L 1066.119087 138.884273  L 1050.967833 138.884273  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polyamide -6_9" />
+   <path d="M 1066.119087 312.019522  L 1107.403062 312.019522  L 1107.403062 299.473189  L 1066.119087 299.473189  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Terephthalic acid_10" />
+   <path d="M 1107.403062 306.987457  L 1140.618415 306.987457  L 1140.618415 287.720289  L 1107.403062 287.720289  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Butadiene_11" />
+   <path d="M 1140.618415 177.051373  L 1153.49698 177.051373  L 1153.49698 163.112525  L 1140.618415 163.112525  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polyamide -6,6_12" />
+   <path d="M 1153.49698 351.937362  L 1235.144538 351.937362  L 1235.144538 343.80615  L 1153.49698 343.80615  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Methanol_13" />
+   <path d="M 1235.144538 279.610219  L 1254.666667 279.610219  L 1254.666667 266.15256  L 1235.144538 266.15256  z " clip-path="url(#pa2c0b09ab7)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Propylene oxide_14" />
+   </g><g id="group_annotation_id"><text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="317.953182" y="281.414467" transform="rotate(-0 317.953182 281.414467)" id="annotation_id_Polyethylene_0">Polyethylene</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="479.963476" y="285.609646" transform="rotate(-0 479.963476 285.609646)" id="annotation_id_Polypropylene_1">Polypropylene</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="606.473679" y="296.459854" transform="rotate(-0 606.473679 296.459854)" id="annotation_id_Ethylene_2">Ethylene</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="688.030016" y="178.500054" transform="rotate(-0 688.030016 178.500054)" id="annotation_id_Polystyrene_3">Polystyrene</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="762.161797" y="296.269566" transform="rotate(-0 762.161797 296.269566)" id="annotation_id_Propylene_4">Propylene</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="852.717934" y="289.580825" transform="rotate(-0 852.717934 289.580825)" id="annotation_id_Benzene_5">Benzene</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="914.538335" y="258.225254" transform="rotate(-0 914.538335 258.225254)" id="annotation_id_Polyethylene terephthalate_6">Polyethylene terephthalate</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="973.782644" y="293.371877" transform="rotate(-0 973.782644 293.371877)" id="annotation_id_Polyvinyl chloride_7">Polyvinyl chloride</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1029.517659" y="258.52983" transform="rotate(-0 1029.517659 258.52983)" id="annotation_id_Styrene_8">Styrene</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1058.54346" y="127.149516" transform="rotate(-0 1058.54346 127.149516)" id="annotation_id_Polyamide -6_9">Polyamide -6</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1086.761074" y="287.738431" transform="rotate(-0 1086.761074 287.738431)" id="annotation_id_Terephthalic acid_10">Terephthalic acid</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1124.010739" y="275.985531" transform="rotate(-0 1124.010739 275.985531)" id="annotation_id_Butadiene_11">Butadiene</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1147.057698" y="151.377767" transform="rotate(-0 1147.057698 151.377767)" id="annotation_id_Polyamide -6,6_12">Polyamide -6,6</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1194.320759" y="332.071392" transform="rotate(-0 1194.320759 332.071392)" id="annotation_id_Methanol_13">Methanol</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1244.905602" y="254.417802" transform="rotate(-0 1244.905602 254.417802)" id="annotation_id_Propylene oxide_14">Propylene oxide</text>
+   </g><g id="group_annotation_total"><text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="317.953182" y="332.012476" transform="rotate(-0 317.953182 332.012476)" id="annotation_total_Polyethylene_0">54.1</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="479.963476" y="334.110065" transform="rotate(-0 479.963476 334.110065)" id="annotation_total_Polypropylene_1">34.7</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="606.473679" y="339.535169" transform="rotate(-0 606.473679 339.535169)" id="annotation_total_Ethylene_2">27.6</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="688.030016" y="280.555269" transform="rotate(-0 688.030016 280.555269)" id="annotation_total_Polystyrene_3">26.6</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="762.161797" y="339.440025" transform="rotate(-0 762.161797 339.440025)" id="annotation_total_Propylene_4">24.3</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="852.717934" y="336.095655" transform="rotate(-0 852.717934 336.095655)" id="annotation_total_Benzene_5">18.5</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="914.538335" y="320.417869" transform="rotate(-0 914.538335 320.417869)" id="annotation_total_Polyethylene terephthalate_6">18.2</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="973.782644" y="337.991181" transform="rotate(-0 973.782644 337.991181)" id="annotation_total_Polyvinyl chloride_7">16.3</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1029.517659" y="320.570157" transform="rotate(-0 1029.517659 320.570157)" id="annotation_total_Styrene_8">15.6</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1058.54346" y="254.88" transform="rotate(-0 1058.54346 254.88)" id="annotation_total_Polyamide -6_9">12.7</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1086.761074" y="335.174458" transform="rotate(-0 1086.761074 335.174458)" id="annotation_total_Terephthalic acid_10">10.6</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1124.010739" y="329.298008" transform="rotate(-0 1124.010739 329.298008)" id="annotation_total_Butadiene_11">10.0</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1147.057698" y="266.994126" transform="rotate(-0 1147.057698 266.994126)" id="annotation_total_Polyamide -6,6_12">9.6</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1194.320759" y="357.340938" transform="rotate(-0 1194.320759 357.340938)" id="annotation_total_Methanol_13">8.0</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1244.905602" y="318.514143" transform="rotate(-0 1244.905602 318.514143)" id="annotation_total_Propylene oxide_14">7.4</text>
+   </g><g id="group_bar_local"><path d="M 221.333333 325.135021  L 414.573031 325.135021  L 414.573031 311.723424  L 221.333333 311.723424  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Polyethylene_0" />
+   <path d="M 414.573031 323.372878  L 545.353921 323.372878  L 545.353921 315.918603  L 414.573031 315.918603  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Polypropylene_1" />
+   <path d="M 545.353921 331.820514  L 667.593438 331.820514  L 667.593438 326.771459  L 545.353921 326.771459  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Ethylene_2" />
+   <path d="M 667.593438 223.794631  L 708.466593 223.794631  L 708.466593 210.247124  L 667.593438 210.247124  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Polystyrene_3" />
+   <path d="M 708.466593 328.930607  L 815.857 328.930607  L 815.857 326.578964  L 708.466593 326.578964  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Propylene_4" />
+   <path d="M 815.857 327.012898  L 889.578868 327.012898  L 889.578868 321.32892  L 815.857 321.32892  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Benzene_5" />
+   <path d="M 889.578868 316.56406  L 939.497803 316.56406  L 939.497803 284.028062  L 889.578868 284.028062  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Polyethylene terephthalate_6" />
+   <path d="M 939.497803 319.990936  L 1008.067485 319.990936  L 1008.067485 313.443924  L 939.497803 313.443924  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Polyvinyl chloride_7" />
+   <path d="M 1008.067485 305.720449  L 1050.967833 305.720449  L 1050.967833 290.277284  L 1008.067485 290.277284  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Styrene_8" />
+   <path d="M 1050.967833 179.204995  L 1066.119087 179.204995  L 1066.119087 152.29575  L 1050.967833 152.29575  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Polyamide -6_9" />
+   <path d="M 1066.119087 323.673211  L 1107.403062 323.673211  L 1107.403062 312.019522  L 1066.119087 312.019522  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Terephthalic acid_10" />
+   <path d="M 1107.403062 307.1908  L 1140.618415 307.1908  L 1140.618415 306.987457  L 1107.403062 306.987457  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Butadiene_11" />
+   <path d="M 1140.618415 200.922431  L 1153.49698 200.922431  L 1153.49698 177.051373  L 1140.618415 177.051373  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Polyamide -6,6_12" />
+   <path d="M 1153.49698 368.520319  L 1235.144538 368.520319  L 1235.144538 351.937362  L 1153.49698 351.937362  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Methanol_13" />
+   <path d="M 1235.144538 280.869656  L 1254.666667 280.869656  L 1254.666667 279.610219  L 1235.144538 279.610219  z " clip-path="url(#pa2c0b09ab7)" style="fill: #d8b365; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_local_production_Propylene oxide_14" />
+   </g><g id="group_bar_totalaxes1"><path d="M 221.333333 370.875727  L 414.573031 370.875727  L 414.573031 293.149225  L 221.333333 293.149225  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_1_0" />
+   <path d="M 414.573031 370.875727  L 545.353921 370.875727  L 545.353921 297.344404  L 414.573031 297.344404  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_2_1" />
+   <path d="M 545.353921 370.875727  L 667.593438 370.875727  L 667.593438 308.194612  L 545.353921 308.194612  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_3_2" />
+   <path d="M 667.593438 370.875727  L 708.466593 370.875727  L 708.466593 190.234812  L 667.593438 190.234812  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_4_3" />
+   <path d="M 708.466593 370.875727  L 815.857 370.875727  L 815.857 308.004324  L 708.466593 308.004324  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_5_4" />
+   <path d="M 815.857 370.875727  L 889.578868 370.875727  L 889.578868 301.315583  L 815.857 301.315583  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_6_5" />
+   <path d="M 889.578868 370.875727  L 939.497803 370.875727  L 939.497803 269.960012  L 889.578868 269.960012  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_7_6" />
+   <path d="M 939.497803 370.875727  L 1008.067485 370.875727  L 1008.067485 305.106634  L 939.497803 305.106634  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_8_7" />
+   <path d="M 1008.067485 370.875727  L 1050.967833 370.875727  L 1050.967833 270.264588  L 1008.067485 270.264588  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_9_8" />
+   <path d="M 1050.967833 370.875727  L 1066.119087 370.875727  L 1066.119087 138.884273  L 1050.967833 138.884273  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_10_9" />
+   <path d="M 1066.119087 370.875727  L 1107.403062 370.875727  L 1107.403062 299.473189  L 1066.119087 299.473189  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_11_10" />
+   <path d="M 1107.403062 370.875727  L 1140.618415 370.875727  L 1140.618415 287.720289  L 1107.403062 287.720289  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_12_11" />
+   <path d="M 1140.618415 370.875727  L 1153.49698 370.875727  L 1153.49698 163.112525  L 1140.618415 163.112525  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_13_12" />
+   <path d="M 1153.49698 370.875727  L 1235.144538 370.875727  L 1235.144538 343.80615  L 1153.49698 343.80615  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_14_13" />
+   <path d="M 1235.144538 370.875727  L 1254.666667 370.875727  L 1254.666667 266.15256  L 1235.144538 266.15256  z " clip-path="url(#pa2c0b09ab7)" style="fill: #5ab4ac; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes1_15_14" />
+   </g><g id="group_annotation_quantity"><text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="317.953182" y="394.345242" transform="rotate(-0 317.953182 394.345242)" id="annotation_quantity_Polyethylene_0">16.3</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="479.963476" y="394.345242" transform="rotate(-0 479.963476 394.345242)" id="annotation_quantity_Polypropylene_1">11.1</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="606.473679" y="394.345242" transform="rotate(-0 606.473679 394.345242)" id="annotation_quantity_Ethylene_2">10.3</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="688.030016" y="394.345242" transform="rotate(-0 688.030016 394.345242)" id="annotation_quantity_Polystyrene_3">3.5</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="762.161797" y="394.345242" transform="rotate(-0 762.161797 394.345242)" id="annotation_quantity_Propylene_4">9.1</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="852.717934" y="394.345242" transform="rotate(-0 852.717934 394.345242)" id="annotation_quantity_Benzene_5">6.2</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="914.538335" y="394.345242" transform="rotate(-0 914.538335 394.345242)" id="annotation_quantity_Polyethylene terephthalate_6">4.2</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="973.782644" y="394.345242" transform="rotate(-0 973.782644 394.345242)" id="annotation_quantity_Polyvinyl chloride_7">5.8</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1029.517659" y="394.345242" transform="rotate(-0 1029.517659 394.345242)" id="annotation_quantity_Styrene_8">3.6</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1058.54346" y="394.345242" transform="rotate(-0 1058.54346 394.345242)" id="annotation_quantity_Polyamide -6_9">1.3</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1086.761074" y="394.345242" transform="rotate(-0 1086.761074 394.345242)" id="annotation_quantity_Terephthalic acid_10">3.5</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1124.010739" y="394.345242" transform="rotate(-0 1124.010739 394.345242)" id="annotation_quantity_Butadiene_11">2.8</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1147.057698" y="394.345242" transform="rotate(-0 1147.057698 394.345242)" id="annotation_quantity_Polyamide -6,6_12">1.1</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1194.320759" y="394.345242" transform="rotate(-0 1194.320759 394.345242)" id="annotation_quantity_Methanol_13">6.9</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1244.905602" y="394.345242" transform="rotate(-0 1244.905602 394.345242)" id="annotation_quantity_Propylene oxide_14">1.7</text>
+   </g></g>
+  <g id="axes_2">
+   <path d="M 180 768.96  L 1296 768.96  L 1296 466.56  L 180 466.56  z " style="fill: #ffffff" id="patch_7" />
+   <g id="matplotlib.axis_3">
+    <g id="xtick_95">
+     <use ns4:href="#me3bf47ad95" x="221.333333" y="768.96" style="stroke: #000000; stroke-width: 0.8" id="line2d_121" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="221.333333" y="787.337969" transform="rotate(-0 221.333333 787.337969)" id="text_16">0</text>
+     </g>
+    <g id="xtick_96">
+     <use ns4:href="#me3bf47ad95" x="339.582031" y="768.96" style="stroke: #000000; stroke-width: 0.8" id="line2d_122" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="339.582031" y="787.337969" transform="rotate(-0 339.582031 787.337969)" id="text_17">10</text>
+     </g>
+    <use ns4:href="#m76029fa2d5" x="185.858724" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_123" />
+      <use ns4:href="#m76029fa2d5" x="197.683594" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_124" />
+      <use ns4:href="#m76029fa2d5" x="209.508464" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_125" />
+      <use ns4:href="#m76029fa2d5" x="233.158203" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_126" />
+      <use ns4:href="#m76029fa2d5" x="244.983073" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_127" />
+      <use ns4:href="#m76029fa2d5" x="256.807943" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_128" />
+      <use ns4:href="#m76029fa2d5" x="268.632812" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_129" />
+      <use ns4:href="#m76029fa2d5" x="280.457682" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_130" />
+      <use ns4:href="#m76029fa2d5" x="292.282552" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_131" />
+      <use ns4:href="#m76029fa2d5" x="304.107422" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_132" />
+      <use ns4:href="#m76029fa2d5" x="315.932292" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_133" />
+      <use ns4:href="#m76029fa2d5" x="327.757161" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_134" />
+      <use ns4:href="#m76029fa2d5" x="351.406901" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_135" />
+      <use ns4:href="#m76029fa2d5" x="363.231771" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_136" />
+      <use ns4:href="#m76029fa2d5" x="375.056641" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_137" />
+      <use ns4:href="#m76029fa2d5" x="386.88151" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_138" />
+      <use ns4:href="#m76029fa2d5" x="398.70638" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_139" />
+      <use ns4:href="#m76029fa2d5" x="410.53125" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_140" />
+      <use ns4:href="#m76029fa2d5" x="422.35612" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_141" />
+      <use ns4:href="#m76029fa2d5" x="434.18099" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_142" />
+      <use ns4:href="#m76029fa2d5" x="446.005859" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_143" />
+      <use ns4:href="#m76029fa2d5" x="457.830729" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_144" />
+      <use ns4:href="#m76029fa2d5" x="469.655599" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_145" />
+      <use ns4:href="#m76029fa2d5" x="481.480469" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_146" />
+      <use ns4:href="#m76029fa2d5" x="493.305338" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_147" />
+      <use ns4:href="#m76029fa2d5" x="505.130208" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_148" />
+      <use ns4:href="#m76029fa2d5" x="516.955078" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_149" />
+      <use ns4:href="#m76029fa2d5" x="528.779948" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_150" />
+      <use ns4:href="#m76029fa2d5" x="540.604818" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_151" />
+      <use ns4:href="#m76029fa2d5" x="552.429687" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_152" />
+      <use ns4:href="#m76029fa2d5" x="564.254557" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_153" />
+      <use ns4:href="#m76029fa2d5" x="576.079427" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_154" />
+      <use ns4:href="#m76029fa2d5" x="587.904297" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_155" />
+      <use ns4:href="#m76029fa2d5" x="599.729167" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_156" />
+      <use ns4:href="#m76029fa2d5" x="611.554036" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_157" />
+      <use ns4:href="#m76029fa2d5" x="623.378906" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_158" />
+      <use ns4:href="#m76029fa2d5" x="635.203776" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_159" />
+      <use ns4:href="#m76029fa2d5" x="647.028646" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_160" />
+      <use ns4:href="#m76029fa2d5" x="658.853515" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_161" />
+      <use ns4:href="#m76029fa2d5" x="670.678385" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_162" />
+      <use ns4:href="#m76029fa2d5" x="682.503255" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_163" />
+      <use ns4:href="#m76029fa2d5" x="694.328125" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_164" />
+      <use ns4:href="#m76029fa2d5" x="706.152995" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_165" />
+      <use ns4:href="#m76029fa2d5" x="717.977864" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_166" />
+      <use ns4:href="#m76029fa2d5" x="729.802734" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_167" />
+      <use ns4:href="#m76029fa2d5" x="741.627604" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_168" />
+      <use ns4:href="#m76029fa2d5" x="753.452474" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_169" />
+      <use ns4:href="#m76029fa2d5" x="765.277344" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_170" />
+      <use ns4:href="#m76029fa2d5" x="777.102213" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_171" />
+      <use ns4:href="#m76029fa2d5" x="788.927083" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_172" />
+      <use ns4:href="#m76029fa2d5" x="800.751953" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_173" />
+      <use ns4:href="#m76029fa2d5" x="812.576823" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_174" />
+      <use ns4:href="#m76029fa2d5" x="824.401693" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_175" />
+      <use ns4:href="#m76029fa2d5" x="836.226562" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_176" />
+      <use ns4:href="#m76029fa2d5" x="848.051432" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_177" />
+      <use ns4:href="#m76029fa2d5" x="859.876302" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_178" />
+      <use ns4:href="#m76029fa2d5" x="871.701172" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_179" />
+      <use ns4:href="#m76029fa2d5" x="883.526041" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_180" />
+      <use ns4:href="#m76029fa2d5" x="895.350911" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_181" />
+      <use ns4:href="#m76029fa2d5" x="907.175781" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_182" />
+      <use ns4:href="#m76029fa2d5" x="919.000651" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_183" />
+      <use ns4:href="#m76029fa2d5" x="930.825521" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_184" />
+      <use ns4:href="#m76029fa2d5" x="942.65039" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_185" />
+      <use ns4:href="#m76029fa2d5" x="954.47526" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_186" />
+      <use ns4:href="#m76029fa2d5" x="966.30013" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_187" />
+      <use ns4:href="#m76029fa2d5" x="978.125" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_188" />
+      <use ns4:href="#m76029fa2d5" x="989.94987" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_189" />
+      <use ns4:href="#m76029fa2d5" x="1001.774739" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_190" />
+      <use ns4:href="#m76029fa2d5" x="1013.599609" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_191" />
+      <use ns4:href="#m76029fa2d5" x="1025.424479" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_192" />
+      <use ns4:href="#m76029fa2d5" x="1037.249349" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_193" />
+      <use ns4:href="#m76029fa2d5" x="1049.074218" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_194" />
+      <use ns4:href="#m76029fa2d5" x="1060.899088" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_195" />
+      <use ns4:href="#m76029fa2d5" x="1072.723958" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_196" />
+      <use ns4:href="#m76029fa2d5" x="1084.548828" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_197" />
+      <use ns4:href="#m76029fa2d5" x="1096.373698" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_198" />
+      <use ns4:href="#m76029fa2d5" x="1108.198567" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_199" />
+      <use ns4:href="#m76029fa2d5" x="1120.023437" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_200" />
+      <use ns4:href="#m76029fa2d5" x="1131.848307" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_201" />
+      <use ns4:href="#m76029fa2d5" x="1143.673177" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_202" />
+      <use ns4:href="#m76029fa2d5" x="1155.498047" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_203" />
+      <use ns4:href="#m76029fa2d5" x="1167.322916" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_204" />
+      <use ns4:href="#m76029fa2d5" x="1179.147786" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_205" />
+      <use ns4:href="#m76029fa2d5" x="1190.972656" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_206" />
+      <use ns4:href="#m76029fa2d5" x="1202.797526" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_207" />
+      <use ns4:href="#m76029fa2d5" x="1214.622396" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_208" />
+      <use ns4:href="#m76029fa2d5" x="1226.447265" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_209" />
+      <use ns4:href="#m76029fa2d5" x="1238.272135" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_210" />
+      <use ns4:href="#m76029fa2d5" x="1250.097005" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_211" />
+      <use ns4:href="#m76029fa2d5" x="1261.921875" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_212" />
+      <use ns4:href="#m76029fa2d5" x="1273.746744" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_213" />
+      <use ns4:href="#m76029fa2d5" x="1285.571614" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_214" />
+      </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_27">
+     <use ns4:href="#m138dc05717" x="180" y="757.225242" style="stroke: #000000; stroke-width: 0.8" id="line2d_215" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="762.164227" transform="rotate(-0 173 762.164227)" id="text_18">−1</text>
+     </g>
+    <g id="ytick_28">
+     <use ns4:href="#m138dc05717" x="180" y="733.755727" style="stroke: #000000; stroke-width: 0.8" id="line2d_216" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="738.694711" transform="rotate(-0 173 738.694711)" id="text_19">0</text>
+     </g>
+    <g id="ytick_29">
+     <use ns4:href="#m138dc05717" x="180" y="710.286211" style="stroke: #000000; stroke-width: 0.8" id="line2d_217" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="715.225196" transform="rotate(-0 173 715.225196)" id="text_20">1</text>
+     </g>
+    <g id="ytick_30">
+     <use ns4:href="#m138dc05717" x="180" y="686.816696" style="stroke: #000000; stroke-width: 0.8" id="line2d_218" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="691.75568" transform="rotate(-0 173 691.75568)" id="text_21">2</text>
+     </g>
+    <g id="ytick_31">
+     <use ns4:href="#m138dc05717" x="180" y="663.34718" style="stroke: #000000; stroke-width: 0.8" id="line2d_219" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="668.286164" transform="rotate(-0 173 668.286164)" id="text_22">3</text>
+     </g>
+    <g id="ytick_32">
+     <use ns4:href="#m138dc05717" x="180" y="639.877665" style="stroke: #000000; stroke-width: 0.8" id="line2d_220" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="644.816649" transform="rotate(-0 173 644.816649)" id="text_23">4</text>
+     </g>
+    <g id="ytick_33">
+     <use ns4:href="#m138dc05717" x="180" y="616.408149" style="stroke: #000000; stroke-width: 0.8" id="line2d_221" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="621.347133" transform="rotate(-0 173 621.347133)" id="text_24">5</text>
+     </g>
+    <g id="ytick_34">
+     <use ns4:href="#m138dc05717" x="180" y="592.938633" style="stroke: #000000; stroke-width: 0.8" id="line2d_222" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="597.877618" transform="rotate(-0 173 597.877618)" id="text_25">6</text>
+     </g>
+    <g id="ytick_35">
+     <use ns4:href="#m138dc05717" x="180" y="569.469118" style="stroke: #000000; stroke-width: 0.8" id="line2d_223" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="574.408102" transform="rotate(-0 173 574.408102)" id="text_26">7</text>
+     </g>
+    <g id="ytick_36">
+     <use ns4:href="#m138dc05717" x="180" y="545.999602" style="stroke: #000000; stroke-width: 0.8" id="line2d_224" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="550.938587" transform="rotate(-0 173 550.938587)" id="text_27">8</text>
+     </g>
+    <g id="ytick_37">
+     <use ns4:href="#m138dc05717" x="180" y="522.530087" style="stroke: #000000; stroke-width: 0.8" id="line2d_225" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="527.469071" transform="rotate(-0 173 527.469071)" id="text_28">9</text>
+     </g>
+    <g id="ytick_38">
+     <use ns4:href="#m138dc05717" x="180" y="499.060571" style="stroke: #000000; stroke-width: 0.8" id="line2d_226" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="503.999556" transform="rotate(-0 173 503.999556)" id="text_29">10</text>
+     </g>
+    <g id="ytick_39">
+     <use ns4:href="#m138dc05717" x="180" y="475.591056" style="stroke: #000000; stroke-width: 0.8" id="line2d_227" />
+      <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: end" x="173" y="480.53004" transform="rotate(-0 173 480.53004)" id="text_30">11</text>
+     </g>
+    <use ns4:href="#md0e0cfd613" x="180" y="768.96" style="stroke: #000000; stroke-width: 0.6" id="line2d_228" />
+      <use ns4:href="#md0e0cfd613" x="180" y="745.490484" style="stroke: #000000; stroke-width: 0.6" id="line2d_229" />
+      <use ns4:href="#md0e0cfd613" x="180" y="722.020969" style="stroke: #000000; stroke-width: 0.6" id="line2d_230" />
+      <use ns4:href="#md0e0cfd613" x="180" y="698.551453" style="stroke: #000000; stroke-width: 0.6" id="line2d_231" />
+      <use ns4:href="#md0e0cfd613" x="180" y="675.081938" style="stroke: #000000; stroke-width: 0.6" id="line2d_232" />
+      <use ns4:href="#md0e0cfd613" x="180" y="651.612422" style="stroke: #000000; stroke-width: 0.6" id="line2d_233" />
+      <use ns4:href="#md0e0cfd613" x="180" y="628.142907" style="stroke: #000000; stroke-width: 0.6" id="line2d_234" />
+      <use ns4:href="#md0e0cfd613" x="180" y="604.673391" style="stroke: #000000; stroke-width: 0.6" id="line2d_235" />
+      <use ns4:href="#md0e0cfd613" x="180" y="581.203876" style="stroke: #000000; stroke-width: 0.6" id="line2d_236" />
+      <use ns4:href="#md0e0cfd613" x="180" y="557.73436" style="stroke: #000000; stroke-width: 0.6" id="line2d_237" />
+      <use ns4:href="#md0e0cfd613" x="180" y="534.264845" style="stroke: #000000; stroke-width: 0.6" id="line2d_238" />
+      <use ns4:href="#md0e0cfd613" x="180" y="510.795329" style="stroke: #000000; stroke-width: 0.6" id="line2d_239" />
+      <use ns4:href="#md0e0cfd613" x="180" y="487.325814" style="stroke: #000000; stroke-width: 0.6" id="line2d_240" />
+      </g>
+   <path d="M 180 768.96  L 180 466.56  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" id="patch_8" />
+   <path d="M 1296 768.96  L 1296 466.56  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" id="patch_9" />
+   <path d="M 180 768.96  L 1296 768.96  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" id="patch_10" />
+   <path d="M 180 466.56  L 1296 466.56  " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square" id="patch_11" />
+   <g id="group_bar_eol"><path d="M 221.333333 674.603424  L 414.573031 674.603424  L 414.573031 656.029225  L 221.333333 656.029225  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polyethylene_0" />
+   <path d="M 414.573031 678.798603  L 545.353921 678.798603  L 545.353921 660.224404  L 414.573031 660.224404  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polypropylene_1" />
+   <path d="M 545.353921 689.651459  L 667.593438 689.651459  L 667.593438 671.074612  L 545.353921 671.074612  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Ethylene_2" />
+   <path d="M 667.593438 573.127124  L 708.466593 573.127124  L 708.466593 553.114812  L 667.593438 553.114812  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polystyrene_3" />
+   <path d="M 708.466593 689.458964  L 815.857 689.458964  L 815.857 670.884324  L 708.466593 670.884324  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Propylene_4" />
+   <path d="M 815.857 684.20892  L 889.578868 684.20892  L 889.578868 664.195583  L 815.857 664.195583  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Benzene_5" />
+   <path d="M 889.578868 646.908062  L 939.497803 646.908062  L 939.497803 632.840012  L 889.578868 632.840012  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polyethylene terephthalate_6" />
+   <path d="M 939.497803 676.323924  L 1008.067485 676.323924  L 1008.067485 667.986634  L 939.497803 667.986634  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polyvinyl chloride_7" />
+   <path d="M 1008.067485 653.157284  L 1050.967833 653.157284  L 1050.967833 633.144588  L 1008.067485 633.144588  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Styrene_8" />
+   <path d="M 1050.967833 515.17575  L 1066.119087 515.17575  L 1066.119087 501.764273  L 1050.967833 501.764273  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polyamide -6_9" />
+   <path d="M 1066.119087 674.899522  L 1107.403062 674.899522  L 1107.403062 662.353189  L 1066.119087 662.353189  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Terephthalic acid_10" />
+   <path d="M 1107.403062 669.867457  L 1140.618415 669.867457  L 1140.618415 650.600289  L 1107.403062 650.600289  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Butadiene_11" />
+   <path d="M 1140.618415 539.931373  L 1153.49698 539.931373  L 1153.49698 525.992525  L 1140.618415 525.992525  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Polyamide -6,6_12" />
+   <path d="M 1153.49698 714.817362  L 1235.144538 714.817362  L 1235.144538 706.68615  L 1153.49698 706.68615  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Methanol_13" />
+   <path d="M 1235.144538 642.490219  L 1254.666667 642.490219  L 1254.666667 629.03256  L 1235.144538 629.03256  z " clip-path="url(#pb371a47ab2)" style="fill: url(#hdf0940da51); stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_eol_Propylene oxide_14" />
+   </g><g id="group_annotation_id"><text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="317.953182" y="644.294467" transform="rotate(-0 317.953182 644.294467)" id="annotation_id_Polyethylene_0">1</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="479.963476" y="648.489646" transform="rotate(-0 479.963476 648.489646)" id="annotation_id_Polypropylene_1">2</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="606.473679" y="659.339854" transform="rotate(-0 606.473679 659.339854)" id="annotation_id_Ethylene_2">3</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="688.030016" y="541.380054" transform="rotate(-0 688.030016 541.380054)" id="annotation_id_Polystyrene_3">4</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="762.161797" y="659.149566" transform="rotate(-0 762.161797 659.149566)" id="annotation_id_Propylene_4">5</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="852.717934" y="652.460825" transform="rotate(-0 852.717934 652.460825)" id="annotation_id_Benzene_5">6</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="914.538335" y="621.105254" transform="rotate(-0 914.538335 621.105254)" id="annotation_id_Polyethylene terephthalate_6">7</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="973.782644" y="656.251877" transform="rotate(-0 973.782644 656.251877)" id="annotation_id_Polyvinyl chloride_7">8</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1029.517659" y="621.40983" transform="rotate(-0 1029.517659 621.40983)" id="annotation_id_Styrene_8">9</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1058.54346" y="490.029516" transform="rotate(-0 1058.54346 490.029516)" id="annotation_id_Polyamide -6_9">10</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1086.761074" y="650.618431" transform="rotate(-0 1086.761074 650.618431)" id="annotation_id_Terephthalic acid_10">11</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1124.010739" y="638.865531" transform="rotate(-0 1124.010739 638.865531)" id="annotation_id_Butadiene_11">12</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1147.057698" y="514.257767" transform="rotate(-0 1147.057698 514.257767)" id="annotation_id_Polyamide -6,6_12">13</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1194.320759" y="694.951392" transform="rotate(-0 1194.320759 694.951392)" id="annotation_id_Methanol_13">14</text>
+   <text style="font-size: 13px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="1244.905602" y="617.297802" transform="rotate(-0 1244.905602 617.297802)" id="annotation_id_Propylene oxide_14">15</text>
+   </g><g id="group_bar_methanol"><path d="M 221.333333 689.672038  L 414.573031 689.672038  L 414.573031 687.242409  L 221.333333 687.242409  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Polyethylene_0" />
+   <path d="M 414.573031 688.258678  L 545.353921 688.258678  L 545.353921 688.258678  L 414.573031 688.258678  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Polypropylene_1" />
+   <path d="M 545.353921 689.655622  L 667.593438 689.655622  L 667.593438 689.655622  L 545.353921 689.655622  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Ethylene_2" />
+   <path d="M 667.593438 727.309769  L 708.466593 727.309769  L 708.466593 727.309769  L 667.593438 727.309769  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Polystyrene_3" />
+   <path d="M 708.466593 689.463316  L 815.857 689.463316  L 815.857 689.463316  L 708.466593 689.463316  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Propylene_4" />
+   <path d="M 815.857 733.755727  L 889.578868 733.755727  L 889.578868 733.755727  L 815.857 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Benzene_5" />
+   <path d="M 889.578868 728.681391  L 939.497803 728.681391  L 939.497803 728.681391  L 889.578868 728.681391  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Polyethylene terephthalate_6" />
+   <path d="M 939.497803 714.791161  L 1008.067485 714.791161  L 1008.067485 714.791161  L 939.497803 714.791161  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Polyvinyl chloride_7" />
+   <path d="M 1008.067485 722.037446  L 1050.967833 722.037446  L 1050.967833 721.710446  L 1008.067485 721.710446  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Styrene_8" />
+   <path d="M 1050.967833 733.755727  L 1066.119087 733.755727  L 1066.119087 733.755727  L 1050.967833 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Polyamide -6_9" />
+   <path d="M 1066.119087 733.755727  L 1107.403062 733.755727  L 1107.403062 733.755727  L 1066.119087 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Terephthalic acid_10" />
+   <path d="M 1107.403062 733.755727  L 1140.618415 733.755727  L 1140.618415 733.755727  L 1107.403062 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Butadiene_11" />
+   <path d="M 1140.618415 733.755727  L 1153.49698 733.755727  L 1153.49698 733.755727  L 1140.618415 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Polyamide -6,6_12" />
+   <path d="M 1153.49698 733.755727  L 1235.144538 733.755727  L 1235.144538 715.604183  L 1153.49698 715.604183  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Methanol_13" />
+   <path d="M 1235.144538 706.927869  L 1254.666667 706.927869  L 1254.666667 706.927869  L 1235.144538 706.927869  z " clip-path="url(#pb371a47ab2)" style="fill: #ffff99; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_methanol_Propylene oxide_14" />
+   </g><g id="group_bar_ethylene"><path d="M 221.333333 733.755727  L 414.573031 733.755727  L 414.573031 689.672038  L 221.333333 689.672038  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Polyethylene_0" />
+   <path d="M 414.573031 733.755727  L 545.353921 733.755727  L 545.353921 731.467934  L 414.573031 731.467934  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Polypropylene_1" />
+   <path d="M 545.353921 733.755727  L 667.593438 733.755727  L 667.593438 689.655622  L 545.353921 689.655622  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Ethylene_2" />
+   <path d="M 667.593438 733.755727  L 708.466593 733.755727  L 708.466593 729.228921  L 667.593438 729.228921  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Polystyrene_3" />
+   <path d="M 708.466593 733.755727  L 815.857 733.755727  L 815.857 733.755727  L 708.466593 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Propylene_4" />
+   <path d="M 815.857 733.755727  L 889.578868 733.755727  L 889.578868 733.755727  L 815.857 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Benzene_5" />
+   <path d="M 889.578868 733.755727  L 939.497803 733.755727  L 939.497803 728.681391  L 889.578868 728.681391  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Polyethylene terephthalate_6" />
+   <path d="M 939.497803 733.755727  L 1008.067485 733.755727  L 1008.067485 714.791161  L 939.497803 714.791161  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Polyvinyl chloride_7" />
+   <path d="M 1008.067485 733.755727  L 1050.967833 733.755727  L 1050.967833 725.712774  L 1008.067485 725.712774  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Styrene_8" />
+   <path d="M 1050.967833 733.755727  L 1066.119087 733.755727  L 1066.119087 733.755727  L 1050.967833 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Polyamide -6_9" />
+   <path d="M 1066.119087 733.755727  L 1107.403062 733.755727  L 1107.403062 733.755727  L 1066.119087 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Terephthalic acid_10" />
+   <path d="M 1107.403062 733.755727  L 1140.618415 733.755727  L 1140.618415 733.755727  L 1107.403062 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Butadiene_11" />
+   <path d="M 1140.618415 733.755727  L 1153.49698 733.755727  L 1153.49698 733.755727  L 1140.618415 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Polyamide -6,6_12" />
+   <path d="M 1153.49698 733.755727  L 1235.144538 733.755727  L 1235.144538 733.755727  L 1153.49698 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Methanol_13" />
+   <path d="M 1235.144538 733.755727  L 1254.666667 733.755727  L 1254.666667 731.508915  L 1235.144538 731.508915  z " clip-path="url(#pb371a47ab2)" style="fill: #e7298a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_ethylene_Propylene oxide_14" />
+   </g><g id="group_bar_totalaxes2"><path d="M 221.333333 733.755727  L 414.573031 733.755727  L 414.573031 656.029225  L 221.333333 656.029225  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Polyethylene_0" />
+   <path d="M 414.573031 733.755727  L 545.353921 733.755727  L 545.353921 660.224404  L 414.573031 660.224404  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Polypropylene_1" />
+   <path d="M 545.353921 733.755727  L 667.593438 733.755727  L 667.593438 671.074612  L 545.353921 671.074612  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Ethylene_2" />
+   <path d="M 667.593438 733.755727  L 708.466593 733.755727  L 708.466593 553.114812  L 667.593438 553.114812  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Polystyrene_3" />
+   <path d="M 708.466593 733.755727  L 815.857 733.755727  L 815.857 670.884324  L 708.466593 670.884324  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Propylene_4" />
+   <path d="M 815.857 733.755727  L 889.578868 733.755727  L 889.578868 664.195583  L 815.857 664.195583  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Benzene_5" />
+   <path d="M 889.578868 733.755727  L 939.497803 733.755727  L 939.497803 632.840012  L 889.578868 632.840012  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Polyethylene terephthalate_6" />
+   <path d="M 939.497803 733.755727  L 1008.067485 733.755727  L 1008.067485 667.986634  L 939.497803 667.986634  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Polyvinyl chloride_7" />
+   <path d="M 1008.067485 733.755727  L 1050.967833 733.755727  L 1050.967833 633.144588  L 1008.067485 633.144588  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Styrene_8" />
+   <path d="M 1050.967833 733.755727  L 1066.119087 733.755727  L 1066.119087 501.764273  L 1050.967833 501.764273  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Polyamide -6_9" />
+   <path d="M 1066.119087 733.755727  L 1107.403062 733.755727  L 1107.403062 662.353189  L 1066.119087 662.353189  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Terephthalic acid_10" />
+   <path d="M 1107.403062 733.755727  L 1140.618415 733.755727  L 1140.618415 650.600289  L 1107.403062 650.600289  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Butadiene_11" />
+   <path d="M 1140.618415 733.755727  L 1153.49698 733.755727  L 1153.49698 525.992525  L 1140.618415 525.992525  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Polyamide -6,6_12" />
+   <path d="M 1153.49698 733.755727  L 1235.144538 733.755727  L 1235.144538 706.68615  L 1153.49698 706.68615  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Methanol_13" />
+   <path d="M 1235.144538 733.755727  L 1254.666667 733.755727  L 1254.666667 629.03256  L 1235.144538 629.03256  z " clip-path="url(#pb371a47ab2)" style="fill: #cdcdcd; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_totalaxes2_Propylene oxide_14" />
+   </g><g id="group_bar_propylene"><path d="M 221.333333 689.672038  L 414.573031 689.672038  L 414.573031 689.672038  L 221.333333 689.672038  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Polyethylene_0" />
+   <path d="M 414.573031 731.467934  L 545.353921 731.467934  L 545.353921 688.258678  L 414.573031 688.258678  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Polypropylene_1" />
+   <path d="M 545.353921 689.655622  L 667.593438 689.655622  L 667.593438 689.655622  L 545.353921 689.655622  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Ethylene_2" />
+   <path d="M 667.593438 729.228921  L 708.466593 729.228921  L 708.466593 727.309769  L 667.593438 727.309769  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Polystyrene_3" />
+   <path d="M 708.466593 733.755727  L 815.857 733.755727  L 815.857 689.463316  L 708.466593 689.463316  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Propylene_4" />
+   <path d="M 815.857 733.755727  L 889.578868 733.755727  L 889.578868 733.755727  L 815.857 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Benzene_5" />
+   <path d="M 889.578868 728.681391  L 939.497803 728.681391  L 939.497803 728.681391  L 889.578868 728.681391  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Polyethylene terephthalate_6" />
+   <path d="M 939.497803 714.791161  L 1008.067485 714.791161  L 1008.067485 714.791161  L 939.497803 714.791161  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Polyvinyl chloride_7" />
+   <path d="M 1008.067485 725.712774  L 1050.967833 725.712774  L 1050.967833 722.037446  L 1008.067485 722.037446  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Styrene_8" />
+   <path d="M 1050.967833 733.755727  L 1066.119087 733.755727  L 1066.119087 733.755727  L 1050.967833 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Polyamide -6_9" />
+   <path d="M 1066.119087 733.755727  L 1107.403062 733.755727  L 1107.403062 733.755727  L 1066.119087 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Terephthalic acid_10" />
+   <path d="M 1107.403062 733.755727  L 1140.618415 733.755727  L 1140.618415 733.755727  L 1107.403062 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Butadiene_11" />
+   <path d="M 1140.618415 733.755727  L 1153.49698 733.755727  L 1153.49698 733.755727  L 1140.618415 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Polyamide -6,6_12" />
+   <path d="M 1153.49698 733.755727  L 1235.144538 733.755727  L 1235.144538 733.755727  L 1153.49698 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Methanol_13" />
+   <path d="M 1235.144538 731.508915  L 1254.666667 731.508915  L 1254.666667 706.927869  L 1235.144538 706.927869  z " clip-path="url(#pb371a47ab2)" style="fill: #6a3d9a; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_propylene_Propylene oxide_14" />
+   </g><g id="group_bar_btx"><path d="M 221.333333 687.242409  L 414.573031 687.242409  L 414.573031 687.242409  L 221.333333 687.242409  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Polyethylene_0" />
+   <path d="M 414.573031 688.258678  L 545.353921 688.258678  L 545.353921 688.258678  L 414.573031 688.258678  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Polypropylene_1" />
+   <path d="M 545.353921 689.655622  L 667.593438 689.655622  L 667.593438 689.655622  L 545.353921 689.655622  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Ethylene_2" />
+   <path d="M 667.593438 727.309769  L 708.466593 727.309769  L 708.466593 702.543391  L 667.593438 702.543391  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Polystyrene_3" />
+   <path d="M 708.466593 689.463316  L 815.857 689.463316  L 815.857 689.463316  L 708.466593 689.463316  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Propylene_4" />
+   <path d="M 815.857 733.755727  L 889.578868 733.755727  L 889.578868 684.95013  L 815.857 684.95013  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Benzene_5" />
+   <path d="M 889.578868 728.681391  L 939.497803 728.681391  L 939.497803 696.251637  L 889.578868 696.251637  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Polyethylene terephthalate_6" />
+   <path d="M 939.497803 714.791161  L 1008.067485 714.791161  L 1008.067485 714.791161  L 939.497803 714.791161  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Polyvinyl chloride_7" />
+   <path d="M 1008.067485 721.710446  L 1050.967833 721.710446  L 1050.967833 690.711864  L 1008.067485 690.711864  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Styrene_8" />
+   <path d="M 1050.967833 733.755727  L 1066.119087 733.755727  L 1066.119087 733.755727  L 1050.967833 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Polyamide -6_9" />
+   <path d="M 1066.119087 733.755727  L 1107.403062 733.755727  L 1107.403062 696.527752  L 1066.119087 696.527752  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Terephthalic acid_10" />
+   <path d="M 1107.403062 733.755727  L 1140.618415 733.755727  L 1140.618415 733.755727  L 1107.403062 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Butadiene_11" />
+   <path d="M 1140.618415 733.755727  L 1153.49698 733.755727  L 1153.49698 733.755727  L 1140.618415 733.755727  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Polyamide -6,6_12" />
+   <path d="M 1153.49698 715.604183  L 1235.144538 715.604183  L 1235.144538 715.604183  L 1153.49698 715.604183  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Methanol_13" />
+   <path d="M 1235.144538 706.927869  L 1254.666667 706.927869  L 1254.666667 696.544345  L 1235.144538 696.544345  z " clip-path="url(#pb371a47ab2)" style="fill: #1b9e77; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter" id="bar_btx_Propylene oxide_14" />
+   </g></g>
+ </g>
+ <defs>
+  <clipPath id="pa2c0b09ab7">
+   <rect x="180" y="103.68" width="1116" height="302.4" />
+  </clipPath>
+  <clipPath id="pb371a47ab2">
+   <rect x="180" y="466.56" width="1116" height="302.4" />
+  </clipPath>
+ </defs>
+ <defs>
+  <pattern id="hdf0940da51" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+   <rect x="0" y="0" width="73" height="73" fill="#adb4bc" />
+   <path d="M -36 36  L 36 -36  M -32 40  L 40 -32  M -28 44  L 44 -28  M -24 48  L 48 -24  M -20 52  L 52 -20  M -16 56  L 56 -16  M -12 60  L 60 -12  M -8 64  L 64 -8  M -4 68  L 68 -4  M 0 72  L 72 0  M 4 76  L 76 4  M 8 80  L 80 8  M 12 84  L 84 12  M 16 88  L 88 16  M 20 92  L 92 20  M 24 96  L 96 24  M 28 100  L 100 28  M 32 104  L 104 32  M 36 108  L 108 36  " style="fill: #888a8b; stroke: #888a8b; stroke-width: 3; stroke-linecap: butt; stroke-linejoin: miter" />
+  </pattern>
+ </defs>
+</svg>
