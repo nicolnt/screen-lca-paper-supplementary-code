@@ -8,7 +8,20 @@
   "attributeRelevance": {},
   "attributes": [
     {
-      "_id": "attr-ZXWBV0rL",
+      "_id": "attr-gOpgiQUT",
+      "name": "Available quantity in the EU27 in 2022 (Mt)",
+      "format": "number",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    },
+    {
+      "_id": "attr-VAWW8cdx",
       "name": "Connection Type",
       "format": "string",
       "private": false,
@@ -32,7 +45,7 @@
       "cluster": false
     },
     {
-      "_id": "attr-abPsw6hD",
+      "_id": "attr-9jkgWbVz",
       "name": "Description",
       "format": "text",
       "private": false,
@@ -45,7 +58,7 @@
       "cluster": false
     },
     {
-      "_id": "attr-VCOgsSjI",
+      "_id": "attr-cNau717h",
       "name": "Element Type",
       "format": "string",
       "private": false,
@@ -58,6 +71,32 @@
         "LCA reference",
         "Feedstock"
       ],
+      "sort": false,
+      "cluster": true
+    },
+    {
+      "_id": "attr-ob26prVJ",
+      "name": "HS 2022 codes",
+      "format": "text",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    },
+    {
+      "_id": "attr-dbj2bb3K",
+      "name": "Hotspot rank",
+      "format": "number",
+      "private": false,
+      "limit": 1,
+      "category": "General",
+      "prompt": "none",
+      "locked": false,
+      "values": [],
       "sort": false,
       "cluster": true
     },
@@ -75,7 +114,7 @@
       "cluster": true
     },
     {
-      "_id": "attr-CgMDqx0v",
+      "_id": "attr-h5przXRq",
       "name": "Label",
       "format": "string",
       "private": false,
@@ -88,20 +127,7 @@
       "cluster": false
     },
     {
-      "_id": "attr-3919Lerv",
-      "name": "Long name",
-      "format": "string",
-      "private": false,
-      "limit": 1,
-      "category": "General",
-      "prompt": "autocomplete",
-      "locked": false,
-      "values": [],
-      "sort": false,
-      "cluster": true
-    },
-    {
-      "_id": "attr-QACRhz53",
+      "_id": "attr-Sc7aYqMA",
       "name": "Loop Type",
       "format": "string",
       "private": false,
@@ -122,7 +148,7 @@
     },
     {
       "_id": "attr-ZvGGzkU9",
-      "name": "Maturity",
+      "name": "Maturity score",
       "format": "string",
       "private": false,
       "limit": 1,
@@ -140,7 +166,7 @@
     },
     {
       "_id": "attr-Z4uUhhy7",
-      "name": "Maturity (references)",
+      "name": "Maturity score references",
       "format": "string",
       "private": false,
       "limit": 1,
@@ -152,9 +178,9 @@
       "cluster": true
     },
     {
-      "_id": "attr-dbj2bb3K",
-      "name": "Priority code",
-      "format": "number",
+      "_id": "attr-Ux7IQJhC",
+      "name": "PRODCOM classification",
+      "format": "text",
       "private": false,
       "limit": 1,
       "category": "General",
@@ -166,7 +192,7 @@
     },
     {
       "_id": "attr-8pKXk3oK",
-      "name": "References",
+      "name": "Process references",
       "format": "string",
       "private": false,
       "limit": 1,
@@ -178,11 +204,24 @@
       "cluster": true
     },
     {
-      "_id": "attr-h8OxPm2L",
+      "_id": "attr-9CzCCixF",
       "name": "Tags",
       "format": "string",
       "private": false,
       "limit": "none",
+      "category": "General",
+      "prompt": "autocomplete",
+      "locked": false,
+      "values": [],
+      "sort": false,
+      "cluster": true
+    },
+    {
+      "_id": "attr-LFiOPObH",
+      "name": "Total GHG footprint with end-of-life of the available quantity in the EU27 in 2022 (GWP100, Mt CO2-eq)",
+      "format": "number",
+      "private": false,
+      "limit": 1,
       "category": "General",
       "prompt": "autocomplete",
       "locked": false,
@@ -197,9 +236,9 @@
       "attributes": {
         "label": "Alkoxylation of alkylene oxide monomers - Copolymerization of Propylene oxide and Ethylene oxide (EO)",
         "element type": "Process",
-        "references": "(Akindoyo et al., 2016; Li et al., 2015)",
-        "maturity (references)": "(Akindoyo et al., 2016)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Akindoyo et al., 2016)",
+        "process references": "(Akindoyo et al., 2016; Li et al., 2015)"
       }
     },
     {
@@ -226,8 +265,11 @@
       "_id": "elem-0NWewBNh",
       "attributes": {
         "label": "Bisphenol A (BPA)",
-        "priority code": 49,
-        "long name": "4,4-Isopropylidenediphenol (bisphenol A; diphenylolpropane) and its salts"
+        "hotspot rank": 47,
+        "hs 2022 codes": " - 290723",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 1.2235594790336126,
+        "prodcom classification": " - 20.14.24.33 4,4-Isopropylidenediphenol (bisphenol A; diphenylolpropane) and its salts",
+        "available quantity in the eu27 in 2022 (mt)": 0.258032226
       }
     },
     {
@@ -242,9 +284,9 @@
       "attributes": {
         "label": "Fermentation to propylene",
         "element type": "Process",
-        "references": "(IEA Bioenergy, 2020; Clark et al., 2015)",
-        "maturity": "Low",
-        "maturity (references)": "(IEA Bioenergy, 2020; Clark et al., 2015)"
+        "maturity score": "Low",
+        "maturity score references": "(IEA Bioenergy, 2020; Clark et al., 2015)",
+        "process references": "(IEA Bioenergy, 2020; Clark et al., 2015)"
       }
     },
     {
@@ -252,9 +294,9 @@
       "attributes": {
         "label": "Fermentation to Propan-2-ol (isopropyl alcohol)",
         "element type": "Process",
-        "references": "(IEA Bioenergy, 2020)",
-        "maturity": "Medium",
-        "maturity (references)": "(de Jong et al., 2012)"
+        "maturity score": "Medium",
+        "maturity score references": "(de Jong et al., 2012)",
+        "process references": "(IEA Bioenergy, 2020)"
       }
     },
     {
@@ -274,9 +316,9 @@
       "attributes": {
         "label": "Dehydration of ethanol",
         "element type": "Process",
-        "references": "(Clark et al., 2015; Siracusa and Blanco, 2020; IEA Bioenergy, 2020)",
-        "maturity": "High",
-        "maturity (references)": "(IEA Bioenergy, 2020; de Jong et al., 2012)"
+        "maturity score": "High",
+        "maturity score references": "(IEA Bioenergy, 2020; de Jong et al., 2012)",
+        "process references": "(Clark et al., 2015; Siracusa and Blanco, 2020; IEA Bioenergy, 2020)"
       }
     },
     {
@@ -284,17 +326,17 @@
       "attributes": {
         "label": "Catalytic hydrogenolysis of sugar to MEG",
         "element type": "Process",
-        "references": "(Wong et al., 2023)",
-        "maturity": "Medium",
-        "description": "(Wong et al., 2023, p. 2) ([pdf](zotero://open-pdf/library/items/YT482ANA?page=2&annotation=IRY4X34I))\n\nGlucose (Wong et al., 2023)"
+        "description": "(Wong et al., 2023, p. 2) ([pdf](zotero://open-pdf/library/items/YT482ANA?page=2&annotation=IRY4X34I))\n\nGlucose (Wong et al., 2023)",
+        "maturity score": "Medium",
+        "process references": "(Wong et al., 2023)"
       }
     },
     {
       "_id": "elem-1zH9ijjB",
       "attributes": {
         "label": "Glucose to Glucaric acids",
-        "references": "(Lee et al, 2022)",
-        "element type": "Process"
+        "element type": "Process",
+        "process references": "(Lee et al, 2022)"
       }
     },
     {
@@ -302,16 +344,15 @@
       "attributes": {
         "label": "Biosynthesis of ethylene",
         "element type": "Process",
-        "maturity": "Low",
-        "maturity (references)": "(Zacharopoulou and Lemonidou, 2018)"
+        "maturity score": "Low",
+        "maturity score references": "(Zacharopoulou and Lemonidou, 2018)"
       }
     },
     {
       "_id": "elem-2GMYvubo",
       "attributes": {
         "label": "Polyurethanes (PUR)",
-        "priority": "",
-        "long name": "Polyurethanes, in primary forms"
+        "priority": ""
       }
     },
     {
@@ -324,18 +365,17 @@
       "_id": "elem-34SiPjWA",
       "attributes": {
         "label": "Esters of ortho-Phthalic acids",
-        "priority": "",
-        "long name": "Esters of orthophthalic acid"
+        "priority": ""
       }
     },
     {
       "_id": "elem-3DGhaVcH",
       "attributes": {
         "label": "Cellulosic fermentation",
-        "references": "(Devi et al., 2021; Toor et al., 2020; Broda et al., 2022; Tse et al., 2021)",
-        "maturity": "High",
-        "maturity (references)": "(Dos Santos et al., 2016)",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "High",
+        "maturity score references": "(Dos Santos et al., 2016)",
+        "process references": "(Devi et al., 2021; Toor et al., 2020; Broda et al., 2022; Tse et al., 2021)"
       }
     },
     {
@@ -343,9 +383,9 @@
       "attributes": {
         "label": "Methanol partial oxidation to formaldehyde",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Franz et al., 2016)",
-        "references": "(Franz et al., 2016)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Franz et al., 2016)",
+        "process references": "(Franz et al., 2016)"
       }
     },
     {
@@ -365,17 +405,20 @@
       "_id": "elem-4PHT58sr",
       "attributes": {
         "label": "Propan-2-ol (isopropyl alcohol) (propanol)",
-        "priority code": 37,
-        "long name": "Propan-1-ol (propyl alcohol) and propan-2-ol (isopropyl alcohol)"
+        "hotspot rank": 39,
+        "hs 2022 codes": " - 290512",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.013266871123512,
+        "prodcom classification": " - 20.14.22.20 Propan-1-ol (propyl alcohol) and propan-2-ol (isopropyl alcohol)",
+        "available quantity in the eu27 in 2022 (mt)": 0.667347651
       }
     },
     {
       "_id": "elem-4Q7jnsDP",
       "attributes": {
         "label": "Bioenergy with Carbon Capture and Storage (BECCS)",
-        "maturity": "Medium",
         "element type": "Process",
-        "maturity (references)": "(Minx et al., 2018)"
+        "maturity score": "Medium",
+        "maturity score references": "(Minx et al., 2018)"
       }
     },
     {
@@ -383,9 +426,9 @@
       "attributes": {
         "label": "Oxidation of acetaldehyde",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Held et al., 2000)",
-        "references": "(Held et al., 2000)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Held et al., 2000)",
+        "process references": "(Held et al., 2000)"
       }
     },
     {
@@ -393,8 +436,8 @@
       "attributes": {
         "label": "Hydrothermal pretreatment",
         "element type": "Process",
-        "maturity (references)": "(Vu et al., 2020)",
-        "maturity": "Medium"
+        "maturity score": "Medium",
+        "maturity score references": "(Vu et al., 2020)"
       }
     },
     {
@@ -402,17 +445,20 @@
       "attributes": {
         "label": "Hydration of Propylene oxide",
         "element type": "Process",
-        "references": "(Główka and Krawczyk, 2023)",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Główka and Krawczyk, 2023)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Główka and Krawczyk, 2023)",
+        "process references": "(Główka and Krawczyk, 2023)"
       }
     },
     {
       "_id": "elem-59DD7j8Y",
       "attributes": {
         "label": "Acetic acid",
-        "priority code": 25,
-        "long name": "Acetic acid"
+        "hotspot rank": 31,
+        "hs 2022 codes": " - 291521",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.6270757781319314,
+        "prodcom classification": " - 20.14.32.71 Acetic acid",
+        "available quantity in the eu27 in 2022 (mt)": 0.888564975
       }
     },
     {
@@ -425,8 +471,11 @@
       "_id": "elem-5N7Mhw35",
       "attributes": {
         "label": "Polystyrene",
-        "priority code": 3,
-        "long name": "Polystyrene"
+        "hotspot rank": 4,
+        "hs 2022 codes": " - 390311\n - 390319",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 26.604419767857213,
+        "prodcom classification": " - 20.16.20.35 Expansible polystyrene, in primary forms\n - 20.16.20.39 Polystyrene, in primary forms (excluding expansible polystyrene)",
+        "available quantity in the eu27 in 2022 (mt)": 3.456541636
       }
     },
     {
@@ -434,8 +483,8 @@
       "attributes": {
         "label": "Direct synthesis of isoprene",
         "element type": "Process",
-        "maturity": "Low",
-        "references": "(Wang et al., 2020)"
+        "maturity score": "Low",
+        "process references": "(Wang et al., 2020)"
       }
     },
     {
@@ -455,8 +504,11 @@
       "_id": "elem-6rA46yVJ",
       "attributes": {
         "label": "Adipic acids",
-        "priority code": 17,
-        "long name": "Adipic acid; its salts and esters"
+        "hotspot rank": 16,
+        "hs 2022 codes": " - 291712",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 6.491796916970005,
+        "prodcom classification": " - 20.14.33.85 Adipic acid; its salts and esters",
+        "available quantity in the eu27 in 2022 (mt)": 0.667655569
       }
     },
     {
@@ -464,9 +516,9 @@
       "attributes": {
         "label": "Deshydrohalogenation of chlorhydrin from propylene addition with Chlorine",
         "element type": "Process",
-        "references": "(Główka and Krawczyk, 2023)",
-        "maturity (references)": "(Główka and Krawczyk, 2023)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Główka and Krawczyk, 2023)",
+        "process references": "(Główka and Krawczyk, 2023)"
       }
     },
     {
@@ -474,27 +526,27 @@
       "attributes": {
         "label": "Alkylation of Benzene with Ethylene",
         "element type": "Process",
-        "references": "(Welch et al., 2005)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "process references": "(Welch et al., 2005)"
       }
     },
     {
       "_id": "elem-7Nlccokg",
       "attributes": {
         "label": "Condensation polymerization to PET",
-        "references": "(Rosenboom et al, 2022; Mori, 2023; Gubbels et al., 2018; Sattler and Schweizer, 2011)",
-        "maturity": "Fully mature",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "Fully mature",
+        "process references": "(Rosenboom et al, 2022; Mori, 2023; Gubbels et al., 2018; Sattler and Schweizer, 2011)"
       }
     },
     {
       "_id": "elem-7OWZa2j0",
       "attributes": {
         "label": "Catalytic  hydrogenation of adiponitrile (ADN)",
-        "references": "(Dros et al., 2015)",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Dros et al., 2015)",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "Fully mature",
+        "maturity score references": "(Dros et al., 2015)",
+        "process references": "(Dros et al., 2015)"
       }
     },
     {
@@ -502,7 +554,7 @@
       "attributes": {
         "label": "chlorination of Ethylene",
         "element type": "Process",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature"
       }
     },
     {
@@ -510,9 +562,9 @@
       "attributes": {
         "label": "Enzymatic saccharification of hemicellulose",
         "element type": "Process",
-        "maturity": "Medium",
-        "maturity (references)": "(Singh et al., 2022)",
-        "references": "(Toor et al., 2020; Tse et al., 2021; Periyasamy et al, 2022)"
+        "maturity score": "Medium",
+        "maturity score references": "(Singh et al., 2022)",
+        "process references": "(Toor et al., 2020; Tse et al., 2021; Periyasamy et al, 2022)"
       }
     },
     {
@@ -520,9 +572,9 @@
       "attributes": {
         "label": "Sequential reactions of decarboxylation and methylation of acetone cyanohydrin",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Gail et al., 2011; Choi et al., 2015)",
-        "references": "(Gail et al., 2011; Choi et al., 2015)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Gail et al., 2011; Choi et al., 2015)",
+        "process references": "(Gail et al., 2011; Choi et al., 2015)"
       }
     },
     {
@@ -530,17 +582,20 @@
       "attributes": {
         "label": "HCN addition",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Gail et al., 2011)",
-        "references": "(Gail et al., 2011)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Gail et al., 2011)",
+        "process references": "(Gail et al., 2011)"
       }
     },
     {
       "_id": "elem-8GR1Og7V",
       "attributes": {
         "label": "Toluene diisocyanate (TDI)",
-        "priority code": 44,
-        "long name": "Toluene diisocyanate (TDI)"
+        "hotspot rank": 43,
+        "hs 2022 codes": " - 292910",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 1.543563252132992,
+        "prodcom classification": " - 20.14.44.50 Isocyanates",
+        "available quantity in the eu27 in 2022 (mt)": 0.242141968
       }
     },
     {
@@ -548,34 +603,43 @@
       "attributes": {
         "label": "Dilute acid pretreatment",
         "element type": "Process",
-        "maturity": "High",
-        "maturity (references)": "(Hamelinck et al., 2005)",
-        "references": "(Vu et al., 2020; Periyasamy et al., 2022)"
+        "maturity score": "High",
+        "maturity score references": "(Hamelinck et al., 2005)",
+        "process references": "(Vu et al., 2020; Periyasamy et al., 2022)"
       }
     },
     {
       "_id": "elem-8V7BI2VZ",
       "attributes": {
         "label": "Polyethylene",
-        "priority code": 1,
-        "long name": "Polyethylene"
+        "hotspot rank": 1,
+        "prodcom names": "",
+        "hs 2022 codes": " - 390120\n - 390110",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 54.12089603415227,
+        "prodcom classification": " - 20.16.10.35 Linear polyethylene having a specific gravity < 0,94, in primary forms\n - 20.16.10.39 Polyethylene having a specific gravity < 0,94, in primary forms (excluding linear)\n - 20.16.10.50 Polyethylene having a specific gravity of ≥ 0,94, in primary forms",
+        "available quantity in the eu27 in 2022 (mt)": 16.341803400000003
       }
     },
     {
       "_id": "elem-8e3tRzhJ",
       "attributes": {
         "label": "Vegetable oil cracking",
-        "maturity": "High",
-        "maturity (references)": "(Clark et al., 2015)",
         "lca (references)": "(Moretti et al., 2020)",
-        "references": "(Clark et al., 2015; Wang et al., 2020)",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "High",
+        "maturity score references": "(Clark et al., 2015)",
+        "process references": "(Clark et al., 2015; Wang et al., 2020)"
       }
     },
     {
       "_id": "elem-8lS476O7",
       "attributes": {
-        "label": "Ethylene vinyl acetate"
+        "label": "Ethylene vinyl acetate",
+        "hs 2022 codes": " - 390130",
+        "hotspot rank": 37,
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.066398876131841,
+        "prodcom classification": " - 20.16.10.70 Ethylene-vinyl acetate copolymers, in primary forms",
+        "available quantity in the eu27 in 2022 (mt)": 0.593659673
       }
     },
     {
@@ -583,18 +647,21 @@
       "attributes": {
         "label": "Gasification of biomass",
         "element type": "Process",
-        "references": "(Zacharopoulou and Lemonidou, 2018; Yahyazadeh et al., 2024; Zhang et al., 2021)",
-        "maturity": "High",
-        "maturity (references)": "(Zhang et al., 2021)",
-        "description": "#todo Actually it is to produce the intermediate components (H2, CO)?"
+        "description": "#todo Actually it is to produce the intermediate components (H2, CO)?",
+        "maturity score": "High",
+        "maturity score references": "(Zhang et al., 2021)",
+        "process references": "(Zacharopoulou and Lemonidou, 2018; Yahyazadeh et al., 2024; Zhang et al., 2021)"
       }
     },
     {
       "_id": "elem-9QnqsZRL",
       "attributes": {
-        "label": "Methanol (MeOH)",
-        "priority code": 13,
-        "long name": "Methanol (methyl alcohol)"
+        "label": "Methanol",
+        "hotspot rank": 14,
+        "hs 2022 codes": " - 290511",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 7.963870065820186,
+        "prodcom classification": " - 20.14.22.10 Methanol (methyl alcohol)",
+        "available quantity in the eu27 in 2022 (mt)": 6.904732058
       }
     },
     {
@@ -602,7 +669,7 @@
       "attributes": {
         "label": "HMF to caprolactam",
         "element type": "Process",
-        "references": "(Tinge et al., 2018)"
+        "process references": "(Tinge et al., 2018)"
       }
     },
     {
@@ -610,8 +677,8 @@
       "attributes": {
         "label": "CO2 to methanol",
         "element type": "Process",
-        "maturity": "Medium",
-        "maturity (references)": "(IEA Bioenergy, 2020; Buznitsky et al., 2024)"
+        "maturity score": "Medium",
+        "maturity score references": "(IEA Bioenergy, 2020; Buznitsky et al., 2024)"
       }
     },
     {
@@ -625,10 +692,10 @@
       "_id": "elem-AAACVZ03",
       "attributes": {
         "label": "Starch fermentation",
-        "references": "(FranceAgriMer, 2024)",
-        "maturity": "High",
-        "maturity (references)": "(FranceAgriMer, 2024)",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "High",
+        "maturity score references": "(FranceAgriMer, 2024)",
+        "process references": "(FranceAgriMer, 2024)"
       }
     },
     {
@@ -636,9 +703,9 @@
       "attributes": {
         "label": "Condensation of Aniline with Formaldehyde",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(Richter et al., 2024)",
-        "maturity (references)": "(Richter et al., 2024)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Richter et al., 2024)",
+        "process references": "(Richter et al., 2024)"
       }
     },
     {
@@ -665,9 +732,9 @@
       "attributes": {
         "label": "Polymerization to PVA",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(Rosenboom et al., 2022)",
-        "maturity (references)": ""
+        "maturity (references)": "",
+        "maturity score": "Fully mature",
+        "process references": "(Rosenboom et al., 2022)"
       }
     },
     {
@@ -686,8 +753,7 @@
       "_id": "elem-CS74saRu",
       "attributes": {
         "label": "Phenol-formaldehyde (PF) phenolic resins",
-        "priority": "",
-        "long name": "Phenolic resins, in primary forms"
+        "priority": ""
       }
     },
     {
@@ -695,8 +761,8 @@
       "attributes": {
         "label": "Esterifications",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(EC, 2019)"
+        "maturity score": "Fully mature",
+        "process references": "(EC, 2019)"
       }
     },
     {
@@ -723,9 +789,9 @@
       "attributes": {
         "label": "metal-catalyzed Methanol carbonylation (monsanto process)",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Kiefer et al., 2021; Hietala et al., 2016)",
-        "references": "(Kiefer et al., 2021; Hietala et al., 2016)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Kiefer et al., 2021; Hietala et al., 2016)",
+        "process references": "(Kiefer et al., 2021; Hietala et al., 2016)"
       }
     },
     {
@@ -739,9 +805,9 @@
       "attributes": {
         "label": "Dehydration of lactic acid to acrylic acid",
         "element type": "Process",
-        "maturity": "Low",
-        "maturity (references)": "(Beerthuis et al., 2015)",
-        "references": "(Beerthuis et al., 2015)"
+        "maturity score": "Low",
+        "maturity score references": "(Beerthuis et al., 2015)",
+        "process references": "(Beerthuis et al., 2015)"
       }
     },
     {
@@ -763,17 +829,20 @@
       "attributes": {
         "label": "Polycondensations of  MEG and FDCA to PEF",
         "element type": "Process",
-        "maturity (references)": "(Siegenthaler et al., 2022)",
-        "maturity": "Medium",
-        "references": "(Rosenboom et al, 2022; Mori, 2023; Gubbels et al., 2018)"
+        "maturity score": "Medium",
+        "maturity score references": "(Siegenthaler et al., 2022)",
+        "process references": "(Rosenboom et al, 2022; Mori, 2023; Gubbels et al., 2018)"
       }
     },
     {
       "_id": "elem-EjOl3deq",
       "attributes": {
         "label": "1,2-Dichloroethane (ethylene dichloride)",
-        "priority code": 39,
-        "long name": "1,2-Dichloroethane (ethylene dichloride)"
+        "hotspot rank": 38,
+        "hs 2022 codes": " - 290315",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.0387642204950858,
+        "prodcom classification": " - 20.14.13.53 1,2-Dichloroethane (ethylene dichloride)",
+        "available quantity in the eu27 in 2022 (mt)": 1.202939382
       }
     },
     {
@@ -788,9 +857,9 @@
       "attributes": {
         "label": "Fermentation to Propan-1-ol",
         "element type": "Process",
-        "references": "(IEA Bioenergy, 2020; de Jong et al., 2012)",
-        "maturity": "Medium",
-        "maturity (references)": "(de Jong et al., 2012)"
+        "maturity score": "Medium",
+        "maturity score references": "(de Jong et al., 2012)",
+        "process references": "(IEA Bioenergy, 2020; de Jong et al., 2012)"
       }
     },
     {
@@ -798,9 +867,9 @@
       "attributes": {
         "label": "HMDA via HMF",
         "element type": "Process",
-        "maturity": "Low",
-        "references": "(Dros et al., 2015)",
-        "maturity (references)": "(Dros et al., 2015)"
+        "maturity score": "Low",
+        "maturity score references": "(Dros et al., 2015)",
+        "process references": "(Dros et al., 2015)"
       }
     },
     {
@@ -814,7 +883,7 @@
       "attributes": {
         "label": "Dimérisation de l’acide lactique en lactide",
         "element type": "Process",
-        "references": "(Künkel et al., 2016; Naser et al., 2021)"
+        "process references": "(Künkel et al., 2016; Naser et al., 2021)"
       }
     },
     {
@@ -822,17 +891,17 @@
       "attributes": {
         "label": "Reduced and coupled Ethanol",
         "element type": "Process",
-        "references": "(Ceresco et al., 2025; Tinge et al., 2018; Clark et al., 2015; IFPEN, 2019)",
-        "maturity": "Medium",
-        "maturity (references)": "(IFPEN, 2019; Beerthuis et al., 2015)",
-        "lca (references)": "Cespi, D., Passarini, F., Vassura, I. & Cavani, F. Butadiene from biomass, a life cycle perspective to address sustainability in the chemical industry. Green Chem. 18, 1625–1638 (2016)."
+        "lca (references)": "Cespi, D., Passarini, F., Vassura, I. & Cavani, F. Butadiene from biomass, a life cycle perspective to address sustainability in the chemical industry. Green Chem. 18, 1625–1638 (2016).",
+        "maturity score": "Medium",
+        "maturity score references": "(IFPEN, 2019; Beerthuis et al., 2015)",
+        "process references": "(Ceresco et al., 2025; Tinge et al., 2018; Clark et al., 2015; IFPEN, 2019)"
       }
     },
     {
       "_id": "elem-G1pVOyEo",
       "attributes": {
         "element type": "Process",
-        "references": "(De Vos et al., 2021)"
+        "process references": "(De Vos et al., 2021)"
       }
     },
     {
@@ -846,8 +915,8 @@
       "attributes": {
         "label": "Water electrolysis",
         "element type": "Process",
-        "maturity": "High",
-        "maturity (references)": "(Schmidt et al., 2017; Tran et al., 2024)"
+        "maturity score": "High",
+        "maturity score references": "(Schmidt et al., 2017; Tran et al., 2024)"
       }
     },
     {
@@ -855,17 +924,17 @@
       "attributes": {
         "label": "Polymerization of ethylene",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(Rosenboom et al., 2022)"
+        "maturity score": "Fully mature",
+        "process references": "(Rosenboom et al., 2022)"
       }
     },
     {
       "_id": "elem-HLakyNJk",
       "attributes": {
         "label": "Fermentation to hydroxyalkanoates (PHAs)",
-        "references": "(Naser et al., 2021; Künkel et al., 2016)",
         "element type": "Process",
-        "maturity": "Medium"
+        "maturity score": "Medium",
+        "process references": "(Naser et al., 2021; Künkel et al., 2016)"
       }
     },
     {
@@ -879,16 +948,19 @@
       "attributes": {
         "label": "Reaction between adipic acid and 1,4-Butanediol",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Li et al., 2015)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Li et al., 2015)"
       }
     },
     {
       "_id": "elem-I7jxhszM",
       "attributes": {
         "label": "n-Butanol, Butan-1-ol (n-butyl alcohol)",
-        "priority code": 33,
-        "long name": "Butan-1-ol (n-butyl alcohol)"
+        "hotspot rank": 33,
+        "hs 2022 codes": " - 290513",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.337166712978371,
+        "prodcom classification": " - 20.14.22.30 Butan-1-ol (n-butyl alcohol)",
+        "available quantity in the eu27 in 2022 (mt)": 0.507331541
       }
     },
     {
@@ -896,17 +968,20 @@
       "attributes": {
         "label": "Methanol to olefin (MTO)",
         "element type": "Process",
-        "references": "(Zacharopoulou and Lemonidou, 2018; Wang et al., 2020; Zimmermann, 2013; Liptow et al., 2015)",
-        "maturity": "High",
-        "maturity (references)": "(Clark et al., 2015; Liptow et al., 2015; Rodríguez-Vallejo et al., 2020)"
+        "maturity score": "High",
+        "maturity score references": "(Clark et al., 2015; Liptow et al., 2015; Rodríguez-Vallejo et al., 2020)",
+        "process references": "(Zacharopoulou and Lemonidou, 2018; Wang et al., 2020; Zimmermann, 2013; Liptow et al., 2015)"
       }
     },
     {
       "_id": "elem-IFlOw3GA",
       "attributes": {
         "label": "Propylene oxide",
-        "priority code": 15,
-        "long name": "Methyloxirane (propylene oxide)"
+        "hotspot rank": 15,
+        "hs 2022 codes": " - 291020",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 7.366640107815707,
+        "prodcom classification": " - 20.14.63.75 Methyloxirane (propylene oxide)",
+        "available quantity in the eu27 in 2022 (mt)": 1.650938177
       }
     },
     {
@@ -927,9 +1002,9 @@
       "attributes": {
         "label": "Sequential hydrocyanation of butadiene",
         "element type": "Process",
-        "references": "(Dros et al., 2015; Tinge et al., 2018)",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Dros et al., 2015)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Dros et al., 2015)",
+        "process references": "(Dros et al., 2015; Tinge et al., 2018)"
       }
     },
     {
@@ -937,8 +1012,8 @@
       "attributes": {
         "label": "hydrogenation of Benzene",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(Campbell, 2011)"
+        "maturity score": "Fully mature",
+        "process references": "(Campbell, 2011)"
       }
     },
     {
@@ -954,8 +1029,11 @@
       "_id": "elem-JNGGHoht",
       "attributes": {
         "label": "Polyethylene terephthalate",
-        "priority code": 6,
-        "long name": "Polyethylene terephthalate"
+        "hotspot rank": 7,
+        "hs 2022 codes": " - 390761\n - 390769",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 18.151963821451847,
+        "prodcom classification": " - 20.16.40.62 Polyethylene terephthalate in primary forms having a viscosity number of ≥ 78 ml/g\n - 20.16.40.64 Other polyethylene terephthalate in primary forms",
+        "available quantity in the eu27 in 2022 (mt)": 4.221520876
       }
     },
     {
@@ -971,8 +1049,11 @@
       "_id": "elem-JcUqlhsj",
       "attributes": {
         "label": "Acrylonitriles",
-        "priority code": 36,
-        "long name": "Acrylonitrile"
+        "hotspot rank": 24,
+        "hs 2022 codes": " - 292610",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 3.657801515121532,
+        "prodcom classification": " - 20.14.43.50 Acrylonitrile",
+        "available quantity in the eu27 in 2022 (mt)": 0.705069102
       }
     },
     {
@@ -1005,9 +1086,9 @@
       "attributes": {
         "label": "Enzymatic saccharification of cellulose (Enzymatic hydrolysis)",
         "element type": "Process",
-        "references": "(Toor et al., 2020; Tse et al., 2021; Periyasamy et al, 2022)",
-        "maturity (references)": "(Toor et al., 2020)",
-        "maturity": "High"
+        "maturity score": "High",
+        "maturity score references": "(Toor et al., 2020)",
+        "process references": "(Toor et al., 2020; Tse et al., 2021; Periyasamy et al, 2022)"
       }
     },
     {
@@ -1015,19 +1096,19 @@
       "attributes": {
         "label": "Reaction to vinyl acetate",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Bienewald et al., 2019)",
-        "references": "(Bienewald et al., 2019)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Bienewald et al., 2019)",
+        "process references": "(Bienewald et al., 2019)"
       }
     },
     {
       "_id": "elem-Kv5RG9FI",
       "attributes": {
         "label": "Polycondensation to PA-6,6",
-        "maturity (references)": "(Khedr, 2023)",
-        "maturity": "Fully mature",
-        "references": "(Khedr, 2023)",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "Fully mature",
+        "maturity score references": "(Khedr, 2023)",
+        "process references": "(Khedr, 2023)"
       }
     },
     {
@@ -1035,9 +1116,9 @@
       "attributes": {
         "label": "SOHIO process (propylene to acrylonitriles)",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Beerthuis et al., 2015)",
-        "references": "(Beerthuis et al., 2015)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Beerthuis et al., 2015)",
+        "process references": "(Beerthuis et al., 2015)"
       }
     },
     {
@@ -1045,7 +1126,7 @@
       "attributes": {
         "label": "Dehydratation of butanediol to butadiene",
         "element type": "Process",
-        "references": "(Tinge et al., 2018)"
+        "process references": "(Tinge et al., 2018)"
       }
     },
     {
@@ -1058,8 +1139,11 @@
       "_id": "elem-LybiJCoW",
       "attributes": {
         "label": "Benzene",
-        "priority code": 7,
-        "long name": "Benzene"
+        "hotspot rank": 6,
+        "hs 2022 codes": " - 290220",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 18.478057200519565,
+        "prodcom classification": " - 20.14.12.23 Benzene",
+        "available quantity in the eu27 in 2022 (mt)": 6.234476067
       }
     },
     {
@@ -1067,8 +1151,8 @@
       "attributes": {
         "label": "Hydroformylations of Ethylene",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(Klabunde et al., 2018)"
+        "maturity score": "Fully mature",
+        "process references": "(Klabunde et al., 2018)"
       }
     },
     {
@@ -1076,19 +1160,19 @@
       "attributes": {
         "label": "Catalytic syngas upgrading to methanol",
         "element type": "Process",
-        "references": "(IEA Bioenergy, 2020; IFPEN, 2025)",
-        "maturity": "Medium",
-        "maturity (references)": "(IEA Bioenergy, 2020)"
+        "maturity score": "Medium",
+        "maturity score references": "(IEA Bioenergy, 2020)",
+        "process references": "(IEA Bioenergy, 2020; IFPEN, 2025)"
       }
     },
     {
       "_id": "elem-MMyJ3phj",
       "attributes": {
         "label": "Hydrogenation of HMF",
-        "references": "(Tinge et al., 2018; Thaore et al., 2018; Khedr, 2023)",
-        "maturity": "Low",
-        "maturity (references)": "(Thaore et al., 2018)",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "Low",
+        "maturity score references": "(Thaore et al., 2018)",
+        "process references": "(Tinge et al., 2018; Thaore et al., 2018; Khedr, 2023)"
       }
     },
     {
@@ -1096,9 +1180,9 @@
       "attributes": {
         "label": "TDI from Toluene via dinitrotoluene and 2,4-diaminotoluene and phosgenation",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Richter et al., 2024)",
-        "references": "(Richter et al., 2024)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Richter et al., 2024)",
+        "process references": "(Richter et al., 2024)"
       }
     },
     {
@@ -1113,9 +1197,9 @@
       "attributes": {
         "label": "Glucaric acids to adipic acid",
         "element type": "Process",
-        "references": "(Lee et al, 2022)",
-        "maturity": "Medium",
-        "maturity (references)": "(Lang and Li, 2022; Beerthuis et al., 2015)"
+        "maturity score": "Medium",
+        "maturity score references": "(Lang and Li, 2022; Beerthuis et al., 2015)",
+        "process references": "(Lee et al, 2022)"
       }
     },
     {
@@ -1123,7 +1207,7 @@
       "attributes": {
         "label": "Butadiene to adiponitrile",
         "element type": "Process",
-        "references": "(Tinge et al., 2018)"
+        "process references": "(Tinge et al., 2018)"
       }
     },
     {
@@ -1131,7 +1215,7 @@
       "attributes": {
         "label": "Ring-opening polymerization of lactide",
         "element type": "Process",
-        "references": "(Rosenboom et al, 2022; López-Gómez et al., 2020)"
+        "process references": "(Rosenboom et al, 2022; López-Gómez et al., 2020)"
       }
     },
     {
@@ -1148,26 +1232,28 @@
       "attributes": {
         "label": "1,3-butadiene to ε-caprolactam",
         "element type": "Process",
-        "maturity": "Low",
-        "maturity (references)": "(Beerthuis et al., 2015)",
-        "references": "(Beerthuis et al., 2015)",
-        "description": "#todo verify maturity in (Beerthuis et al., 2015)"
+        "description": "#todo verify maturity in (Beerthuis et al., 2015)",
+        "maturity score": "Low",
+        "maturity score references": "(Beerthuis et al., 2015)",
+        "process references": "(Beerthuis et al., 2015)"
       }
     },
     {
       "_id": "elem-NcGcYxdJ",
       "attributes": {
         "label": "Hexamethylenediamine (HMDA)",
-        "priority code": 28,
-        "long name": "Hexamethylenediamine and its salts; ethylenediamine and its salts"
+        "hotspot rank": 34,
+        "hs 2022 codes": " - 292122",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.2800134376726757,
+        "prodcom classification": " - 20.14.41.23 Hexamethylenediamine and its salts; ethylenediamine and its salts",
+        "available quantity in the eu27 in 2022 (mt)": 0.443739559
       }
     },
     {
       "_id": "elem-Nowq3uea",
       "attributes": {
         "label": "Poly(methyl methacrylate) (PMMA)",
-        "priority code": 43,
-        "long name": "Polymethyl methacrylate, in primary forms"
+        "hotspot rank": 43
       }
     },
     {
@@ -1181,10 +1267,10 @@
       "_id": "elem-OGiBCvr7",
       "attributes": {
         "label": "Carboxylation of 1,4-BDO",
-        "references": "(Lang and Li, 2022; Beerthuis et al., 2015)",
-        "maturity (references)": "(Lang and Li, 2022; Beerthuis et al., 2015)",
-        "maturity": "Medium",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "Medium",
+        "maturity score references": "(Lang and Li, 2022; Beerthuis et al., 2015)",
+        "process references": "(Lang and Li, 2022; Beerthuis et al., 2015)"
       }
     },
     {
@@ -1192,9 +1278,9 @@
       "attributes": {
         "label": "Via catalyst reaction of glycerol",
         "element type": "Process",
-        "maturity": "Low",
-        "references": "(Wang et al., 2020; Zacharopoulou and Lemonidou, 2018)",
-        "maturity (references)": "(Zacharopoulou and Lemonidou, 2018)"
+        "maturity score": "Low",
+        "maturity score references": "(Zacharopoulou and Lemonidou, 2018)",
+        "process references": "(Wang et al., 2020; Zacharopoulou and Lemonidou, 2018)"
       }
     },
     {
@@ -1208,8 +1294,11 @@
       "_id": "elem-OPNWbjW6",
       "attributes": {
         "label": "Ethylene oxide (EO)",
-        "priority code": 30,
-        "long name": "Oxirane (ethylene oxide)"
+        "hotspot rank": 30,
+        "hs 2022 codes": " - 291010",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.739477686408448,
+        "prodcom classification": " - 20.14.63.73 Oxirane (ethylene oxide)",
+        "available quantity in the eu27 in 2022 (mt)": 0.886759378
       }
     },
     {
@@ -1223,9 +1312,9 @@
       "attributes": {
         "label": "Hydrogenation of succinic acid to 1,4-butanediol (1,4-BDO)",
         "element type": "Process",
-        "maturity": "Medium",
-        "maturity (references)": "(Lang and Li, 2022)",
-        "references": "(Lang and Li, 2022)"
+        "maturity score": "Medium",
+        "maturity score references": "(Lang and Li, 2022)",
+        "process references": "(Lang and Li, 2022)"
       }
     },
     {
@@ -1233,9 +1322,9 @@
       "attributes": {
         "label": "Methane to methanol",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Deka et al., 2022; Clark et al., 2015; Srivastava et al., 2022)",
-        "references": "(Srivastava et al., 2022)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Deka et al., 2022; Clark et al., 2015; Srivastava et al., 2022)",
+        "process references": "(Srivastava et al., 2022)"
       }
     },
     {
@@ -1243,25 +1332,31 @@
       "attributes": {
         "label": "Dehydrations of C6 sugars",
         "element type": "Process",
-        "references": "(IEA Bioenergy, 2020; Lee et al, 2022; Davidson et al., 2021)",
-        "maturity": "Medium",
-        "maturity (references)": "(Teong et al., 2014; Xu et al., 2020; Slak et al., 2022)"
+        "maturity score": "Medium",
+        "maturity score references": "(Teong et al., 2014; Xu et al., 2020; Slak et al., 2022)",
+        "process references": "(IEA Bioenergy, 2020; Lee et al, 2022; Davidson et al., 2021)"
       }
     },
     {
       "_id": "elem-PCSuH6OM",
       "attributes": {
         "label": "1,3-butadiene",
-        "priority code": 14,
-        "long name": "Buta-1,3-diene and isoprene"
+        "hotspot rank": 12,
+        "hs 2022 codes": " - 290124",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 9.952427750901444,
+        "prodcom classification": " - 20.14.11.60 Buta-1,3-diene and isoprene",
+        "available quantity in the eu27 in 2022 (mt)": 2.808940257
       }
     },
     {
       "_id": "elem-PI0Hdsva",
       "attributes": {
         "label": "Acrylonitrile butadiene styrene (ABS)",
-        "priority code": 19,
-        "long name": "Acrylonitrile-butadiene-styrene (ABS) copolymers, in primary forms"
+        "hotspot rank": 20,
+        "hs 2022 codes": " - 390330",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 4.607127277715203,
+        "prodcom classification": " - 20.16.20.70 Acrylonitrile-butadiene-styrene (ABS) copolymers, in primary forms",
+        "available quantity in the eu27 in 2022 (mt)": 0.846217183
       }
     },
     {
@@ -1269,8 +1364,8 @@
       "attributes": {
         "label": "Polymerization of styrene to PS",
         "element type": "Process",
-        "references": "(Maul et al., 2007)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "process references": "(Maul et al., 2007)"
       }
     },
     {
@@ -1278,8 +1373,8 @@
       "attributes": {
         "label": "co-polymerisation of Succinic acids and 1,4-Butanediol",
         "element type": "Process",
-        "references": "(Molenveld and Bos, 2020)",
-        "description": "Alternative to : polypropylene (PP) and high-density polyethylene (HDPE)\n\n(Molenveld and Bos, 2020)"
+        "description": "Alternative to : polypropylene (PP) and high-density polyethylene (HDPE)\n\n(Molenveld and Bos, 2020)",
+        "process references": "(Molenveld and Bos, 2020)"
       }
     },
     {
@@ -1287,9 +1382,9 @@
       "attributes": {
         "label": "Fischer esterification of ethanol and acetic acid",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Weissermel and Arpe, 2003; Löser et al., 2014; Clark et al., 2015; Le Berre et al., 2014)",
-        "references": "(Weissermel and Arpe, 2003; Löser et al., 2014; Clark et al., 2015; Le Berre et al., 2014)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Weissermel and Arpe, 2003; Löser et al., 2014; Clark et al., 2015; Le Berre et al., 2014)",
+        "process references": "(Weissermel and Arpe, 2003; Löser et al., 2014; Clark et al., 2015; Le Berre et al., 2014)"
       }
     },
     {
@@ -1303,17 +1398,17 @@
       "attributes": {
         "label": "Cumene process",
         "element type": "Process",
-        "references": "(Clark et al., 2015)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "process references": "(Clark et al., 2015)"
       }
     },
     {
       "_id": "elem-QcDYpKHE",
       "attributes": {
         "label": "Fast pyrolysis with catalytic upgrading",
-        "maturity": "Medium",
-        "references": "(Wegelin and Meier, 2024; Kumar et al., 2024)",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "Medium",
+        "process references": "(Wegelin and Meier, 2024; Kumar et al., 2024)"
       }
     },
     {
@@ -1321,9 +1416,9 @@
       "attributes": {
         "label": "Fermentation of glucose to lysine",
         "element type": "Process",
-        "maturity": "High",
-        "maturity (references)": "(Beerthuis et al., 2015)",
-        "references": "(Beerthuis et al., 2015; Tinge et al., 2018)"
+        "maturity score": "High",
+        "maturity score references": "(Beerthuis et al., 2015)",
+        "process references": "(Beerthuis et al., 2015; Tinge et al., 2018)"
       }
     },
     {
@@ -1331,19 +1426,32 @@
       "attributes": {
         "label": "Metathesis to propylene",
         "element type": "Process",
-        "references": "(Zacharopoulou and Lemonidou, 2018; Wang et al., 2020)",
         "trl (references)": "",
-        "maturity": "Medium",
-        "maturity (references)": "(Clark et al., 2015; Muñoz and Weidema, 2024)",
-        "lca (references)": ""
+        "lca (references)": "",
+        "maturity score": "Medium",
+        "maturity score references": "(Clark et al., 2015; Muñoz and Weidema, 2024)",
+        "process references": "(Zacharopoulou and Lemonidou, 2018; Wang et al., 2020)"
+      }
+    },
+    {
+      "_id": "elem-QnO4gjTJ",
+      "attributes": {
+        "label": "Lignin depolymerization",
+        "element type": "Process",
+        "maturity score": "Low",
+        "maturity score references": "(Kumar et al., 2024)",
+        "process references": "(Kumar et al., 2024)"
       }
     },
     {
       "_id": "elem-R5iRUJ31",
       "attributes": {
         "label": "Ethyl acetate",
-        "priority code": 42,
-        "long name": "Ethyl acetate"
+        "hotspot rank": 42,
+        "hs 2022 codes": " - 291531",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 1.6833679742544356,
+        "prodcom classification": " - 20.14.32.15 Ethyl acetate",
+        "available quantity in the eu27 in 2022 (mt)": 0.377601386
       }
     },
     {
@@ -1351,9 +1459,9 @@
       "attributes": {
         "label": "Ethylene oxide hydratation to MEG",
         "element type": "Process",
-        "references": "(Siegenthaler et al., 2022; De Vos et al., 2021; Wong et al., 2023)",
-        "maturity (references)": "(Wong et al., 2023)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Wong et al., 2023)",
+        "process references": "(Siegenthaler et al., 2022; De Vos et al., 2021; Wong et al., 2023)"
       }
     },
     {
@@ -1367,9 +1475,9 @@
       "attributes": {
         "label": "Adipic acid to caprolactam",
         "element type": "Process",
-        "maturity": "Low",
-        "maturity (references)": "(Beerthuis et al., 2015)",
-        "references": "(Beerthuis et al., 2015)"
+        "maturity score": "Low",
+        "maturity score references": "(Beerthuis et al., 2015)",
+        "process references": "(Beerthuis et al., 2015)"
       }
     },
     {
@@ -1377,9 +1485,9 @@
       "attributes": {
         "label": "Glycerol to acrylic acid",
         "element type": "Process",
-        "maturity": "Low",
-        "maturity (references)": "(Beerthuis et al., 2015)",
-        "references": "(Beerthuis et al., 2015; Olabisi and Adewale, 2016)"
+        "maturity score": "Low",
+        "maturity score references": "(Beerthuis et al., 2015)",
+        "process references": "(Beerthuis et al., 2015; Olabisi and Adewale, 2016)"
       }
     },
     {
@@ -1387,9 +1495,9 @@
       "attributes": {
         "label": "Hydrogenation to n-butanol",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Raff, 2013)",
-        "references": "(Raff, 2013)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Raff, 2013)",
+        "process references": "(Raff, 2013)"
       }
     },
     {
@@ -1403,8 +1511,8 @@
       "attributes": {
         "label": "Polymerisation to PVC",
         "element type": "Process",
-        "references": "(Walters et al., 2020)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "process references": "(Walters et al., 2020)"
       }
     },
     {
@@ -1412,24 +1520,30 @@
       "attributes": {
         "label": "Propylene oxide and styrene co-production",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(James and Castor, 2011; Baer et al., 2012)"
+        "maturity score": "Fully mature",
+        "process references": "(James and Castor, 2011; Baer et al., 2012)"
       }
     },
     {
       "_id": "elem-SNetzLxm",
       "attributes": {
         "label": "Cyclohexanes",
-        "priority code": 27,
-        "long name": "Cyclohexane"
+        "hotspot rank": 29,
+        "hs 2022 codes": " - 290211",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.7488089689514297,
+        "prodcom classification": " - 20.14.12.13 Cyclohexane",
+        "available quantity in the eu27 in 2022 (mt)": 0.683315016
       }
     },
     {
       "_id": "elem-SU6lmFcb",
       "attributes": {
         "label": "Methylene diphenyl isocyanate (MDI)",
-        "priority code": 21,
-        "long name": "Methylene diphenyl diisocyanate (MDI)"
+        "hotspot rank": 22,
+        "hs 2022 codes": " - 292910",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 4.064469558151235,
+        "prodcom classification": " - 20.14.44.50 Isocyanates",
+        "available quantity in the eu27 in 2022 (mt)": 0.807139894
       }
     },
     {
@@ -1437,8 +1551,8 @@
       "attributes": {
         "label": "Ethylene oxidation",
         "element type": "Process",
-        "references": "(Siegenthaler et al., 2022; IEA Bioenergy, 2020; De Vos et al., 2021)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "process references": "(Siegenthaler et al., 2022; IEA Bioenergy, 2020; De Vos et al., 2021)"
       }
     },
     {
@@ -1469,8 +1583,11 @@
       "_id": "elem-TPYki8gj",
       "attributes": {
         "label": "Cumene",
-        "priority code": 32,
-        "long name": "Cumene"
+        "hotspot rank": 32,
+        "hs 2022 codes": " - 290270",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.4949031756583677,
+        "prodcom classification": " - 20.14.12.70 Cumene",
+        "available quantity in the eu27 in 2022 (mt)": 0.778495527
       }
     },
     {
@@ -1489,8 +1606,11 @@
       "_id": "elem-Uo1i9bKK",
       "attributes": {
         "label": "Esters of acrylic acid (Acrylates)",
-        "priority code": 22,
-        "long name": "Esters of acrylic acid"
+        "hotspot rank": 27,
+        "hs 2022 codes": " - 291612",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 3.2131948005351427,
+        "prodcom classification": " - 20.14.33.20 Esters of acrylic acid",
+        "available quantity in the eu27 in 2022 (mt)": 0.604861873
       }
     },
     {
@@ -1498,7 +1618,7 @@
       "attributes": {
         "label": "Copolymerized with butadiene and styrene to ABS",
         "element type": "Process",
-        "references": "(Grasselli and Trifirò, 2016)"
+        "process references": "(Grasselli and Trifirò, 2016)"
       }
     },
     {
@@ -1506,17 +1626,20 @@
       "attributes": {
         "label": "Dimerised Ethylene (isomerised to 2-Butene)",
         "element type": "Process",
-        "references": "(Clark et al., 2015)",
-        "maturity (references)": "(Clark et al., 2015)",
-        "maturity": "Medium"
+        "maturity score": "Medium",
+        "maturity score references": "(Clark et al., 2015)",
+        "process references": "(Clark et al., 2015)"
       }
     },
     {
       "_id": "elem-Vn8sfapb",
       "attributes": {
         "label": "Polyamide -6,6",
-        "priority code": 12,
-        "long name": "Polyamide -6,6 (PA 66)"
+        "hotspot rank": 13,
+        "hs 2022 codes": " - 390810",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 9.64130049055102,
+        "prodcom classification": " - 20.16.54.50 Polyamide -6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
+        "available quantity in the eu27 in 2022 (mt)": 1.089108418
       }
     },
     {
@@ -1524,9 +1647,9 @@
       "attributes": {
         "label": "Methanol-to-aromatics",
         "element type": "Process",
-        "maturity": "Medium",
-        "maturity (references)": "(Bazzanella and Ausfelder, 2017; IEA, 2018)",
-        "references": "(Bazzanella and Ausfelder, 2017)"
+        "maturity score": "Medium",
+        "maturity score references": "(Bazzanella and Ausfelder, 2017; IEA, 2018)",
+        "process references": "(Bazzanella and Ausfelder, 2017)"
       }
     },
     {
@@ -1534,9 +1657,9 @@
       "attributes": {
         "label": "Hydratation of propene",
         "element type": "Process",
-        "references": "(Klabunde et al., 2018)",
-        "maturity (references)": "(Klabunde et al., 2018)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Klabunde et al., 2018)",
+        "process references": "(Klabunde et al., 2018)"
       }
     },
     {
@@ -1544,17 +1667,20 @@
       "attributes": {
         "label": "Dehydration of 3-HP to acrylic acid",
         "element type": "Process",
-        "maturity": "Low",
-        "maturity (references)": "(Beerthuis et al., 2015)",
-        "references": "(Beerthuis et al., 2015)"
+        "maturity score": "Low",
+        "maturity score references": "(Beerthuis et al., 2015)",
+        "process references": "(Beerthuis et al., 2015)"
       }
     },
     {
       "_id": "elem-WIU1nnyX",
       "attributes": {
         "label": "Propylene",
-        "priority code": 4,
-        "long name": "Propene (propylene)"
+        "hotspot rank": 5,
+        "hs 2022 codes": " - 271114",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 24.32865773198812,
+        "prodcom classification": " - 20.14.11.40 Propene (propylene)",
+        "available quantity in the eu27 in 2022 (mt)": 9.081741202
       }
     },
     {
@@ -1562,17 +1688,17 @@
       "attributes": {
         "label": "Anaerobic digestion (biogas)",
         "element type": "Process",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature"
       }
     },
     {
       "_id": "elem-WaEnurQp",
       "attributes": {
         "label": "Biochemical production of methanol",
-        "maturity": "Low",
         "element type": "Process",
-        "maturity (references)": "(Gautam et al., 2020)",
-        "references": "(Gautam et al., 2020)"
+        "maturity score": "Low",
+        "maturity score references": "(Gautam et al., 2020)",
+        "process references": "(Gautam et al., 2020)"
       }
     },
     {
@@ -1580,10 +1706,10 @@
       "attributes": {
         "label": "Fermentation to succinic acid",
         "element type": "Process",
-        "maturity (references)": "(IEA Bioenergy, 2020)",
-        "references": "(IEA Bioenergy, 2020; Chen and Nielsen, 2013; Werpy and Petersen, 2004; de Jong et al., 2012)",
-        "maturity": "High",
-        "description": "“Currently the bacterial strain used for succinic acid production is E. coli, but necessity for lower costs is moving companies towards other microorganisms such as Coryne-type bacteria and yeast.” ([Jong et al., 2012, p. 615](zotero://select/library/items/UE5NVT2G)) ([pdf](zotero://open-pdf/library/items/AWX8FTPX?page=10&annotation=HBFKWEGS))\n\nGlucose (Chen and Nielsen, 2013); (Werpy and Petersen, 2004)"
+        "description": "“Currently the bacterial strain used for succinic acid production is E. coli, but necessity for lower costs is moving companies towards other microorganisms such as Coryne-type bacteria and yeast.” ([Jong et al., 2012, p. 615](zotero://select/library/items/UE5NVT2G)) ([pdf](zotero://open-pdf/library/items/AWX8FTPX?page=10&annotation=HBFKWEGS))\n\nGlucose (Chen and Nielsen, 2013); (Werpy and Petersen, 2004)",
+        "maturity score": "High",
+        "maturity score references": "(IEA Bioenergy, 2020)",
+        "process references": "(IEA Bioenergy, 2020; Chen and Nielsen, 2013; Werpy and Petersen, 2004; de Jong et al., 2012)"
       }
     },
     {
@@ -1591,7 +1717,7 @@
       "attributes": {
         "label": "Oxidation of the methyl groups on the corresponding p-xylene",
         "element type": "Process",
-        "references": "(Tomás et al., 2024)"
+        "process references": "(Tomás et al., 2024)"
       }
     },
     {
@@ -1604,8 +1730,11 @@
       "_id": "elem-XfMw4uc7",
       "attributes": {
         "label": "Monoethylene glycol (MEG) - Ethylene glycol (ethanediol)",
-        "priority code": 23,
-        "long name": "Ethylene glycol (ethanediol)"
+        "hotspot rank": 19,
+        "hs 2022 codes": " - 290531",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 4.713319390646087,
+        "prodcom classification": " - 20.14.23.10 Ethylene glycol (ethanediol)",
+        "available quantity in the eu27 in 2022 (mt)": 1.795747967
       }
     },
     {
@@ -1620,9 +1749,9 @@
       "attributes": {
         "label": "Gas-phase oxidation of o-Xylene or Naphthalene",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Lorz et al., 2007)",
-        "references": "(Lorz et al., 2007)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Lorz et al., 2007)",
+        "process references": "(Lorz et al., 2007)"
       }
     },
     {
@@ -1632,13 +1761,20 @@
       }
     },
     {
+      "_id": "elem-YqCJ6dY6",
+      "attributes": {
+        "label": "Benzoic acid",
+        "hotspot rank": 53
+      }
+    },
+    {
       "_id": "elem-YsN3N9ah",
       "attributes": {
         "label": "Diisocyanates with Polyols reaction",
         "element type": "Process",
-        "references": "(Sardon et al., 2021)",
-        "maturity (references)": "(Sardon et al., 2021)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Sardon et al., 2021)",
+        "process references": "(Sardon et al., 2021)"
       }
     },
     {
@@ -1646,9 +1782,9 @@
       "attributes": {
         "label": "Glycerol to acrylonitrile",
         "element type": "Process",
-        "references": "(Grasselli and Trifirò, 2016)",
-        "maturity (references)": "(Beerthuis et al., 2015; Grasselli and Trifirò, 2016)",
-        "maturity": "Low"
+        "maturity score": "Low",
+        "maturity score references": "(Beerthuis et al., 2015; Grasselli and Trifirò, 2016)",
+        "process references": "(Grasselli and Trifirò, 2016)"
       }
     },
     {
@@ -1656,9 +1792,9 @@
       "attributes": {
         "label": "Acetone-butanol-ethanol (ABE)",
         "element type": "Process",
-        "maturity": "High",
-        "references": "(IEA Bioenergy, 2020; Straathof, 2014)",
-        "lca (references)": "https://scholar.google.com/scholar?q=%22abe%22+AND+(%22n-butanol%22+OR+%221-Butanol%22)+AND+(%22life+cycle+assessment%22+OR+%22life+cycle+analysis%22)&hl=en&as_sdt=0,5"
+        "lca (references)": "https://scholar.google.com/scholar?q=%22abe%22+AND+(%22n-butanol%22+OR+%221-Butanol%22)+AND+(%22life+cycle+assessment%22+OR+%22life+cycle+analysis%22)&hl=en&as_sdt=0,5",
+        "maturity score": "High",
+        "process references": "(IEA Bioenergy, 2020; Straathof, 2014)"
       }
     },
     {
@@ -1666,9 +1802,9 @@
       "attributes": {
         "label": "Oxidation of ethanol",
         "element type": "Process",
-        "maturity (references)": "(Eckert et al., 2006)",
-        "references": "(Eckert et al., 2006)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Eckert et al., 2006)",
+        "process references": "(Eckert et al., 2006)"
       }
     },
     {
@@ -1676,9 +1812,9 @@
       "attributes": {
         "label": "Reaction between phthalic anhydride and diethylene glycol",
         "element type": "Process",
-        "references": "(Li et al., 2015)",
-        "maturity (references)": "(Li et al., 2015)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Li et al., 2015)",
+        "process references": "(Li et al., 2015)"
       }
     },
     {
@@ -1686,9 +1822,9 @@
       "attributes": {
         "label": "Direct oxidation of ethylene",
         "element type": "Process",
-        "maturity (references)": "(Eckert et al., 2006)",
-        "references": "(Eckert et al., 2006)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Eckert et al., 2006)",
+        "process references": "(Eckert et al., 2006)"
       }
     },
     {
@@ -1696,26 +1832,32 @@
       "attributes": {
         "label": "Ring opening polymerization of ε-caprolactame",
         "element type": "Process",
-        "references": "(Khedr, 2023)",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Khedr, 2023)",
-        "lca (references)": "ecoinvent.org/3.11"
+        "lca (references)": "ecoinvent.org/3.11",
+        "maturity score": "Fully mature",
+        "maturity score references": "(Khedr, 2023)",
+        "process references": "(Khedr, 2023)"
       }
     },
     {
       "_id": "elem-asI8MAA0",
       "attributes": {
         "label": "Polyvinyl chloride",
-        "priority code": 8,
-        "long name": "Polyvinyl chloride"
+        "hotspot rank": 8,
+        "hs 2022 codes": " - 390410\n - 390422",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 16.250004796756382,
+        "prodcom classification": " - 20.16.30.10 Polyvinyl chloride, not mixed with any other substances, in primary forms\n - 20.16.30.25 Plasticised polyvinyl chloride mixed with any other substance, in primary forms",
+        "available quantity in the eu27 in 2022 (mt)": 5.798768498
       }
     },
     {
       "_id": "elem-aycFuPgO",
       "attributes": {
         "label": "Polyvinyl acetate",
-        "priority code": 16,
-        "long name": "Polymers of vinyl acetate, in aqueous dispersion, in primary forms"
+        "hotspot rank": 18,
+        "hs 2022 codes": " - 390521\n - 390519",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 5.022430886868924,
+        "prodcom classification": " - 20.16.52.30 Polymers of vinyl acetate, in aqueous dispersion, in primary forms\n - 20.16.52.50 Polymers of vinyl acetate, in primary forms (excluding in aqueous dispersion)",
+        "available quantity in the eu27 in 2022 (mt)": 1.165635864
       }
     },
     {
@@ -1729,7 +1871,16 @@
       "attributes": {
         "label": "Polymerization to PEVA",
         "element type": "Process",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature"
+      }
+    },
+    {
+      "_id": "elem-bbLdBMe1",
+      "attributes": {
+        "label": "Oxidation of toluene with air",
+        "element type": "Process",
+        "maturity score": "Fully mature",
+        "process references": "(Maki and Takeda, 2000; Ziegler-Sylakakis et al., 2019)"
       }
     },
     {
@@ -1744,16 +1895,19 @@
       "attributes": {
         "label": "Dehydratation to propylene",
         "element type": "Process",
-        "references": "(IEA Bioenergy, 2020; de Jong et al., 2012)",
-        "maturity": "Medium"
+        "maturity score": "Medium",
+        "process references": "(IEA Bioenergy, 2020; de Jong et al., 2012)"
       }
     },
     {
       "_id": "elem-cDjEwuFd",
       "attributes": {
         "label": "Acetic anhydride",
-        "priority code": 47,
-        "long name": "Acetic anhydride"
+        "hotspot rank": 48,
+        "hs 2022 codes": " - 291524",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 1.2010934991243272,
+        "prodcom classification": " - 20.14.32.77 Acetic anhydride",
+        "available quantity in the eu27 in 2022 (mt)": 0.215273632
       }
     },
     {
@@ -1761,35 +1915,44 @@
       "attributes": {
         "label": "Bio-MEG",
         "element type": "Process",
-        "maturity": "High",
-        "maturity (references)": "(de Jong et al., 2012)",
         "tags": [
           "Focus"
-        ]
+        ],
+        "maturity score": "High",
+        "maturity score references": "(de Jong et al., 2012)"
       }
     },
     {
       "_id": "elem-cJoy4Pi6",
       "attributes": {
         "label": "Terephthalic acid",
-        "priority code": 9,
-        "long name": "Phthalic anhydride; terephthalic acid and its salts"
+        "hotspot rank": 11,
+        "hs 2022 codes": " - 291736",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 10.62171561301894,
+        "prodcom classification": " - 20.14.34.30 Phthalic anhydride; terephthalic acid and its salts",
+        "available quantity in the eu27 in 2022 (mt)": 3.491283735
       }
     },
     {
       "_id": "elem-cNJGyMd5",
       "attributes": {
         "label": "Vinyl chloride (chloroethylene)",
-        "priority code": 38,
-        "long name": "Vinyl chloride (chloroethylene)"
+        "hotspot rank": 41,
+        "hs 2022 codes": " - 290321",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 1.9078600080128485,
+        "prodcom classification": " - 20.14.13.71 Vinyl chloride (chloroethylene)",
+        "available quantity in the eu27 in 2022 (mt)": 0.882272543
       }
     },
     {
       "_id": "elem-cYrcCHAt",
       "attributes": {
         "label": "p-xylenes",
-        "priority code": 34,
-        "long name": "p-Xylene"
+        "hotspot rank": 23,
+        "hs 2022 codes": " - 290243",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 3.809369107542785,
+        "prodcom classification": " - 20.14.12.45 p-Xylene",
+        "available quantity in the eu27 in 2022 (mt)": 1.191905947
       }
     },
     {
@@ -1797,9 +1960,9 @@
       "attributes": {
         "label": "Polymerization to PMMA",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Albrecht et al., 2013)",
-        "references": "(Albrecht et al., 2013)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Albrecht et al., 2013)",
+        "process references": "(Albrecht et al., 2013)"
       }
     },
     {
@@ -1807,10 +1970,10 @@
       "attributes": {
         "label": "Catalytic oxidation of HMF",
         "element type": "Process",
-        "maturity": "Medium",
-        "maturity (references)": "(Siegenthaler et al., 2022)",
-        "references": "(Siegenthaler et al., 2022)",
-        "lca (references)": ""
+        "lca (references)": "",
+        "maturity score": "Medium",
+        "maturity score references": "(Siegenthaler et al., 2022)",
+        "process references": "(Siegenthaler et al., 2022)"
       }
     },
     {
@@ -1818,8 +1981,8 @@
       "attributes": {
         "label": "Polycondensation du Formol et de Phénols avec production d'eau",
         "element type": "Process",
-        "references": "(Hesse and Lang, 2011)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "process references": "(Hesse and Lang, 2011)"
       }
     },
     {
@@ -1827,8 +1990,8 @@
       "attributes": {
         "label": "Steam explosion",
         "element type": "Process",
-        "maturity": "Medium",
-        "maturity (references)": "(Vu et al., 2020)"
+        "maturity score": "Medium",
+        "maturity score references": "(Vu et al., 2020)"
       }
     },
     {
@@ -1842,9 +2005,9 @@
       "attributes": {
         "label": "Tri-reforming of methane (TRM)",
         "element type": "Process",
-        "references": "(Lim et al., 2022)",
-        "maturity (references)": "(Soleimani and Lehner, 2022)",
-        "maturity": "Low"
+        "maturity score": "Low",
+        "maturity score references": "(Soleimani and Lehner, 2022)",
+        "process references": "(Lim et al., 2022)"
       }
     },
     {
@@ -1858,27 +2021,30 @@
       "attributes": {
         "label": "Catalytic upgradring of bio-oil from Fast catalytic pyrolysis",
         "element type": "Process",
-        "maturity": "Medium",
-        "maturity (references)": "(Tinge et al., 2018; Wu et al., 2023)",
-        "references": "(Tinge et al., 2018; Wegelin and Meier, 2024; Wu et al., 2023)"
+        "maturity score": "Medium",
+        "maturity score references": "(Tinge et al., 2018; Wu et al., 2023)",
+        "process references": "(Tinge et al., 2018; Wegelin and Meier, 2024; Wu et al., 2023)"
       }
     },
     {
       "_id": "elem-edjElmSk",
       "attributes": {
-        "label": "Polypropylene (PP)",
-        "priority code": 2,
-        "long name": "Polypropylene, in primary forms"
+        "label": "Polypropylene",
+        "hotspot rank": 2,
+        "hs 2022 codes": " - 390210",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 34.65103208418701,
+        "prodcom classification": " - 20.16.51.30 Polypropylene, in primary forms",
+        "available quantity in the eu27 in 2022 (mt)": 11.05981649
       }
     },
     {
       "_id": "elem-euPzRuvd",
       "attributes": {
         "label": "Propylene to acrylic acid",
-        "maturity": "Fully mature",
         "element type": "Process",
-        "maturity (references)": "(Beerthuis et al., 2015)",
-        "references": "(Beerthuis et al., 2015)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Beerthuis et al., 2015)",
+        "process references": "(Beerthuis et al., 2015)"
       }
     },
     {
@@ -1892,24 +2058,26 @@
       "attributes": {
         "label": "Condensation to MF",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(Crews et al., 2006; Diem et al., 2010)"
+        "maturity score": "Fully mature",
+        "process references": "(Crews et al., 2006; Diem et al., 2010)"
       }
     },
     {
       "_id": "elem-fer2s1JA",
       "attributes": {
         "label": "n-butyraldehyde (n-butanal)",
-        "priority code": 40,
-        "long name": "Butanal (butyraldehyde; normal isomer)"
+        "hotspot rank": 44,
+        "hs 2022 codes": " - 291219",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 1.3870448961021082,
+        "prodcom classification": " - 20.14.61.15 Butanal (butyraldehyde; normal isomer)",
+        "available quantity in the eu27 in 2022 (mt)": 0.3
       }
     },
     {
       "_id": "elem-fsyPoMbm",
       "attributes": {
         "label": "Formic acid (Methanoic acid)",
-        "priority code": 48,
-        "long name": "Formic acid, its salts and esters"
+        "hotspot rank": 48
       }
     },
     {
@@ -1922,18 +2090,21 @@
       "_id": "elem-gcs0u42W",
       "attributes": {
         "label": "2G Hemicellulose fermentation",
-        "references": "(Devi et al., 2021; Toor et al., 2020; Broda et al., 2022; Tse et al., 2021)",
-        "maturity (references)": "(Leaf by Lesaffre, 2024)",
-        "maturity": "Medium",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "Medium",
+        "maturity score references": "(Leaf by Lesaffre, 2024)",
+        "process references": "(Devi et al., 2021; Toor et al., 2020; Broda et al., 2022; Tse et al., 2021)"
       }
     },
     {
       "_id": "elem-gvK1r2Wx",
       "attributes": {
         "label": "Styrene",
-        "priority code": 11,
-        "long name": "Styrene"
+        "hotspot rank": 9,
+        "hs 2022 codes": " - 290250",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 15.552721450213436,
+        "prodcom classification": " - 20.14.12.50 Styrene",
+        "available quantity in the eu27 in 2022 (mt)": 3.627976392
       }
     },
     {
@@ -1941,8 +2112,8 @@
       "attributes": {
         "label": "Biobased Propylene glycol (1,2-propanediol) from hydrogenolysis of glycerol",
         "element type": "Process",
-        "maturity": "High",
-        "maturity (references)": "(de Jong et al., 2012)"
+        "maturity score": "High",
+        "maturity score references": "(de Jong et al., 2012)"
       }
     },
     {
@@ -1950,9 +2121,9 @@
       "attributes": {
         "label": "Fermentation to 2-butanol",
         "element type": "Process",
-        "maturity": "Low",
-        "maturity (references)": "(Straathof, 2014)",
-        "references": "(Straathof, 2014)"
+        "maturity score": "Low",
+        "maturity score references": "(Straathof, 2014)",
+        "process references": "(Straathof, 2014)"
       }
     },
     {
@@ -1960,8 +2131,11 @@
       "attributes": {
         "label": "Poly(ethylene-vinyl acetate) (PEVA)",
         "priority": "",
-        "priority code": 31,
-        "long name": "Ethylene-vinyl acetate copolymers, in primary forms"
+        "hotspot rank": 37,
+        "hs 2022 codes": " - 390130",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.066398876131841,
+        "prodcom classification": " - 20.16.10.70 Ethylene-vinyl acetate copolymers, in primary forms",
+        "available quantity in the eu27 in 2022 (mt)": 0.593659673
       }
     },
     {
@@ -1969,16 +2143,16 @@
       "attributes": {
         "label": "Adiponitrile to caprolactames by 6-aminocapronitrile",
         "element type": "Process",
-        "references": "(Tinge et al., 2018; Han, 2017; Beerthuis et al., 2015)"
+        "process references": "(Tinge et al., 2018; Han, 2017; Beerthuis et al., 2015)"
       }
     },
     {
       "_id": "elem-i5sCATlc",
       "attributes": {
         "label": "Hydration of the ethylene oxide to produce EG",
-        "maturity": "Fully mature",
-        "references": "(Wong et al., 2023)",
-        "maturity (references)": "(Wong et al., 2023)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Wong et al., 2023)",
+        "process references": "(Wong et al., 2023)"
       }
     },
     {
@@ -2006,9 +2180,9 @@
       "attributes": {
         "label": "Hydroformylations of propylene",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Raff, 2013)",
-        "references": "(Raff, 2013)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Raff, 2013)",
+        "process references": "(Raff, 2013)"
       }
     },
     {
@@ -2022,17 +2196,20 @@
       "attributes": {
         "label": "Anaerobic Fermentations of Glucoses",
         "element type": "Process",
-        "maturity (references)": "(IEA Bioenergy, 2020)",
-        "maturity": "High",
-        "references": "(Lee et al, 2022; Lee et al, 2022)"
+        "maturity score": "High",
+        "maturity score references": "(IEA Bioenergy, 2020)",
+        "process references": "(Lee et al, 2022; Lee et al, 2022)"
       }
     },
     {
       "_id": "elem-jGANJZE9",
       "attributes": {
         "label": "Methyl methacrylate",
-        "priority code": 26,
-        "long name": "Esters of methacrylic acid"
+        "hotspot rank": 35,
+        "hs 2022 codes": " - 291614",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.169176034074263,
+        "prodcom classification": " - 20.14.33.40 Esters of methacrylic acid",
+        "available quantity in the eu27 in 2022 (mt)": 0.321638245
       }
     },
     {
@@ -2040,18 +2217,18 @@
       "attributes": {
         "label": "3-HP from glycerol",
         "element type": "Process",
-        "maturity": "Medium",
-        "maturity (references)": "(IEA Bioenergy, 2020)"
+        "maturity score": "Medium",
+        "maturity score references": "(IEA Bioenergy, 2020)"
       }
     },
     {
       "_id": "elem-k2GFrf0S",
       "attributes": {
         "label": "m-Xylene isomerization",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Ziegler-Skylakakis et al., 2019)",
-        "references": "(Ziegler-Skylakakis et al., 2019)",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "Fully mature",
+        "maturity score references": "(Ziegler-Skylakakis et al., 2019)",
+        "process references": "(Ziegler-Skylakakis et al., 2019)"
       }
     },
     {
@@ -2059,9 +2236,9 @@
       "attributes": {
         "label": "Hydration of acetylene",
         "element type": "Process",
-        "maturity (references)": "(Eckert et al., 2006)",
-        "references": "(Eckert et al., 2006)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Eckert et al., 2006)",
+        "process references": "(Eckert et al., 2006)"
       }
     },
     {
@@ -2082,9 +2259,9 @@
       "attributes": {
         "label": "Based on isosorbide",
         "element type": "Process",
-        "references": "(Molenveld and Bos, 2020)",
-        "maturity": "Medium",
-        "maturity (references)": "(Molenveld and Bos, 2020)"
+        "maturity score": "Medium",
+        "maturity score references": "(Molenveld and Bos, 2020)",
+        "process references": "(Molenveld and Bos, 2020)"
       }
     },
     {
@@ -2092,9 +2269,9 @@
       "attributes": {
         "label": "hydrogenation of Propanal",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(Klabunde et al., 2018)",
-        "maturity (references)": "(Klabunde et al., 2018)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Klabunde et al., 2018)",
+        "process references": "(Klabunde et al., 2018)"
       }
     },
     {
@@ -2111,9 +2288,9 @@
       "attributes": {
         "label": "Anionic polymerization of formaldehyde",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Haubs et al., 2012)",
-        "references": "(Haubs et al., 2012)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Haubs et al., 2012)",
+        "process references": "(Haubs et al., 2012)"
       }
     },
     {
@@ -2126,16 +2303,18 @@
       "_id": "elem-mJWwMCg9",
       "attributes": {
         "label": "Polyether polyols",
-        "priority": "",
-        "long name": "Polyethylene glycols and other polyether alcohols, in primary forms"
+        "priority": ""
       }
     },
     {
       "_id": "elem-mP4DymPW",
       "attributes": {
         "label": "Polyamide -6",
-        "priority code": 10,
-        "long name": "Polyamide -6 (PA 6)"
+        "hotspot rank": 10,
+        "hs 2022 codes": " - 390810",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 12.665433245574713,
+        "prodcom classification": " - 20.16.54.50 Polyamide -6, -11, -12, -6,6, -6,9, -6,10 or -6,12, in primary forms",
+        "available quantity in the eu27 in 2022 (mt)": 1.281304022
       }
     },
     {
@@ -2143,9 +2322,9 @@
       "attributes": {
         "label": "Condensation of acetone with excess phenol",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Weissermel and Arpe, 2003)",
-        "references": "(Weissermel and Arpe, 2003)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Weissermel and Arpe, 2003)",
+        "process references": "(Weissermel and Arpe, 2003)"
       }
     },
     {
@@ -2153,8 +2332,8 @@
       "attributes": {
         "label": "Direct air capture of CO2",
         "element type": "Process",
-        "maturity": "Medium",
-        "maturity (references)": "(Vogt and Weckhuysen, 2024)"
+        "maturity score": "Medium",
+        "maturity score references": "(Vogt and Weckhuysen, 2024)"
       }
     },
     {
@@ -2168,24 +2347,33 @@
       "_id": "elem-mrkCuD0F",
       "attributes": {
         "label": "m-Xylene",
-        "priority code": 50,
-        "long name": "m-Xylene and mixed xylene isomers"
+        "hotspot rank": 40,
+        "hs 2022 codes": " - 290242",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 1.9437161524198947,
+        "prodcom classification": " - 20.14.12.47 m-Xylene and mixed xylene isomers",
+        "available quantity in the eu27 in 2022 (mt)": 0.821433537
       }
     },
     {
       "_id": "elem-n32iWIxQ",
       "attributes": {
         "label": "Butylene",
-        "priority code": 18,
-        "long name": "Butene (butylene) and isomers thereof"
+        "hotspot rank": 17,
+        "hs 2022 codes": " - 290123",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 5.416697291011486,
+        "prodcom classification": " - 20.14.11.50 Butene (butylene) and isomers thereof",
+        "available quantity in the eu27 in 2022 (mt)": 2.000046666
       }
     },
     {
       "_id": "elem-nKJEVRRJ",
       "attributes": {
         "label": "Propylene glycol (propane-1,2-diol) (PEG)",
-        "priority code": 35,
-        "long name": "Propylene glycol (propane-1,2-diol)"
+        "hotspot rank": 25,
+        "hs 2022 codes": " - 290532",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 3.4464545787785874,
+        "prodcom classification": " - 20.14.23.20 Propylene glycol (propane-1,2-diol)",
+        "available quantity in the eu27 in 2022 (mt)": 0.848026699
       }
     },
     {
@@ -2199,17 +2387,20 @@
       "attributes": {
         "label": "Hydrolysis of methyl formate to methanol and formic",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Hietala et al., 2016)",
-        "references": "(Hietala et al., 2016)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Hietala et al., 2016)",
+        "process references": "(Hietala et al., 2016)"
       }
     },
     {
       "_id": "elem-nxMnKmH5",
       "attributes": {
         "label": "Acetone (Propanone)",
-        "priority code": 24,
-        "long name": "Acetone"
+        "hotspot rank": 26,
+        "hs 2022 codes": " - 291411",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 3.2667448685933715,
+        "prodcom classification": " - 20.14.62.11 Acetone",
+        "available quantity in the eu27 in 2022 (mt)": 1.090852807
       }
     },
     {
@@ -2223,9 +2414,9 @@
       "attributes": {
         "label": "oxo synthesis (propylene hydroformylation)",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Hahn et al., 2013)",
-        "references": "(Hahn et al., 2013)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Hahn et al., 2013)",
+        "process references": "(Hahn et al., 2013)"
       }
     },
     {
@@ -2233,24 +2424,30 @@
       "attributes": {
         "label": "3-HP from glucose",
         "element type": "Process",
-        "maturity": "Low",
-        "maturity (references)": "(Beerthuis et al., 2015)"
+        "maturity score": "Low",
+        "maturity score references": "(Beerthuis et al., 2015)"
       }
     },
     {
       "_id": "elem-oojNpukj",
       "attributes": {
         "label": "Methanal (formaldehyde)",
-        "priority code": 46,
-        "long name": "Methanal (formaldehyde)"
+        "hotspot rank": 46,
+        "hs 2022 codes": " - 291211",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 1.2491139091347752,
+        "prodcom classification": " - 20.14.61.11 Methanal (formaldehyde)",
+        "available quantity in the eu27 in 2022 (mt)": 0.931200527
       }
     },
     {
       "_id": "elem-pYcWtv4u",
       "attributes": {
         "label": "Toluene",
-        "priority code": 29,
-        "long name": "Toluene"
+        "hotspot rank": 28,
+        "hs 2022 codes": " - 290230",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.767717022207875,
+        "prodcom classification": " - 20.14.12.25 Toluene",
+        "available quantity in the eu27 in 2022 (mt)": 1.120381615
       }
     },
     {
@@ -2264,16 +2461,19 @@
       "_id": "elem-qenkLMwj",
       "attributes": {
         "label": "Aniline",
-        "priority code": 20,
-        "long name": "Aniline and its salts (excluding derivatives)"
+        "hotspot rank": 21,
+        "hs 2022 codes": " - 292141",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 4.188391735733184,
+        "prodcom classification": " - 20.14.41.51 Aniline and its salts (excluding derivatives)",
+        "available quantity in the eu27 in 2022 (mt)": 0.881884158
       }
     },
     {
       "_id": "elem-qpMInAm6",
       "attributes": {
         "label": "Polycondensations of Lactic acids",
-        "references": "(Rosenboom et al, 2022)",
-        "element type": "Process"
+        "element type": "Process",
+        "process references": "(Rosenboom et al, 2022)"
       }
     },
     {
@@ -2287,26 +2487,29 @@
       "attributes": {
         "label": "HMF to Adipic acid",
         "element type": "Process",
-        "maturity": "Low",
-        "maturity (references)": "(Beerthuis et al., 2015)",
-        "references": "(Beerthuis et al., 2015)"
+        "maturity score": "Low",
+        "maturity score references": "(Beerthuis et al., 2015)",
+        "process references": "(Beerthuis et al., 2015)"
       }
     },
     {
       "_id": "elem-rEqVJyw6",
       "attributes": {
         "label": "Propylene to Polypropylene (PP), Biobased propylene polymerization",
-        "maturity": "Fully mature",
-        "references": "(Zacharopoulou and Lemonidou, 2018)",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "Fully mature",
+        "process references": "(Zacharopoulou and Lemonidou, 2018)"
       }
     },
     {
       "_id": "elem-rKcv5l4q",
       "attributes": {
         "label": "Ethylbenzene",
-        "priority code": 41,
-        "long name": "Ethylbenzene"
+        "hotspot rank": 36,
+        "hs 2022 codes": " - 290260",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 2.071366165471456,
+        "prodcom classification": " - 20.14.12.60 Ethylbenzene",
+        "available quantity in the eu27 in 2022 (mt)": 0.64249726
       }
     },
     {
@@ -2320,8 +2523,8 @@
       "attributes": {
         "label": "Water gas shift",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Häussinger et al., 2011)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Häussinger et al., 2011)"
       }
     },
     {
@@ -2329,9 +2532,9 @@
       "attributes": {
         "label": "Adiponitrile is by electrolytic dimerization of acrylonitrile",
         "element type": "Process",
-        "references": "(Herzog and Smiley, 2012)",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Herzog and Smiley, 2012)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Herzog and Smiley, 2012)",
+        "process references": "(Herzog and Smiley, 2012)"
       }
     },
     {
@@ -2339,9 +2542,9 @@
       "attributes": {
         "label": "Toluene to p-Xylene",
         "element type": "Process",
-        "maturity (references)": "(Kumar et al., 2024)",
-        "maturity": "Fully mature",
-        "references": "(Kumar et al., 2024)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Kumar et al., 2024)",
+        "process references": "(Kumar et al., 2024)"
       }
     },
     {
@@ -2354,8 +2557,11 @@
       "_id": "elem-s6o6SGLq",
       "attributes": {
         "label": "Diethylene glycol (DEG)",
-        "priority code": 51,
-        "long name": "2,2-Oxydiethanol (diethylene glycol; digol)"
+        "hotspot rank": 49,
+        "hs 2022 codes": " - 290941",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 1.050215010324966,
+        "prodcom classification": " - 20.14.63.33 2,2-Oxydiethanol (diethylene glycol; digol)",
+        "available quantity in the eu27 in 2022 (mt)": 0.321846701
       }
     },
     {
@@ -2363,8 +2569,8 @@
       "attributes": {
         "label": "From o-xylene",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(Ziegler-Skylakakis et al., 2019)"
+        "maturity score": "Fully mature",
+        "process references": "(Ziegler-Skylakakis et al., 2019)"
       }
     },
     {
@@ -2372,8 +2578,8 @@
       "attributes": {
         "label": "Catalytic Dehydrogenation of Ethylbenzene",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(James and Castor, 2011)"
+        "maturity score": "Fully mature",
+        "process references": "(James and Castor, 2011)"
       }
     },
     {
@@ -2381,17 +2587,20 @@
       "attributes": {
         "label": "EO to DEG",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Dye, 2001)",
-        "references": "(Dye, 2001)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Dye, 2001)",
+        "process references": "(Dye, 2001)"
       }
     },
     {
       "_id": "elem-saQ9Ewd5",
       "attributes": {
         "label": "Ethylene",
-        "priority code": 5,
-        "long name": "Ethylene"
+        "hotspot rank": 3,
+        "hs 2022 codes": " - 271114",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 27.60882022673396,
+        "prodcom classification": " - 20.14.11.30 Ethylene",
+        "available quantity in the eu27 in 2022 (mt)": 10.33749377
       }
     },
     {
@@ -2410,10 +2619,10 @@
       "_id": "elem-tIbp7EyG",
       "attributes": {
         "label": "Aniline production via nitrobenzene",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Winter et al., 2021)",
-        "references": "(Winter et al., 2021)",
-        "element type": "Process"
+        "element type": "Process",
+        "maturity score": "Fully mature",
+        "maturity score references": "(Winter et al., 2021)",
+        "process references": "(Winter et al., 2021)"
       }
     },
     {
@@ -2421,8 +2630,8 @@
       "attributes": {
         "label": "Methanol to PE",
         "element type": "Process",
-        "maturity (references)": "(Zacharopoulou and Lemonidou, 2018)",
-        "maturity": "Low"
+        "maturity score": "Low",
+        "maturity score references": "(Zacharopoulou and Lemonidou, 2018)"
       }
     },
     {
@@ -2436,8 +2645,7 @@
       "_id": "elem-tvanL1C6",
       "attributes": {
         "label": "Melamine-formaldehyde (MF)",
-        "priority": "",
-        "long name": "Melamine resins, in primary forms"
+        "priority": ""
       }
     },
     {
@@ -2445,9 +2653,9 @@
       "attributes": {
         "label": "Fermentation to isobutanol",
         "element type": "Process",
-        "maturity": "Medium",
-        "maturity (references)": "(Straathof, 2014)",
-        "references": "(Straathof, 2014)"
+        "maturity score": "Medium",
+        "maturity score references": "(Straathof, 2014)",
+        "process references": "(Straathof, 2014)"
       }
     },
     {
@@ -2455,9 +2663,9 @@
       "attributes": {
         "label": "Tischtschenko reaction: addition of two equivalents Acetaldehyde by disproportionation",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Weissermel and Arpe, 2003; Löser et al., 2014)",
-        "references": "(Weissermel and Arpe, 2003; Löser et al., 2014)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Weissermel and Arpe, 2003; Löser et al., 2014)",
+        "process references": "(Weissermel and Arpe, 2003; Löser et al., 2014)"
       }
     },
     {
@@ -2465,15 +2673,18 @@
       "attributes": {
         "label": "Fermentation to acetic acid",
         "element type": "Process",
-        "maturity": "High"
+        "maturity score": "High"
       }
     },
     {
       "_id": "elem-vq13Iv3s",
       "attributes": {
         "label": "o-Xylene",
-        "priority code": 52,
-        "long name": "o-Xylene"
+        "hotspot rank": 50,
+        "hs 2022 codes": " - 290241",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 1.0231074339997672,
+        "prodcom classification": " - 20.14.12.43 o-Xylene",
+        "available quantity in the eu27 in 2022 (mt)": 0.318208407
       }
     },
     {
@@ -2481,9 +2692,9 @@
       "attributes": {
         "label": "Ketene process",
         "element type": "Process",
-        "maturity (references)": "(Held et al., 2000)",
-        "references": "(Held et al., 2000)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Held et al., 2000)",
+        "process references": "(Held et al., 2000)"
       }
     },
     {
@@ -2491,9 +2702,9 @@
       "attributes": {
         "label": "PVC Via Ethylene",
         "element type": "Process",
-        "references": "(Fischer et al., 2014; Molenveld and Bos, 2020; Roland-Holst et al, 2013; Zhang et al., 2021)",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Fischer et al., 2014)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Fischer et al., 2014)",
+        "process references": "(Fischer et al., 2014; Molenveld and Bos, 2020; Roland-Holst et al, 2013; Zhang et al., 2021)"
       }
     },
     {
@@ -2508,9 +2719,9 @@
       "attributes": {
         "label": "Phosgenation",
         "element type": "Process",
-        "maturity": "Fully mature",
-        "maturity (references)": "(Richter et al., 2024)",
-        "references": "(Richter et al., 2024)"
+        "maturity score": "Fully mature",
+        "maturity score references": "(Richter et al., 2024)",
+        "process references": "(Richter et al., 2024)"
       }
     },
     {
@@ -2525,9 +2736,9 @@
       "attributes": {
         "label": "Catalytic hydrogenolysis of sugar to PEG",
         "element type": "Process",
-        "maturity (references)": "(Główka and Krawczyk, 2023)",
-        "references": "(Główka and Krawczyk, 2023)",
-        "maturity": "Medium"
+        "maturity score": "Medium",
+        "maturity score references": "(Główka and Krawczyk, 2023)",
+        "process references": "(Główka and Krawczyk, 2023)"
       }
     },
     {
@@ -2548,9 +2759,9 @@
       "attributes": {
         "label": "Lysine to caprolactam",
         "element type": "Process",
-        "references": "(Beerthuis et al., 2015)",
-        "maturity": "Low",
-        "maturity (references)": "(Beerthuis et al., 2015)"
+        "maturity score": "Low",
+        "maturity score references": "(Beerthuis et al., 2015)",
+        "process references": "(Beerthuis et al., 2015)"
       }
     },
     {
@@ -2558,9 +2769,9 @@
       "attributes": {
         "label": "Styrene biosynthesis",
         "element type": "Process",
-        "maturity": "Low",
-        "maturity (references)": "(McKenna and Nielsen, 2011)",
-        "references": "(McKenna and Nielsen, 2011)"
+        "maturity score": "Low",
+        "maturity score references": "(McKenna and Nielsen, 2011)",
+        "process references": "(McKenna and Nielsen, 2011)"
       }
     },
     {
@@ -2573,8 +2784,11 @@
       "_id": "elem-ztTEnxgt",
       "attributes": {
         "label": "Polyacetals/Polyoxymethylene (POM)",
-        "priority code": 45,
-        "long name": "Polyacetals, in primary forms"
+        "hotspot rank": 45,
+        "hs 2022 codes": " - 390710",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": 1.34090185297475,
+        "prodcom classification": " - 20.16.40.13 Polyacetals, in primary forms",
+        "available quantity in the eu27 in 2022 (mt)": 0.334412816
       }
     },
     {
@@ -2582,35 +2796,20 @@
       "attributes": {
         "label": "CO2 separation from anaerobic digestion",
         "element type": "Process",
-        "maturity": "Medium",
-        "maturity (references)": "(Sahota et al., 2025; Marchiori et al., 2025)"
+        "maturity score": "Medium",
+        "maturity score references": "(Sahota et al., 2025; Marchiori et al., 2025)"
       }
     },
     {
-      "_id": "elem-YqCJ6dY6",
+      "_id": "elem-tIVrKB7e",
       "attributes": {
-        "label": "Benzoic acid",
-        "priority code": 53,
-        "long name": "Benzoic acid; its salts and esters"
-      }
-    },
-    {
-      "_id": "elem-bbLdBMe1",
-      "attributes": {
-        "label": "Oxidation of toluene with air",
-        "element type": "Process",
-        "maturity": "Fully mature",
-        "references": "(Maki and Takeda, 2000; Ziegler-Sylakakis et al., 2019)"
-      }
-    },
-    {
-      "_id": "elem-QnO4gjTJ",
-      "attributes": {
-        "label": "Lignin depolymerization",
-        "element type": "Process",
-        "maturity": "Low",
-        "maturity (references)": "(Kumar et al., 2024)",
-        "references": "(Kumar et al., 2024)"
+        "label": "dummy",
+        "hs 2022 codes": "x",
+        "hotspot rank": "12",
+        "long names": "- x",
+        "total ghg footprint with end-of-life of the available quantity in the eu27 in 2022 (gwp100, mt co2-eq)": "0.2",
+        "prodcom classification": "- qs",
+        "available quantity in the eu27 in 2022 (mt)": "0.1"
       }
     }
   ],
@@ -2747,7 +2946,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "High"
+        "maturity score": "High"
       },
       "from": "elem-IF6R7k9o",
       "to": "elem-saQ9Ewd5"
@@ -2933,6 +3132,15 @@
       "to": "elem-iceIb9SO"
     },
     {
+      "_id": "conn-5ugrIvwZ",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-s4bU2eZN",
+      "to": "elem-rak964Ds"
+    },
+    {
       "_id": "conn-64nEFEUp",
       "direction": "directed",
       "delayed": false,
@@ -3086,6 +3294,15 @@
       "to": "elem-P4FtCZb1"
     },
     {
+      "_id": "conn-7UWMxPf7",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-98FKbKCY",
+      "to": "elem-yHWXW0zD"
+    },
+    {
       "_id": "conn-7nUQQYCX",
       "direction": "directed",
       "delayed": false,
@@ -3127,7 +3344,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Low"
+        "maturity score": "Low"
       },
       "from": "elem-OKgKEZkK",
       "to": "elem-WIU1nnyX"
@@ -3210,7 +3427,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Medium"
+        "maturity score": "Medium"
       },
       "from": "elem-98FKbKCY",
       "to": "elem-ij6oRlDc"
@@ -3348,8 +3565,8 @@
       "reversed": false,
       "attributes": {
         "label": "Biobased propylene polymerization",
-        "references": "(Zacharopoulou and Lemonidou, 2018)",
-        "maturity": "Fully mature"
+        "maturity score": "Fully mature",
+        "process references": "(Zacharopoulou and Lemonidou, 2018)"
       },
       "from": "elem-WIU1nnyX",
       "to": "elem-edjElmSk"
@@ -3722,7 +3939,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Low"
+        "maturity score": "Low"
       },
       "from": "elem-2GEydqHX",
       "to": "elem-saQ9Ewd5"
@@ -3733,7 +3950,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Medium"
+        "maturity score": "Medium"
       },
       "from": "elem-OxxfEwUo",
       "to": "elem-KTesy4fW"
@@ -3993,6 +4210,15 @@
       "to": "elem-KjU9XGeM"
     },
     {
+      "_id": "conn-NZUJXHKF",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-bbLdBMe1",
+      "to": "elem-YqCJ6dY6"
+    },
+    {
       "_id": "conn-Nc8KEDeA",
       "direction": "directed",
       "delayed": false,
@@ -4061,7 +4287,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Medium"
+        "maturity score": "Medium"
       },
       "from": "elem-cuo4YI58",
       "to": "elem-ncPOiBiF"
@@ -4072,7 +4298,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Medium"
+        "maturity score": "Medium"
       },
       "from": "elem-QlkLW6uW",
       "to": "elem-WIU1nnyX"
@@ -4155,10 +4381,19 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Low"
+        "maturity score": "Low"
       },
       "from": "elem-duAXWvtt",
       "to": "elem-9QnqsZRL"
+    },
+    {
+      "_id": "conn-PqNTh6CR",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-yHWXW0zD",
+      "to": "elem-MFD3EYR5"
     },
     {
       "_id": "conn-PyYG3ABD",
@@ -4256,7 +4491,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "High"
+        "maturity score": "High"
       },
       "from": "elem-Kgc7aZut",
       "to": "elem-bNGYTx1p"
@@ -4413,6 +4648,15 @@
       "attributes": {},
       "from": "elem-OPNWbjW6",
       "to": "elem-RNMSy7eY"
+    },
+    {
+      "_id": "conn-Tvb5K7rH",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-98FKbKCY",
+      "to": "elem-ij6oRlDc"
     },
     {
       "_id": "conn-TzKT44nv",
@@ -4669,6 +4913,15 @@
       "to": "elem-7wWpIFVM"
     },
     {
+      "_id": "conn-Y9miojXc",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-ij6oRlDc",
+      "to": "elem-MFD3EYR5"
+    },
+    {
       "_id": "conn-YNCmqrZo",
       "direction": "directed",
       "delayed": false,
@@ -4782,7 +5035,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Low"
+        "maturity score": "Low"
       },
       "from": "elem-MMyJ3phj",
       "to": "elem-Yb2zAnkq"
@@ -4955,7 +5208,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Low"
+        "maturity score": "Low"
       },
       "from": "elem-1DSUVbO9",
       "to": "elem-WIU1nnyX"
@@ -4975,7 +5228,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Medium"
+        "maturity score": "Medium"
       },
       "from": "elem-OGiBCvr7",
       "to": "elem-6rA46yVJ"
@@ -5004,7 +5257,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "High"
+        "maturity score": "High"
       },
       "from": "elem-8e3tRzhJ",
       "to": "elem-WIU1nnyX"
@@ -5136,6 +5389,15 @@
       "to": "elem-1vWVU8Yz"
     },
     {
+      "_id": "conn-fWpTgyc7",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-Ex0OhUX9",
+      "to": "elem-QnO4gjTJ"
+    },
+    {
       "_id": "conn-fYtEhZvY",
       "direction": "directed",
       "delayed": false,
@@ -5242,6 +5504,15 @@
       "attributes": {},
       "from": "elem-w3WELCFU",
       "to": "elem-cDjEwuFd"
+    },
+    {
+      "_id": "conn-hQJOoUZU",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-s4bU2eZN",
+      "to": "elem-H6QkJahy"
     },
     {
       "_id": "conn-hfYglSeJ",
@@ -5417,6 +5688,15 @@
       "to": "elem-I7jxhszM"
     },
     {
+      "_id": "conn-kgrBqswA",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-pYcWtv4u",
+      "to": "elem-bbLdBMe1"
+    },
+    {
       "_id": "conn-kls6asSv",
       "direction": "directed",
       "delayed": false,
@@ -5440,7 +5720,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "High"
+        "maturity score": "High"
       },
       "from": "elem-WhpqMRWY",
       "to": "elem-rRmXWva0"
@@ -5658,7 +5938,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Medium"
+        "maturity score": "Medium"
       },
       "from": "elem-7xqbeeFx",
       "to": "elem-RSVixCaF"
@@ -5779,6 +6059,15 @@
       "attributes": {},
       "from": "elem-Kv5RG9FI",
       "to": "elem-Vn8sfapb"
+    },
+    {
+      "_id": "conn-suRIytoS",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-HLakyNJk",
+      "to": "elem-JN5xvnfO"
     },
     {
       "_id": "conn-t5QOTlsa",
@@ -5930,7 +6219,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "Medium"
+        "maturity score": "Medium"
       },
       "from": "elem-PBAnSQLw",
       "to": "elem-mFJucLKW"
@@ -6049,7 +6338,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "High"
+        "maturity score": "High"
       },
       "from": "elem-imOllIzj",
       "to": "elem-D8pqlbwo"
@@ -6123,7 +6412,7 @@
       "delayed": false,
       "reversed": false,
       "attributes": {
-        "maturity": "High"
+        "maturity score": "High"
       },
       "from": "elem-IF6R7k9o",
       "to": "elem-WIU1nnyX"
@@ -6181,6 +6470,15 @@
       "attributes": {},
       "from": "elem-rak964Ds",
       "to": "elem-08xIpvCv"
+    },
+    {
+      "_id": "conn-zIACfO4W",
+      "direction": "directed",
+      "delayed": false,
+      "reversed": false,
+      "attributes": {},
+      "from": "elem-QnO4gjTJ",
+      "to": "elem-cYrcCHAt"
     },
     {
       "_id": "conn-zPK5D9rm",
@@ -6244,113 +6542,14 @@
       "attributes": {},
       "from": "elem-d7NQeXgs",
       "to": "elem-BQdATSUG"
-    },
-    {
-      "_id": "conn-kgrBqswA",
-      "direction": "directed",
-      "delayed": false,
-      "reversed": false,
-      "attributes": {},
-      "from": "elem-pYcWtv4u",
-      "to": "elem-bbLdBMe1"
-    },
-    {
-      "_id": "conn-NZUJXHKF",
-      "direction": "directed",
-      "delayed": false,
-      "reversed": false,
-      "attributes": {},
-      "from": "elem-bbLdBMe1",
-      "to": "elem-YqCJ6dY6"
-    },
-    {
-      "_id": "conn-hQJOoUZU",
-      "direction": "directed",
-      "delayed": false,
-      "reversed": false,
-      "attributes": {},
-      "from": "elem-s4bU2eZN",
-      "to": "elem-H6QkJahy"
-    },
-    {
-      "_id": "conn-5ugrIvwZ",
-      "direction": "directed",
-      "delayed": false,
-      "reversed": false,
-      "attributes": {},
-      "from": "elem-s4bU2eZN",
-      "to": "elem-rak964Ds"
-    },
-    {
-      "_id": "conn-Tvb5K7rH",
-      "direction": "directed",
-      "delayed": false,
-      "reversed": false,
-      "attributes": {},
-      "from": "elem-98FKbKCY",
-      "to": "elem-ij6oRlDc"
-    },
-    {
-      "_id": "conn-7UWMxPf7",
-      "direction": "directed",
-      "delayed": false,
-      "reversed": false,
-      "attributes": {},
-      "from": "elem-98FKbKCY",
-      "to": "elem-yHWXW0zD"
-    },
-    {
-      "_id": "conn-Y9miojXc",
-      "direction": "directed",
-      "delayed": false,
-      "reversed": false,
-      "attributes": {},
-      "from": "elem-ij6oRlDc",
-      "to": "elem-MFD3EYR5"
-    },
-    {
-      "_id": "conn-PqNTh6CR",
-      "direction": "directed",
-      "delayed": false,
-      "reversed": false,
-      "attributes": {},
-      "from": "elem-yHWXW0zD",
-      "to": "elem-MFD3EYR5"
-    },
-    {
-      "_id": "conn-suRIytoS",
-      "direction": "directed",
-      "delayed": false,
-      "reversed": false,
-      "attributes": {},
-      "from": "elem-HLakyNJk",
-      "to": "elem-JN5xvnfO"
-    },
-    {
-      "_id": "conn-zIACfO4W",
-      "direction": "directed",
-      "delayed": false,
-      "reversed": false,
-      "attributes": {},
-      "from": "elem-QnO4gjTJ",
-      "to": "elem-cYrcCHAt"
-    },
-    {
-      "_id": "conn-fWpTgyc7",
-      "direction": "directed",
-      "delayed": false,
-      "reversed": false,
-      "attributes": {},
-      "from": "elem-Ex0OhUX9",
-      "to": "elem-QnO4gjTJ"
     }
   ],
   "loops": [],
   "maps": [
     {
       "_id": "map-cofwoKNB",
-      "name": "Untitled map",
-      "description": "",
+      "name": "Bio-based pathways global map",
+      "description": "# Hotspot products and their bio-based pathways\n\nA graph database representing bio-based alternative pathways to high-greenhouse-gas-footprint petrochemicals in the European Union.\n\nShare link: https://kumu.io/nicolas-lienart/screenlca-paper-biobased-pathways\n\nAuthor: [Nicolas LIENART](https://orcid.org/0009-0001-3259-2819)\n\n## Legend\n\nDiamonds represent processes interconnecting products, represented by circles.\n\nA complete legend is located in the bottom left corner.\n\n## Metadata\n\nNodes contain some metadata listed below.\n\nFor more details, please refer to the related scientific publication, including its supplementary materials and code.\n\n### Products:\n\n- `Available quantity in the EU27 in 2022 (Mt)`: This accounts both production + imports, expressed in million tonnes of product per year\n- `HS 2022 codes`: 6-digit Harmonized System (HS) 2022 codes\n- `Hotspot rank`: Priority rank of the product, based on its total footprint, ranking is performed by descending order of total footprint\n- `PRODCOM classification`: Associated PRODCOM product, there could be multiple matching products when the hotspot product has been aggregated.\n- `Total GHG footprint of the available quantity in the EU27 in 2022 (Mt CO2-eq)`: Indicates the greenhouse gas (GHG) footprint of the product, related to the available quantity. It uses the GWP100 indicator based on characterization factors of the IPCC 2021 report.\n\n### Processes:\n\n- `Maturity score`: Possible options are either \"Low\", \"Medium\", \"High\" or \"Fully mature\". See article supplementary materials's PDF Table S6 for more details.\n- `Maturity score references`: Any bibliographic reference whiched helped to determine the process' maturity\n- `Process references`: Any bibliographic reference giving some details about the process\n\n## Related publication\n\n - Title: Residual biomass to bio-based chemicals and plastics: ex-ante screening methodology for prioritizing high-impact substitutions\n - Authors: [Nicolas LIENART](https://orcid.org/0009-0001-3259-2819), [Thibaut LECOMPTE](https://orcid.org/0000-0001-9237-8454), [Lorie HAMELIN](https://orcid.org/0000-0001-9092-1900) \n - Journal: Resources, Conservation and Recycling (RCR) - Elsevier\n - Doi: #todo\n - Git repository (Forge INRAE): https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code\n - Git repository (GitHub): https://github.com/nicolnt/screen-lca-paper-supplementary-code\n\n## Licence\n\nIf may freely utilize any portion of this database or the associated materials, the only requirement is to give proper credit by properly citing the related publication.\n\nThis work is licenced under the [Creative Commons Attribution (CC-BY 4.0) public licence](https://creativecommons.org/licenses/by/4.0/).\n\n![](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)\n\n<details> \n<summary> <h2>Bibliography (click to open)</h2> </summary> \n<ul style=\"font-size:small\">\n<li>Eckert, M., Fleischmann, G., Jira, R., Bolt, H. M., & Golka, K. (2006). Acetaldehyde. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a01_031.pub2</li> <li>Campbell, M. L. (2011). Cyclohexane. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a08_209.pub2</li> <li>Bazzanella, A., & Ausfelder, F. (2017). Low carbon energy and feedstock for the European chemical industry: Technology Study. DECHEMA, Gesellschaft für Chemische Technik und Biotechnologie eV.</li> <li>Olabisi, O., & Adewale, K. (Eds.). (2016). Handbook of thermoplastics (Second edition). CRC Press, Taylor & Francis Group.</li> <li>Vogt, E. T. C., & Weckhuysen, B. M. (2024). The refinery of the future. Nature, 629(8011), 295–306. https://doi.org/10.1038/s41586-024-07322-2</li> <li>Le Berre, C., Serp, P., Kalck, P., & Torrence, G. P. (2014). Acetic Acid. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–34). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a01_045.pub3</li> <li>Leaf by Lesaffre. (2024). White Paper on the Valorization of Cellulosic Sugars. https://content.leaf-lesaffre.com/white-paper-cellulosic-sugars-valorization</li> <li>Held, H., Rengstl, A., & Mayer, D. (2000). Acetic Anhydride and Mixed Fatty Acid Anhydrides. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a01_065</li> <li>Minx, J. C., Lamb, W. F., Callaghan, M. W., Fuss, S., Hilaire, J., Creutzig, F., Amann, T., Beringer, T., de Oliveira Garcia, W., Hartmann, J., Khanna, T., Lenzi, D., Luderer, G., Nemet, G. F., Rogelj, J., Smith, P., Vicente Vicente, J. L., Wilcox, J., & del Mar Zamora Dominguez, M. (2018). Negative emissions—Part 1: Research landscape and synthesis. Environmental Research Letters, 13(6), 063001. https://doi.org/10.1088/1748-9326/aabf9b</li> <li>Srivastava, R. K., Sarangi, P. K., Bhatia, L., Singh, A. K., & Shadangi, K. P. (2022). Conversion of methane to methanol: technologies and future challenges. Biomass Conversion and Biorefinery, 12(5), 1851–1875. https://doi.org/10.1007/s13399-021-01872-5</li> <li>de Jong, E., Higson, A., Walsh, P., & Wellisch, M. (2012). Product developments in the bio-based chemicals arena. Biofuels, Bioproducts and Biorefining, 6(6), 606–624. https://doi.org/10.1002/bbb.1360</li> <li>Rosenboom, J.-G., Langer, R., & Traverso, G. (2022). Bioplastics for a circular economy. Nature Reviews Materials, 7(2), 117–137. https://doi.org/10.1038/s41578-021-00407-8</li> <li>Lang, M., & Li, H. (2022). Sustainable Routes for the Synthesis of Renewable Adipic Acid from Biomass Derivatives. ChemSusChem, 15(1), e202101531. https://doi.org/10.1002/cssc.202101531</li> <li>Ziegler-Skylakakis, K., Fabri, J., Graeser, U., & Simo, T. A. (2019). Xylenes. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–20). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a28_433.pub2</li> <li>Clark, J. H., Farmer, T. J., Hunt, A. J., & Sherwood, J. (2015). Opportunities for Bio-Based Solvents Created as Petrochemical and Fuel Products Transition towards Renewable Resources. International Journal of Molecular Sciences, 16(8), 17101–17159. https://doi.org/10.3390/ijms160817101</li> <li>Hietala, J., Vuori, A., Johnsson, P., Pollari, I., Reutemann, W., & Kieczka, H. (2016). Formic Acid. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–22). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a12_013.pub3</li> <li>Herzog, B. D., & Smiley, R. A. (2012). Hexamethylenediamine. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a12_629.pub2</li> <li>Ziegler-Sylakakis, K., Fabri, J., Graeser, U., & Simo, T. A. (2019). Toluene. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–12). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a27_147.pub3</li> <li>Kumar, L., Asthana, S., Laxman Newalkar, B., & Kishore Pant, K. (2024). Selective toluene methylation to p-xylene: current status & future perspective. Catalysis Reviews, 66(3), 820–862. https://doi.org/10.1080/01614940.2022.2097641</li> <li>Hesse, W., & Lang, J. (2011). Phenolic Resins. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a19_371.pub2</li> <li>Siegenthaler, K. O., Jung, P., Künkel, A., Lohmann, J., Loos, R., Neumann, P., Parlings, M., Porc, O., Schröder, H., Van Berkel, J., Xi, L., & Yamamoto, M. (2022). Polymers, Biobased Structural. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–18). https://doi.org/10.1002/14356007.v04_v01</li> <li>Grasselli, R. K., & Trifirò, F. (2016). Acrylonitrile from Biomass: Still Far from Being a Sustainable Process. Topics in Catalysis, 59(17), 1651–1658. https://doi.org/10.1007/s11244-016-0679-7</li> <li>Chen, Y., & Nielsen, J. (2013). Advances in metabolic pathway and strain engineering paving the way for sustainable production of chemical building blocks. Current Opinion in Biotechnology, 24(6), 965–972. https://doi.org/10.1016/j.copbio.2013.03.008</li> <li>Buznitsky, K., Verma, S., & Nitzsche, M. P. (2024). Decarbonizing industry: Policy approaches to eliminate hard-to-abate emissions. MIT Science Policy Review. https://sciencepolicyreview.pubpub.org/pub/3v3e6ed7/release/2</li> <li>Wang, Z., Ganewatta, M. S., & Tang, C. (2020). Sustainable polymers from biomass: Bridging chemistry with materials and processing. Progress in Polymer Science, 101, 101197. https://doi.org/10.1016/j.progpolymsci.2019.101197</li> <li>Mori, R. (2023). Replacing all petroleum-based chemical products with natural biomass-based chemical products: a tutorial review. RSC Sustainability, 1(2), 179–212. https://doi.org/10.1039/D2SU00014H</li> <li>Han, J. (2017). Biorenewable Strategy for Catalytic ε-Caprolactam Production Using Cellulose- and Hemicellulose-Derived γ-Valerolactone. ACS Sustainable Chemistry & Engineering, 5(2), 1892–1898. https://doi.org/10.1021/acssuschemeng.6b02616</li> <li>Maki, T., & Takeda, K. (2000). Benzoic Acid and Derivatives. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a03_555</li> <li>FranceAgriMer. (2024). Évolution du positionnement de la France sur le marché international des biocarburants. https://www.franceagrimer.fr/Autres-filieres/Actualites/Evolution-du-positionnement-de-la-France-sur-le-marche-international-des-biocarburants</li> <li>Główka, M., & Krawczyk, T. (2023). New Trends and Perspectives in Production of 1,2-Propanediol. ACS Sustainable Chemistry & Engineering, 11(19), 7274–7287. https://doi.org/10.1021/acssuschemeng.3c01018</li> <li>Winter, B., Meys, R., & Bardow, A. (2021). Towards aromatics from biomass: Prospective Life Cycle Assessment of bio-based aniline. Journal of Cleaner Production, 290, 125818. https://doi.org/10.1016/j.jclepro.2021.125818</li> <li>Slak, J., Pomeroy, B., Kostyniuk, A., Grilc, M., & Likozar, B. (2022). A review of bio-refining process intensification in catalytic conversion reactions, separations and purifications of hydroxymethylfurfural (HMF) and furfural. Chemical Engineering Journal, 429, 132325. https://doi.org/10.1016/j.cej.2021.132325</li> <li>EC. (2019). Top 20 innovative bio-based products: task 3 of “Study on Support to R&I Policy in the Area of Bio based Products and Services.” Publications Office of the European Union. https://data.europa.eu/doi/10.2777/85805</li> <li>Klabunde, J., Bischoff, C., & Papa, A. J. (2018). Propanols. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–14). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a22_173.pub3</li> <li>Marchiori, P., Ferreira, V. C., Fröner-Lacerda, L. R. R., Castro, L. E. N., Sillero, L., Zanin, H. G., & Forster-Carneiro, T. (2025). Global trends and challenges in biogas purification and CO2 capture for renewable energy and climate mitigation. Biofuels, Bioproducts and Biorefining, 19(6), 2474–2494. https://doi.org/10.1002/bbb.2805</li> <li>Yahyazadeh, A., Nanda, S., & Dalai, A. K. (2024). A Critical Review of the Sustainable Production and Application of Methanol as a Biochemical and Bioenergy Carrier. Reactions, 5(1), 1–19. https://doi.org/10.3390/reactions5010001</li> <li>Dye, R. F. (2001). Ethylene glycols technology. Korean Journal of Chemical Engineering, 18(5), 571–579. https://doi.org/10.1007/BF02706370</li> <li>Diem, H., Matthias, G., & Wagner, R. A. (2010). Amino Resins. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a02_115.pub2</li> <li>Richter, F., Karafilidis, C., & Darmandeh, H. (2024). Isocyanates, Organic. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–23). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a14_611.pub2</li> <li>Gubbels, E., Heitz, T., Yamamoto, M., Chilekar, V., Zarbakhsh, S., Gepraegs, M., Köpnick, H., Schmidt, M., Brügging, W., Rüter, J., & Kaminsky, W. (2018). Polyesters. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–30). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a21_227.pub2</li> <li>Thaore, V., Chadwick, D., & Shah, N. (2018). Sustainable production of chemical intermediates for nylon manufacture: A techno-economic analysis for renewable production of caprolactone. Chemical Engineering Research and Design, 135, 140–152. https://doi.org/10.1016/j.cherd.2018.05.026</li> <li>Tinge, J., Groothaert, M., op het Veld, H., Ritz, J., Fuchs, H., Kieczka, H., & Moran, W. C. (2018). Caprolactam. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–31). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a05_031.pub3</li> <li>Tran, H.-V., Dang, T. T., Nguyen, N. H., Tran, H. T., Nguyen, D. T., Do, D. V., Le, T. S., Ngo, T. H., Late, Y. K. E., Amaniampong, P. N., Fletcher, E., Hung, T. Q., Cheng, Y., Nguyen, T.-K., Tran, T. S., Zhang, J., An, H., Nguyen, N.-T., & Trinh, Q. T. (2024). Methanol Activation: Strategies for Utilization of Methanol as C1 Building Block in Sustainable Organic Synthesis. ChemSusChem, n/a(n/a), e202401974. https://doi.org/10.1002/cssc.202401974</li> <li>Li, Y., Luo, X., & Hu, S. (2015). Bio-based Polyols and Polyurethanes. Springer International Publishing. https://doi.org/10.1007/978-3-319-21539-6</li> <li>De Vos, L., Van de Voorde, B., Van Daele, L., Dubruel, P., & Van Vlierberghe, S. (2021). Poly(alkylene terephthalate)s: From current developments in synthetic strategies towards applications. European Polymer Journal, 161, 110840. https://doi.org/10.1016/j.eurpolymj.2021.110840</li> <li>Teong, S. P., Yi, G., & Zhang, Y. (2014). Hydroxymethylfurfural production from bioresources: past, present and future. Green Chemistry, 16(4), 2015–2026. https://doi.org/10.1039/C3GC42018C</li> <li>Fischer, I., Schmitt, W. F., Porth, H.-C., Allsopp, M. W., & Vianello, G. (2014). Poly(Vinyl Chloride). In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–30). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a21_717.pub2</li> <li>Broda, M., Yelle, D. J., & Serwańska, K. (2022). Bioethanol Production from Lignocellulosic Biomass—Challenges and Solutions. Molecules, 27(24), 8717. https://doi.org/10.3390/molecules27248717</li> <li>Löser, C., Urit, T., & Bley, T. (2014). Perspectives for the biotechnological production of ethyl acetate by yeasts. Applied Microbiology and Biotechnology, 98(12), 5397–5415. https://doi.org/10.1007/s00253-014-5765-9</li> <li>Dros, A. B., Larue, O., Reimond, A., Campo, F. D., & Pera-Titus, M. (2015). Hexamethylenediamine (HMDA) from fossil- vs. bio-based routes: an economic and life cycle assessment comparative study. Green Chemistry, 17(10), 4760–4772. https://doi.org/10.1039/C5GC01549A</li> <li>Franz, A. W., Kronemayer, H., Pfeiffer, D., Pilz, R. D., Reuss, G., Disteldorf, W., Gamer, A. O., & Hilt, A. (2016). Formaldehyde. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–34). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a11_619.pub2</li> <li>Sattler, H., & Schweizer, M. (2011). Fibers, 5. Polyester Fibers. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.o10_o01</li> <li>Weissermel, K., & Arpe, H. (2003). Industrial Organic Chemistry (1st ed.). Wiley. https://doi.org/10.1002/9783527619191</li> <li>Lee, K., Jing, Y., Wang, Y., & Yan, N. (2022). A unified view on catalytic conversion of biomass and waste plastics. Nature Reviews Chemistry, 6(9), 635–652. https://doi.org/10.1038/s41570-022-00411-8</li> <li>Molenveld, K., & Bos, H. (2020). Biobased Plastics 2020. Wageningen Food & Biobased Research. https://doi.org/10.18174/534587</li> <li>Wegelin, S., & Meier, M. A. R. (2024). Bio-based aromatics for chemicals and materials: Advances in renewable drop-in and functional alternatives. Current Opinion in Green and Sustainable Chemistry, 47, 100931. https://doi.org/10.1016/j.cogsc.2024.100931</li> <li>Singh, A., Gupta, A., Rakesh N., Shivapuji, A. M., & Dasappa, S. (2022). Syngas generation for methanol synthesis: oxy-steam gasification route using agro-residue as fuel. Biomass Conversion and Biorefinery, 12(5), 1803–1818. https://doi.org/10.1007/s13399-021-02128-y</li> <li>Xu, C., Paone, E., Rodríguez-Padrón, D., Luque, R., & Mauriello, F. (2020). Recent catalytic routes for the preparation and the upgrading of biomass derived furfural and 5-hydroxymethylfurfural. Chemical Society Reviews, 49(13), 4273–4306. https://doi.org/10.1039/D0CS00041H</li> <li>IFPEN. (2019, September 26). Michelin, IFP Energies nouvelles, and Axens give a new dimension to the BioButterfly project. IFPEN. https://www.ifpenergiesnouvelles.com/article/michelin-ifp-energies-nouvelles-and-axens-give-new-dimension-biobutterfly-project</li> <li>Schmidt, O., Gambhir, A., Staffell, I., Hawkes, A., Nelson, J., & Few, S. (2017). Future cost and performance of water electrolysis: An expert elicitation study. International Journal of Hydrogen Energy, 42(52), 30470–30492. https://doi.org/10.1016/j.ijhydene.2017.10.045</li> <li>Rosenboom, J.-G., Langer, R., & Traverso, G. (2022). Bioplastics for a circular economy. Nature Reviews Materials, 7(2), 117–137. https://doi.org/10.1038/s41578-021-00407-8</li> <li>Lim, D., Lee, B., Lee, H., Byun, M., & Lim, H. (2022). Projected cost analysis of hybrid methanol production from tri-reforming of methane integrated with various water electrolysis systems: Technical and economic assessment. Renewable and Sustainable Energy Reviews, 155, 111876. https://doi.org/10.1016/j.rser.2021.111876</li> <li>Liptow, C., Tillman, A.-M., & Janssen, M. (2015). Life cycle assessment of biomass-based ethylene production in Sweden  —  is gasification or fermentation the environmentally preferable route? The International Journal of Life Cycle Assessment, 20(5), 632–644. https://doi.org/10.1007/s11367-015-0855-1</li> <li>Maul, J., Frushour, B. G., Kontoff, J. R., Eichenauer, H., Ott, K.-H., & Schade, C. (2007). Polystyrene and Styrene Copolymers. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a21_615.pub2</li> <li>Toor, M., Kumar, S. S., Malyan, S. K., Bishnoi, N. R., Mathimani, T., Rajendran, K., & Pugazhendhi, A. (2020). An overview on bioethanol production from lignocellulosic feedstocks. Chemosphere, 242, 125080. https://doi.org/10.1016/j.chemosphere.2019.125080</li> <li>Periyasamy, S., Karthik, V., Senthil Kumar, P., Isabel, J. B., Temesgen, T., Hunegnaw, B. M., Melese, B. B., Mohamed, B. A., & Vo, D.-V. N. (2022). Chemical, physical and biological methods to convert lignocellulosic waste into value-added products. A review. Environmental Chemistry Letters, 20(2), 1129–1152. https://doi.org/10.1007/s10311-021-01374-w</li> <li>Bienewald, F., Leibold, E., Tužina, P., & Roscher, G. (2019). Vinyl Esters. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–16). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a27_419.pub2</li> <li>Akindoyo, J. O., Beg, M. D. H., Ghazali, S., Islam, M. R., Jeyaratnam, N., & Yuvaraj, A. R. (2016). Polyurethane types, synthesis and applications – a review. RSC Advances, 6(115), 114453–114482. https://doi.org/10.1039/C6RA14525F</li> <li>Zacharopoulou, V., & Lemonidou, A. A. (2018). Olefins from Biomass Intermediates: A Review. Catalysts, 8(1), 2. https://doi.org/10.3390/catal8010002</li> <li>Choi, S., Song, C. W., Shin, J. H., & Lee, S. Y. (2015). Biorefineries for the production of top building block chemicals and their derivatives. METABOLIC ENGINEERING, 28, 223–239. https://doi.org/10.1016/j.ymben.2014.12.007</li> <li>Walters, P., Cadogan, D. F., & Howick, C. J. (2020). Plasticizers. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–27). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a20_439.pub2</li> <li>Sahota, S., Lombardi, L., Singh, D., O’Donoghue, C., Geoghegan, C., Rova, U., Christakopoulos, P., Matsakas, L., & Sarkar, O. (2025). CO2 from biogas: valorisation, economic and environmental impacts in circular carbon systems. Reviews in Environmental Science and Bio/Technology, 25(1), 6. https://doi.org/10.1007/s11157-025-09755-1</li> <li>Albrecht, K., Stickler, M., & Rhein, T. (2013). Polymethacrylates. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a21_473.pub2</li> <li>Deka, T. J., Osman, A. I., Baruah, D. C., & Rooney, D. W. (2022). Methanol fuel production, utilization, and techno-economy: a review. Environmental Chemistry Letters, 20(6), 3525–3554. https://doi.org/10.1007/s10311-022-01485-y</li> <li>Gail, E., Gos, S., Kulzer, R., Lorösch, J., Rubo, A., Sauer, M., Kellens, R., Reddy, J., Steier, N., & Hasenpusch, W. (2011). Cyano Compounds, Inorganic. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a08_159.pub3</li> <li>Soleimani, S., & Lehner, M. (2022). Tri-Reforming of Methane: Thermodynamics, Operating Conditions, Reactor Technology and Efficiency Evaluation—A Review. Energies, 15(19), 7159. https://doi.org/10.3390/en15197159</li> <li>Beerthuis, R., Rothenberg, G., & Shiju, N. R. (2015). Catalytic routes towards acrylic acid, adipic acid and ε-caprolactam starting from biorenewables. Green Chemistry, 17(3), 1341–1361. https://doi.org/10.1039/C4GC02076F</li> <li>Zhang, Z., Delcroix, B., Rezazgui, O., & Mangin, P. (2021). Simulation and techno-economic assessment of bio-methanol production from pine biomass, biochar and pyrolysis oil. Sustainable Energy Technologies and Assessments, 44, 101002. https://doi.org/10.1016/j.seta.2021.101002</li> <li>Crews, G. M., Ripperger, W., Kersebohm, D. B., Güthner, T., & Mertschenk, B. (2006). Melamine and Guanamines. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a16_171.pub2</li> <li>Welch, V. A., Fallon, K. J., & Gelbke, H.-P. (2005). Ethylbenzene. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a10_035.pub2</li> <li>Ceresco, B4C, & CoDEM. (2025). Etude de marché des produits biosourcés. ADEME. https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/8040-etude-de-marche-des-produits-biosources.html</li> <li>Naser, A., Deiab, I., & Darras, B. M. (2021). Poly(lactic acid) (PLA) and polyhydroxyalkanoates (PHAs), green alternatives to petroleum-based plastics: a review. RSC Advances, 11(28), 17151–17196. https://doi.org/10.1039/D1RA02390J</li> <li>Davidson, M. G., Elgie, S., Parsons, S., & Young, T. J. (2021). Production of HMF, FDCA and their derived products: a review of life cycle assessment (LCA) and techno-economic analysis (TEA) studies. Green Chemistry, 23(9), 3154–3171. https://doi.org/10.1039/D1GC00721A</li> <li>Haubs, M., Kurz, K., & Sextro, G. (2012). Polyoxymethylenes. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a21_591.pub2</li> <li>Raff, D. K. (2013). Butanals. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a04_447.pub2</li> <li>IEA. (2018). The Future of Petrochemicals. https://www.iea.org/reports/the-future-of-petrochemicals</li> <li>Baer, H., Bergamo, M., Forlin, A., Pottenger, L. H., & Lindner, J. (2012). Propylene Oxide. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a22_239.pub3</li> <li>López-Gómez, J. P., Pérez-Rivero, C., & Venus, J. (2020). Valorisation of solid biowastes: The lactic acid alternative. Process Biochemistry, 99, 222–235. https://doi.org/10.1016/j.procbio.2020.08.029</li> <li>Wu, Y., Yang, J., Wu, G., Gao, W., Silva Lora, E. E., Isa, Y. M., Subramanian, K. A., Kozlov, A., Zhang, S., & Huang, Y. (2023). Benzene, Toluene, and Xylene (BTX) Production from Catalytic Fast Pyrolysis of Biomass: A Review. ACS Sustainable Chemistry & Engineering, 11(32), 11700–11718. https://doi.org/10.1021/acssuschemeng.3c01202</li> <li>Tomás, R. A. F., Bordado, J. C. M., Gomes, J. F. P., & Sheehan, R. J. (2024). Terephthalic Acid, Dimethyl Terephthalate, and Isophthalic Acid. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–17). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a26_193.pub3</li> <li>Wong, M. K., Lock, S. S. M., Chan, Y. H., Yeoh, S. J., & Tan, I. S. (2023). Towards sustainable production of bio-based ethylene glycol: Progress, perspective and challenges in catalytic conversion and purification. Chemical Engineering Journal, 468, 143699. https://doi.org/10.1016/j.cej.2023.143699</li> <li>Khedr, M. S. F. (2023). Bio-based polyamide. Physical Sciences Reviews, 8(7), 827–847. https://doi.org/10.1515/psr-2020-0076</li> <li>Devi, A., Singh, A., Bajar, S., Pant, D., & Din, Z. U. (2021). Ethanol from lignocellulosic biomass: An in-depth analysis of pre-treatment methods, fermentation approaches and detoxification processes. Journal of Environmental Chemical Engineering, 9(5), 105798. https://doi.org/10.1016/j.jece.2021.105798</li> <li>Hahn, H.-D., Dämbkes, G., Rupprich, N., Bahl, H., & Frey, G. D. (2013). Butanols. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a04_463.pub3</li> <li>Tse, T. J., Wiens, D. J., & Reaney, M. J. T. (2021). Production of Bioethanol—A Review of Factors Affecting Ethanol Yield. Fermentation, 7(4), 268. https://doi.org/10.3390/fermentation7040268</li> <li>Vu, H. P., Nguyen, L. N., Vu, M. T., Johir, M. A. H., McLaughlan, R., & Nghiem, L. D. (2020). A comprehensive review on the framework to valorise lignocellulosic biomass as biorefinery feedstocks. Science of The Total Environment, 743, 140630. https://doi.org/10.1016/j.scitotenv.2020.140630</li> <li>Sardon, H., Mecerreyes, D., Basterretxea, A., Avérous, L., & Jehanno, C. (2021). From Lab to Market: Current Strategies for the Production of Biobased Polyols. ACS Sustainable Chemistry & Engineering, 9(32), 10664–10677. https://doi.org/10.1021/acssuschemeng.1c02361</li> <li>James, D. H., & Castor, W. M. (2011). Styrene. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a25_329.pub2</li> <li>Kiefer, D., Merkel, M., Lilge, L., Henkel, M., & Hausmann, R. (2021). From Acetate to Bio-Based Products: Underexploited Potential for Industrial Biotechnology. Trends in Biotechnology, 39(4), 397–411. https://doi.org/10.1016/j.tibtech.2020.09.004</li> <li>Gautam, P., Neha, Upadhyay, S. N., & Dubey, S. K. (2020). Bio-methanol as a renewable fuel from waste biomass: Current trends and future perspective. Fuel, 273, 117783. https://doi.org/10.1016/j.fuel.2020.117783</li> <li>Rodríguez-Vallejo, D. F., Guillén-Gosálbez, G., & Chachuat, B. (2020). What Is the True Cost of Producing Propylene from Methanol? The Role of Externalities. ACS Sustainable Chemistry & Engineering, 8(8), 3072–3081. https://doi.org/10.1021/acssuschemeng.9b05516</li> <li>Siracusa, V., & Blanco, I. (2020). Bio-Polyethylene (Bio-PE), Bio-Polypropylene (Bio-PP) and Bio-Poly(ethylene terephthalate) (Bio-PET): Recent Developments in Bio-Based Polymers Analogous to Petroleum-Derived Ones for Packaging and Engineering Applications. Polymers, 12(8), 1641. https://doi.org/10.3390/polym12081641</li> <li>Hamelinck, C. N., Suurs, R. A. A., & Faaij, A. P. C. (2005). International bioenergy transport costs and energy balance. Biomass and Bioenergy, 29(2), 114–134. https://doi.org/10.1016/j.biombioe.2005.04.002</li> <li>Häussinger, P., Lohmüller, R., & Watson, A. M. (2011). Hydrogen, 2. Production. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.o13_o03</li> <li>Lorz, P. M., Towae, F. K., Enke, W., Jäckh, R., Bhargava, N., & Hillesheim, W. (2007). Phthalic Acid and Derivatives. In Ullmann’s Encyclopedia of Industrial Chemistry. John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a20_181.pub2</li> <li>Muñoz, I., & Weidema, B. P. (2024). Ethylene and propylene production from steam cracking in Europe: a consequential perspective. The International Journal of Life Cycle Assessment, 29(4), 745–758. https://doi.org/10.1007/s11367-024-02282-1</li> <li>Periyasamy, S., Karthik, V., Senthil Kumar, P., Isabel, J. B., Temesgen, T., Hunegnaw, B. M., Melese, B. B., Mohamed, B. A., & Vo, D.-V. N. (2022). Chemical, physical and biological methods to convert lignocellulosic waste into value-added products. A review. Environmental Chemistry Letters, 20(2), 1129–1152. https://doi.org/10.1007/s10311-021-01374-w</li> <li>IEA Bioenergy. (2020). Bio-based chemicals: a 2020 update. https://www.ieabioenergy.com/wp-content/uploads/2020/02/Bio-based-chemicals-a-2020-update-final-200213.pdf</li> <li>Roland-Holst, D., Triolo, R., Heft-Neal, S., & Bayrami, B. (2013). Bioplastics in california. http://www.bearecon.com/portfolio-data/bioplastics-california/bioplastics-california-report.pdf</li> <li>McKenna, R., & Nielsen, D. R. (2011). Styrene biosynthesis from glucose by engineered E. coli. Metabolic Engineering, 13(5), 544–554. https://doi.org/10.1016/j.ymben.2011.06.005</li> <li>Zimmermann, H. (2013). Propene. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 00–00). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.a22_211.pub3</li> <li>Straathof, A. J. J. (2014). Transformation of Biomass into Commodity Chemicals Using Enzymes or Cells. Chemical Reviews, 114(3), 1871–1908. https://doi.org/10.1021/cr400309c</li> <li>Werpy, T., & Petersen, G. (2004). Top Value Added Chemicals from Biomass: Volume I -- Results of Screening for Potential Candidates from Sugars and Synthesis Gas (DOE/GO-102004-1992, 15008859; p. DOE/GO-102004-1992, 15008859). https://doi.org/10.2172/15008859</li> <li>IFPEN. (2025). Life cycle assessment of e-/bio- methanol and e-/grey-/blue- ammonia for maritime transport. https://www.ifpenergiesnouvelles.fr/sites/ifpen.fr/files/inline-images/20250310_IFPEN_CMACGM_ok.pdf</li> <li>Dos Santos, L. V., De Barros Grassi, M. C., Gallardo, J. C. M., Pirolla, R. A. S., Calderón, L. L., De Carvalho-Netto, O. V., Parreiras, L. S., Camargo, E. L. O., Drezza, A. L., Missawa, S. K., Teixeira, G. S., Lunardi, I., Bressiani, J., & Pereira, G. A. G. (2016). Second-Generation Ethanol: The Need is Becoming a Reality. Industrial Biotechnology, 12(1), 40–57. https://doi.org/10.1089/ind.2015.0017</li> <li>Künkel, A., Becker, J., Börger, L., Hamprecht, J., Koltzenburg, S., Loos, R., Schick, M. B., Schlegel, K., Sinkel, C., Skupin, G., & Yamamoto, M. (2016). Polymers, Biodegradable. In Ullmann’s Encyclopedia of Industrial Chemistry (pp. 1–29). John Wiley & Sons, Ltd. https://doi.org/10.1002/14356007.n21_n01.pub2</li>\n\n</details>",
       "scale": 1,
       "center": {
         "x": 0,
@@ -6360,6 +6559,146 @@
       "defaultElementBehavior": "fixed",
       "defaultConnectionDirection": "directed",
       "elements": [
+        {
+          "_id": "node-2lQvaFx3",
+          "position": {
+            "x": -1825.489610512596,
+            "y": -695.5028271500564
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-mjtRpQOT"
+        },
+        {
+          "_id": "node-7wC81NV3",
+          "position": {
+            "x": 1108.4109201886786,
+            "y": 1687.7730864919247
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-yHuosnPL"
+        },
+        {
+          "_id": "node-8NyyCU2k",
+          "position": {
+            "x": 113.53316255144841,
+            "y": 1390.2787348056834
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-tgSwUm6P"
+        },
+        {
+          "_id": "node-EpkQKcta",
+          "position": {
+            "x": 1736.5846539946963,
+            "y": 739.8509657041742
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-XqYb0YTc"
+        },
+        {
+          "_id": "node-FeTEeWGL",
+          "position": {
+            "x": 208.08605911489,
+            "y": 673.01176213136
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-iI39Itae"
+        },
+        {
+          "_id": "node-GeOTM7B0",
+          "position": {
+            "x": 3149.9449598313677,
+            "y": 889.5703589963414
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-iDnblx3e"
+        },
+        {
+          "_id": "node-PKCR81Wo",
+          "position": {
+            "x": 790.4289754361226,
+            "y": 2255.518729585451
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-Anyg6wlW"
+        },
+        {
+          "_id": "node-Vrt79mFb",
+          "position": {
+            "x": 1574.7719942531207,
+            "y": 1675.5979835647036
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-A7IJrqPW"
+        },
+        {
+          "_id": "node-XGZuKmk2",
+          "position": {
+            "x": 420.3487442784606,
+            "y": 723.9463840509108
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-wnqk0l3i"
+        },
+        {
+          "_id": "node-dvOMEndM",
+          "position": {
+            "x": -1549.7121191275244,
+            "y": -5.320918921751337
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-N08SicYV"
+        },
+        {
+          "_id": "node-i9Q6GN3q",
+          "position": {
+            "x": 1059.8870968750825,
+            "y": 1311.0144305289543
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-Nrz7imdG"
+        },
+        {
+          "_id": "node-meG2tkuv",
+          "position": {
+            "x": -2283.7023669860664,
+            "y": 431.1048416749846
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-05nzGDzU"
+        },
+        {
+          "_id": "node-o6geuNnS",
+          "position": {
+            "x": 310.36809034990296,
+            "y": 692.2635585167593
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-bfwg2SSO"
+        },
+        {
+          "_id": "node-sW1klzC6",
+          "position": {
+            "x": 629.7430289316801,
+            "y": 653.2432023759983
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-0fCh3eWg"
+        },
         {
           "_id": "node-0AsIYGou",
           "position": {
@@ -6489,16 +6828,6 @@
           "pinned": true,
           "style": {},
           "element": "elem-I7jxhszM"
-        },
-        {
-          "_id": "node-2lQvaFx3",
-          "position": {
-            "x": -1825.489610512596,
-            "y": -695.5028271500564
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-mjtRpQOT"
         },
         {
           "_id": "node-2u7FJEUO",
@@ -6651,6 +6980,16 @@
           "element": "elem-PBAnSQLw"
         },
         {
+          "_id": "node-6pRUsnuG",
+          "position": {
+            "x": 2080.0297060011535,
+            "y": -2197.2343487825565
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-YqCJ6dY6"
+        },
+        {
           "_id": "node-6q9u9Nug",
           "position": {
             "x": 626.0578723011655,
@@ -6671,16 +7010,6 @@
           "element": "elem-1zH9ijjB"
         },
         {
-          "_id": "node-7wC81NV3",
-          "position": {
-            "x": 1108.4109201886786,
-            "y": 1687.7730864919247
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-yHuosnPL"
-        },
-        {
           "_id": "node-8FRpnr1P",
           "position": {
             "x": 1855.449824177102,
@@ -6689,16 +7018,6 @@
           "pinned": true,
           "style": {},
           "element": "elem-z7zzqIi1"
-        },
-        {
-          "_id": "node-8NyyCU2k",
-          "position": {
-            "x": 113.53316255144841,
-            "y": 1390.2787348056834
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-tgSwUm6P"
         },
         {
           "_id": "node-8ZkIEnrV",
@@ -6911,20 +7230,10 @@
           "element": "elem-XfMw4uc7"
         },
         {
-          "_id": "node-EpkQKcta",
-          "position": {
-            "x": 1736.5846539946963,
-            "y": 739.8509657041742
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-XqYb0YTc"
-        },
-        {
           "_id": "node-EzP2nuPT",
           "position": {
-            "x": 1794.1506155257696,
-            "y": 202.23517374356314
+            "x": 1797.6719603865313,
+            "y": 198.71382888280232
           },
           "pinned": true,
           "style": {},
@@ -6951,6 +7260,16 @@
           "element": "elem-dTSZJodP"
         },
         {
+          "_id": "node-FXGXHz9K",
+          "position": {
+            "x": -157.74455248914472,
+            "y": -1742.8051044518004
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-QnO4gjTJ"
+        },
+        {
           "_id": "node-Fc5eWt7v",
           "position": {
             "x": -3350.089779757005,
@@ -6959,16 +7278,6 @@
           "pinned": true,
           "style": {},
           "element": "elem-kse9gExm"
-        },
-        {
-          "_id": "node-FeTEeWGL",
-          "position": {
-            "x": 208.08605911489,
-            "y": 673.01176213136
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-iI39Itae"
         },
         {
           "_id": "node-FlXShpFI",
@@ -6999,16 +7308,6 @@
           "pinned": true,
           "style": {},
           "element": "elem-FDp3YlFb"
-        },
-        {
-          "_id": "node-GeOTM7B0",
-          "position": {
-            "x": 3149.9449598313677,
-            "y": 889.5703589963414
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-iDnblx3e"
         },
         {
           "_id": "node-GmQIV7Za",
@@ -7458,16 +7757,6 @@
           "element": "elem-OKgKEZkK"
         },
         {
-          "_id": "node-PKCR81Wo",
-          "position": {
-            "x": 790.4289754361226,
-            "y": 2255.518729585451
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-Anyg6wlW"
-        },
-        {
           "_id": "node-PPRs3Zru",
           "position": {
             "x": 2061.992905923655,
@@ -7611,6 +7900,16 @@
           "element": "elem-d7NQeXgs"
         },
         {
+          "_id": "node-Shh6bNok",
+          "position": {
+            "x": -1840.9810820037694,
+            "y": -2803.386472724262
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-s4bU2eZN"
+        },
+        {
           "_id": "node-T0WgCK8L",
           "position": {
             "x": 2269.0844535548526,
@@ -7701,16 +8000,6 @@
           "element": "elem-59DD7j8Y"
         },
         {
-          "_id": "node-Vrt79mFb",
-          "position": {
-            "x": 1574.7719942531207,
-            "y": 1675.5979835647036
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-A7IJrqPW"
-        },
-        {
           "_id": "node-VzJQXIHK",
           "position": {
             "x": 2195.6349580345886,
@@ -7799,16 +8088,6 @@
           "pinned": true,
           "style": {},
           "element": "elem-qwzbJM1z"
-        },
-        {
-          "_id": "node-XGZuKmk2",
-          "position": {
-            "x": 420.3487442784606,
-            "y": 723.9463840509108
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-wnqk0l3i"
         },
         {
           "_id": "node-XdzTH5iE",
@@ -8081,16 +8360,6 @@
           "element": "elem-5NN2OyJP"
         },
         {
-          "_id": "node-dvOMEndM",
-          "position": {
-            "x": -1549.7121191275244,
-            "y": -5.320918921751337
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-N08SicYV"
-        },
-        {
           "_id": "node-e4meN0K2",
           "position": {
             "x": -417.6893799380597,
@@ -8199,16 +8468,6 @@
           "pinned": true,
           "style": {},
           "element": "elem-mP4DymPW"
-        },
-        {
-          "_id": "node-i9Q6GN3q",
-          "position": {
-            "x": 1059.8870968750825,
-            "y": 1311.0144305289543
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-Nrz7imdG"
         },
         {
           "_id": "node-i9aGdxHJ",
@@ -8433,16 +8692,6 @@
           "element": "elem-tvanL1C6"
         },
         {
-          "_id": "node-meG2tkuv",
-          "position": {
-            "x": -2283.7023669860664,
-            "y": 431.1048416749846
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-05nzGDzU"
-        },
-        {
           "_id": "node-nnZbVN8j",
           "position": {
             "x": 1470.4087326195015,
@@ -8471,16 +8720,6 @@
           "pinned": true,
           "style": {},
           "element": "elem-tIbp7EyG"
-        },
-        {
-          "_id": "node-o6geuNnS",
-          "position": {
-            "x": 310.36809034990296,
-            "y": 692.2635585167593
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-bfwg2SSO"
         },
         {
           "_id": "node-oPUblRA6",
@@ -8635,8 +8874,8 @@
         {
           "_id": "node-ru65wUUh",
           "position": {
-            "x": 2756.581633823381,
-            "y": 217.1920719321313
+            "x": 2776.334652451302,
+            "y": 162.49140496250413
           },
           "pinned": true,
           "style": {},
@@ -8661,16 +8900,6 @@
           "pinned": true,
           "style": {},
           "element": "elem-WqsQXGDi"
-        },
-        {
-          "_id": "node-sW1klzC6",
-          "position": {
-            "x": 629.7430289316801,
-            "y": 653.2432023759983
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-0fCh3eWg"
         },
         {
           "_id": "node-sm4tqSfy",
@@ -8751,6 +8980,16 @@
           "pinned": true,
           "style": {},
           "element": "elem-lZZzkIvV"
+        },
+        {
+          "_id": "node-vy5pYizt",
+          "position": {
+            "x": 1928.9644091376888,
+            "y": -2344.8317929906916
+          },
+          "pinned": true,
+          "style": {},
+          "element": "elem-bbLdBMe1"
         },
         {
           "_id": "node-wQMJYbiD",
@@ -8941,46 +9180,6 @@
           "pinned": true,
           "style": {},
           "element": "elem-YsN3N9ah"
-        },
-        {
-          "_id": "node-6pRUsnuG",
-          "position": {
-            "x": 2080.0297060011535,
-            "y": -2197.2343487825565
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-YqCJ6dY6"
-        },
-        {
-          "_id": "node-vy5pYizt",
-          "position": {
-            "x": 1928.9644091376888,
-            "y": -2344.8317929906916
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-bbLdBMe1"
-        },
-        {
-          "_id": "node-Shh6bNok",
-          "position": {
-            "x": -1840.9810820037694,
-            "y": -2803.386472724262
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-s4bU2eZN"
-        },
-        {
-          "_id": "node-FXGXHz9K",
-          "position": {
-            "x": -157.74455248914472,
-            "y": -1742.8051044518004
-          },
-          "pinned": true,
-          "style": {},
-          "element": "elem-QnO4gjTJ"
         }
       ],
       "connections": [
@@ -9436,6 +9635,7 @@
         },
         {
           "_id": "edge-Ff2U4xb9",
+          "curvature": 0.21294888187415026,
           "style": {},
           "connection": "conn-EyZ75Wb9"
         },
@@ -9846,6 +10046,11 @@
           "connection": "conn-caNXOd7L"
         },
         {
+          "_id": "edge-SWAfTqUf",
+          "style": {},
+          "connection": "conn-7UWMxPf7"
+        },
+        {
           "_id": "edge-Sd1hp0Ox",
           "style": {},
           "connection": "conn-QhnjZPw7"
@@ -9869,6 +10074,11 @@
           "_id": "edge-SxvOrIg4",
           "style": {},
           "connection": "conn-HZtUF0W9"
+        },
+        {
+          "_id": "edge-T7Z0d533",
+          "style": {},
+          "connection": "conn-PqNTh6CR"
         },
         {
           "_id": "edge-TLtk73EI",
@@ -9932,6 +10142,11 @@
           "connection": "conn-ibdCblvo"
         },
         {
+          "_id": "edge-UzyogvY0",
+          "style": {},
+          "connection": "conn-suRIytoS"
+        },
+        {
           "_id": "edge-VgP2f72E",
           "style": {},
           "connection": "conn-OlLTtQiU"
@@ -9955,6 +10170,11 @@
           "_id": "edge-WFRuaz1i",
           "style": {},
           "connection": "conn-0PO99m0E"
+        },
+        {
+          "_id": "edge-WL1qhBpB",
+          "style": {},
+          "connection": "conn-NZUJXHKF"
         },
         {
           "_id": "edge-WeuEf8sc",
@@ -10030,6 +10250,11 @@
           "_id": "edge-YrtWmVAa",
           "style": {},
           "connection": "conn-ggUaAnuP"
+        },
+        {
+          "_id": "edge-Ysukxyzx",
+          "style": {},
+          "connection": "conn-kgrBqswA"
         },
         {
           "_id": "edge-ZDcjCnyV",
@@ -10163,6 +10388,11 @@
           "connection": "conn-7nUQQYCX"
         },
         {
+          "_id": "edge-eficnxMW",
+          "style": {},
+          "connection": "conn-5ugrIvwZ"
+        },
+        {
           "_id": "edge-em2xEPe2",
           "style": {},
           "connection": "conn-i7bahsXr"
@@ -10274,6 +10504,11 @@
           "connection": "conn-eZOSQI6x"
         },
         {
+          "_id": "edge-jE9HBrRq",
+          "style": {},
+          "connection": "conn-hQJOoUZU"
+        },
+        {
           "_id": "edge-jET4q1pf",
           "style": {},
           "connection": "conn-AiFblKs0"
@@ -10335,6 +10570,11 @@
           "connection": "conn-jU2wqpSw"
         },
         {
+          "_id": "edge-lNnSCKcZ",
+          "style": {},
+          "connection": "conn-fWpTgyc7"
+        },
+        {
           "_id": "edge-m4BE1fiP",
           "style": {},
           "connection": "conn-V7jcddZ2"
@@ -10348,6 +10588,11 @@
           "_id": "edge-mckmEWh3",
           "style": {},
           "connection": "conn-KMd6lMCs"
+        },
+        {
+          "_id": "edge-mtixAuH3",
+          "style": {},
+          "connection": "conn-Tvb5K7rH"
         },
         {
           "_id": "edge-n71QWcVM",
@@ -10456,6 +10701,11 @@
           "curvature": 0.3757548174041489,
           "style": {},
           "connection": "conn-zdwTTdhr"
+        },
+        {
+          "_id": "edge-r5QT9M6G",
+          "style": {},
+          "connection": "conn-Y9miojXc"
         },
         {
           "_id": "edge-r6IoLeAr",
@@ -10741,65 +10991,15 @@
           "connection": "conn-TzKT44nv"
         },
         {
-          "_id": "edge-zVz8reHN",
-          "style": {},
-          "connection": "conn-WoATBQS3"
-        },
-        {
-          "_id": "edge-Ysukxyzx",
-          "style": {},
-          "connection": "conn-kgrBqswA"
-        },
-        {
-          "_id": "edge-WL1qhBpB",
-          "style": {},
-          "connection": "conn-NZUJXHKF"
-        },
-        {
-          "_id": "edge-jE9HBrRq",
-          "style": {},
-          "connection": "conn-hQJOoUZU"
-        },
-        {
-          "_id": "edge-eficnxMW",
-          "style": {},
-          "connection": "conn-5ugrIvwZ"
-        },
-        {
-          "_id": "edge-mtixAuH3",
-          "style": {},
-          "connection": "conn-Tvb5K7rH"
-        },
-        {
-          "_id": "edge-SWAfTqUf",
-          "style": {},
-          "connection": "conn-7UWMxPf7"
-        },
-        {
-          "_id": "edge-r5QT9M6G",
-          "style": {},
-          "connection": "conn-Y9miojXc"
-        },
-        {
-          "_id": "edge-T7Z0d533",
-          "style": {},
-          "connection": "conn-PqNTh6CR"
-        },
-        {
-          "_id": "edge-UzyogvY0",
-          "style": {},
-          "connection": "conn-suRIytoS"
-        },
-        {
           "_id": "edge-zUd7ukw5",
           "curvature": -0.19847775257118724,
           "style": {},
           "connection": "conn-zIACfO4W"
         },
         {
-          "_id": "edge-lNnSCKcZ",
+          "_id": "edge-zVz8reHN",
           "style": {},
-          "connection": "conn-fWpTgyc7"
+          "connection": "conn-WoATBQS3"
         }
       ],
       "loops": []
@@ -10809,7 +11009,7 @@
     {
       "_id": "pers-qeMUKTHI",
       "name": "All",
-      "style": "@settings {\n  template: systems;\n  element-color: categorize(\"TRL\", heat);\n  element-shape: categorize(\"Element Type\");\n  direct-decorations: false;\n  theme: light;\n  quality: best;\n  background-color: white;\n  include: process, feedstock, undefined, connection, loop;\n}\n\n/* Intermediate */\nelement[\"element type\"=\"Process\"][!\"maturity\"] {\n  color: #a7a7a7;\n}\n\n/* Process */\nelement[\"element type\"=\"Process\"] {\n  shape: diamond;\n}\n\n/* Medium TRL */\nelement[\"element type\"=\"Process\"][\"maturity\"=\"Medium\"] {\n  color: #fdc16f;\n  shape: diamond;\n}\n\n/* Low TRL */\nelement[\"element type\"=\"Process\"][\"maturity\"=\"Low\"] {\n  color: #f53b23;\n  shape: diamond;\n}\n\n/* Good TRL */\nelement[\"element type\"=\"Process\"][\"maturity\"=\"High\"] {\n  color: #74c89e;\n  shape: diamond;\n}\n\n/* Mature TRL */\nelement[\"element type\"=\"Process\"][\"maturity\"=\"Fully mature\"] {\n  color: #3596c0;\n  shape: diamond;\n}\n\n/* Hotspot products */\nelement[\"priority code\"] {\n  color: #5e4fa2;\n}\n\n/* Dedicated alternatives */\nelement[\"tags\"=\"Dedicated alternatives\"] {\n  color: #3eaba0;\n}\n\n/* Feedstock */\nelement[\"element type\"=\"Feedstock\"] {\n  size: 5;\n  color: #ffffff;\n}\n\n"
+      "style": "@settings {\n  template: systems;\n  element-color: categorize(\"TRL\", heat);\n  element-shape: categorize(\"Element Type\");\n  direct-decorations: false;\n  theme: light;\n  quality: best;\n  background-color: white;\n  include: process, feedstock, undefined, connection, loop;\n  font-size: 31;\n}\n\n/* Intermediate */\nelement[\"element type\"=\"Process\"][!\"maturity\"] {\n  color: #a7a7a7;\n}\n\n/* Process */\nelement[\"element type\"=\"Process\"] {\n  shape: diamond;\n}\n\n/* Medium TRL */\nelement[\"element type\"=\"process\"][\"maturity score\"=\"medium\"] {\n  color: #fdc16f;\n  shape: diamond;\n}\n\n/* Low TRL */\nelement[\"element type\"=\"process\"][\"maturity score\"=\"low\"] {\n  color: #f6553c;\n  shape: diamond;\n}\n\n/* Good TRL */\nelement[\"element type\"=\"process\"][\"maturity score\"=\"high\"] {\n  color: #74c89e;\n  shape: diamond;\n}\n\n/* Mature TRL */\nelement[\"element type\"=\"process\"][\"maturity score\"=\"fully mature\"] {\n  color: #3596c0;\n  shape: diamond;\n}\n\n/* Hotspot products */\nelement[\"hotspot rank\"] {\n  color: #aaa9d1;\n}\n\n/* Dedicated alternatives */\nelement[\"tags\"=\"Dedicated alternatives\"] {\n  color: #3eaba0;\n}\n\n/* Feedstock */\nelement[\"element type\"=\"Feedstock\"] {\n  size: 5;\n  color: #ffffff;\n}\n\n/* Top 15 hotspot products */\nelement[\"hotspot rank\"<\"16\"] {\n  bullseye-color: #fec05a;\n}\n\n"
     },
     {
       "_id": "pers-JdDQJpjY",

@@ -49,6 +49,7 @@ Other complementary notebooks:
 │   ├── Step 2 - EXIOBASE results.xlsx
 │   ├── Step 3 - PRODCOM results.xlsx
 │   └── Step 4 - Figure 2 data - Hotspot products.xlsx
+├── Assets/ (... for storing some repo-specific files)
 ├── BACI_data/
 │   └── BACI_HS22_V202501/ (not included)
 │       ├── BACI_HS22_Y2022_V202501.csv (not included)
@@ -63,6 +64,7 @@ Other complementary notebooks:
 │       │   └── (... Extracted Exiobase files)
 │       └── EXIOBASE LICENSE.txt
 ├── Kumu_data/
+│   ├── Kumu graph database overview.md
 │   ├── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.json
 │   └── kumu-nicolas-lienart-screenlca-paper-biobased-pathways.xlsx
 ├── PRODCOM_data/
@@ -157,6 +159,9 @@ Correspondences tab > CN2024_PRODCOM2024 > Download (JSON-LD) and save it to `Pr
 Interactive pathway database available at https://kumu.io/nicolas-lienart/screenlca-paper-biobased-pathways
 
 Raw JSON which can be imported as a new Kumu project, Excel version of the database and the bibliography are available in the [`Kumu_data/`](<./Kumu_data/>) directory.
+
+<!-- ![Kumu graph database screenshot](<./Assets/Screenshot 2026-08-21 at 17-26-03 screenlca-paper-biobased-pathways • Bio-based pathways global map _ All • Kumu.png>) -->
+<img src="https://github.com/nicolnt/screen-lca-paper-supplementary-code/blob/main/Assets/Screenshot%202026-08-21%20at%2017-26-03%20screenlca-paper-biobased-pathways%20%E2%80%A2%20Bio-based%20pathways%20global%20map%20_%20All%20%E2%80%A2%20Kumu.png?raw=true)" width="500">
 
 ## Licence
 
