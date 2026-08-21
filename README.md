@@ -18,19 +18,30 @@ This repository and its content may receive future updates after journal publica
  - Direct GitHub link: https://github.com/nicolnt/screen-lca-paper-supplementary-code/tree/v1.0
  - Direct INRAE Forge link: https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code/-/tree/v1.0
 
-## Notebook files
+## Structure
 
-They can be read directly (non-interactively) from Gitlab or Github in there rendered form. Links to notebooks listed in alphabetical order:
+### Notebook files
 
- - [Calculate Ecoinvent unit product footprint for sensitivity analysis.ipynb](<./Python_notebooks/Calculate Ecoinvent unit product footprint for sensitivity analysis.ipynb>)
- - [Calculate product footprints and generate hotspot figure.ipynb](<./Python_notebooks/Calculate hotspot products footprints and contributions.ipynb>)
- - [Calculate sectors footprint with EXIOBASE.ipynb](<./Python_notebooks/Calculate sectors footprint with EXIOBASE.ipynb>)
- - [Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb](<./Python_notebooks/Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb>)
- - [Extract PRODCOM data.ipynb](<./Python_notebooks/Extract PRODCOM data.ipynb>)
- - [Generate main paper hotspot figure 2.ipynb](<./Python_notebooks/Generate main paper hotspot figure 2.ipynb>)
- - [Get product importers from BACI and Ecoinvent geographies.ipynb](<./Python_notebooks/Get product importers from BACI and Ecoinvent geographies.ipynb>)
+They can be read directly (non-interactively) from Gitlab or Github in there rendered form.
 
-## Repository file structure
+The main notebooks are as follows:
+
+ - [`Python_notebooks/Calculate sectors footprint with EXIOBASE.ipynb`](<./Python_notebooks/Calculate sectors footprint with EXIOBASE.ipynb>)
+   - Description: Greenhouse gas (GHG) footprint estimations of sectors (EXIOBASE products) belonging to given region (e.g., single country like FR, a region like EU27). The assessed flows consider product "availability" in the given region in a year, this means local production and imports, it does not exclude exports. It can assess any year available in EXIOBASE (e.g., 2019, 2022). Finally, it provides the assessed region's total GHG footprint and its direct GHG emissions. The output is in the Excel: [`Article_data/Step 2 - EXIOBASE results.xlsx`](<./Article_data/Step 2 - EXIOBASE results.xlsx>).
+ - [`Python_notebooks/Extract PRODCOM data.ipynb`](<./Python_notebooks/Extract PRODCOM data.ipynb>)
+   - Description: Extract relevant products data from the Eurostat PRODCOM database. The output is in the Excel: [`Article_data/Step 3 - PRODCOM results.xlsx`](<./Article_data/Step 3 - PRODCOM results.xlsx>).
+ - [`Python_notebooks/Calculate hotspot products footprints and contributions.ipynb`](<./Python_notebooks/Calculate hotspot products footprints and contributions.ipynb>)
+   - Description: Perform several estimations of the GHG footprint of a selection of products. It calculates an aggregated GHG footprint of the production given a range of supplying regions and their shares. The import and production shares are also distinguished. The contribution of a list of substances to the product footprint is also evaluated by traversing the Ecoinvent database. The end-of-life footprint is also estimated. The output is in the Excel: [`Article_data/Step 4 - Figure 2 data - Hotspot products.xlsx`](<./Article_data/Step 4 - Figure 2 data - Hotspot products.xlsx>).
+   - Depends on the following notebooks: 
+    - [`Python_notebooks/Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb`](<./Python_notebooks/Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb>)
+    - [`Python_notebooks/Get product importers from BACI and Ecoinvent geographies.ipynb`](<./Python_notebooks/Get product importers from BACI and Ecoinvent geographies.ipynb>)
+
+Other complementary notebooks:
+
+ - [`Python_notebooks/Generate main paper hotspot figure 2.ipynb`](<./Python_notebooks/Generate main paper hotspot figure 2.ipynb>)
+ - [`Python_notebooks/Calculate Ecoinvent unit product footprint for sensitivity analysis.ipynb`](<./Python_notebooks/Calculate Ecoinvent unit product footprint for sensitivity analysis.ipynb>)
+
+### Repository file structure
 
 ```
 .
@@ -85,7 +96,9 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 
 Some of the files presented here are not included due to licencing or size constraints (e.g., BACI, EXIOBASE). The user is invited to follow the relevant procedures to obtain them via the official sources ([See "Download missing data"](#Download-missing-data) or links provided in the Python notebooks).
 
-## Setup Repository
+## Initial setup
+
+### Setup Repository
 
 Clone this repository:
 
@@ -95,7 +108,7 @@ git clone https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-
 
 Use this link instead if you want to clone from GitHub: https://github.com/nicolnt/screen-lca-paper-supplementary-code/
 
-## Setup Python Environment
+### Setup Python Environment
 
 Set up a Python virtual environment that includes all packages required to build the documentation. A [Conda environment file](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) is provided [for convenient setup](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file). The file is located at [``./environment.yml``](environment.yml). You can replace the environment name `lienart_etal_2026-screenlca-paper-si-code`. Install the environment by running from the repository root directory:
 
@@ -109,41 +122,41 @@ and activate the environment:
 conda activate 'Lienart_etal_2026-SCREEN-LCA'
 ```
 
-## Kumu database
+### Download missing data
 
-Interactive pathway database available at https://kumu.io/nicolas-lienart/screenlca-paper-biobased-pathways
-
-Raw JSON which can be imported as a new Kumu project, Excel version of the database and the bibliography are available in the [`Kumu_data/`](<./Kumu_data/>) directory.
-
-## Download missing data
-
-### EXIOBASE
+#### EXIOBASE
 
 EXIOBASE 3 | Published May 13, 2026 | Version 3.10.2
 Dataset link: https://zenodo.org/records/20051562
 
-### BACI
+#### BACI
 
 Get BACI data here: https://www.cepii.fr/DATA_DOWNLOAD/baci/doc/baci_webpage.html
 
-### PRODCOM
+#### PRODCOM
 
 - Repository link: https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&alphabeticalFilter=D&searchFilter=DS
 - Reporter regions of PRODCOM download link: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/codelist/ESTAT/geo?format=TSV
 
-### Ecoinvent
+#### Ecoinvent
 
 An Ecoinvent licence is required to calculate the products footprints. Instructions are provided in the following notebook on how to load the database: [Calculate product footprints and generate hotspot figure.ipynb](<./Python_notebooks/Calculate hotspot products footprints and contributions.ipynb#Import-some-global-variables-from-file>)
 
-### Classification code correspondence
+#### Classification code correspondence
 
-#### PRODCOM code ↔ 6-digit Harmonized System (HS) 2022
+##### PRODCOM code ↔ 6-digit Harmonized System (HS) 2022
 
 Get the JSON-LD correspondence file from EU ShowVoc platform: https://showvoc.op.europa.eu/#/datasets/ESTAT_Combined_Nomenclature__2024__CN_2024/unknown/data
 
 (Combined Nomenclature, 2024 (CN 2024)) - "UNKNOWN (ESTAT_Combined_Nomenclature,_2024_(CN_2024))"
 
 Correspondences tab > CN2024_PRODCOM2024 > Download (JSON-LD) and save it to `Prodcom_data/CN2024_PRODCOM2024-export.jsonld`
+
+## Kumu database
+
+Interactive pathway database available at https://kumu.io/nicolas-lienart/screenlca-paper-biobased-pathways
+
+Raw JSON which can be imported as a new Kumu project, Excel version of the database and the bibliography are available in the [`Kumu_data/`](<./Kumu_data/>) directory.
 
 ## Licence
 
