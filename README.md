@@ -18,6 +18,12 @@ This repository and its content may receive future updates after journal publica
  - Direct GitHub link: https://github.com/nicolnt/screen-lca-paper-supplementary-code/tree/v1.0
  - Direct INRAE Forge link: https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code/-/tree/v1.0
 
+## Main output
+
+### Article's figure 2
+
+<img src="Assets/Figure 2 - hotspot products.svg" width="600">
+
 ## Structure
 
 ### Notebook files
@@ -160,7 +166,7 @@ Interactive pathway database available at https://kumu.io/nicolas-lienart/screen
 
 Raw JSON which can be imported as a new Kumu project, Excel version of the database and the bibliography are available in the [`Kumu_data/`](<./Kumu_data/>) directory.
 
-<img src="https://github.com/nicolnt/screen-lca-paper-supplementary-code/blob/main/Assets/Screenshot%202026-08-21%20at%2017-26-03%20screenlca-paper-biobased-pathways%20%E2%80%A2%20Bio-based%20pathways%20global%20map%20_%20All%20%E2%80%A2%20Kumu.png?raw=true" width="500">
+<img src="Assets/Screenshot%202026-08-21%20at%2017-26-03%20screenlca-paper-biobased-pathways%20%E2%80%A2%20Bio-based%20pathways%20global%20map%20_%20All%20%E2%80%A2%20Kumu.png?raw=true" width="600">
 
 ## Licence
 
