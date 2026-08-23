@@ -1,4 +1,4 @@
-# Hotspot products and their bio-based pathways
+# Graph database of hotspot products and their bio-based pathways
 
 A graph database representing bio-based alternative pathways to high-greenhouse-gas-footprint petrochemicals in the European Union.
 
