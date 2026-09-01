@@ -166,6 +166,8 @@ Interactive pathway database available at https://kumu.io/nicolas-lienart/screen
 
 Raw JSON which can be imported as a new Kumu project, Excel version of the database and the bibliography are available in the [`Kumu_data/`](<./Kumu_data/>) directory.
 
+The database may receive updates in the future. To view the data as of the published version of the article, open the following map: "[Published version (v1)](https://kumu.io/nicolas-lienart/screenlca-paper-biobased-pathways#published-version-v1)"
+
 ![Graph database screenshot](<Assets/Screenshot 2026-08-21 at 17-26-03 screenlca-paper-biobased-pathways • Bio-based pathways global map _ All • Kumu.png>)
 
 ## Licence
