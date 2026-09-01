@@ -11,22 +11,15 @@ If you utilize any portions of the code, results, or draw inspiration for your p
  - Git repository (Forge INRAE): https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code
  - Git repository (GitHub): https://github.com/nicolnt/screen-lca-paper-supplementary-code
 
-### Access published version of the repository
-
-This repository and its content may receive future updates after journal publication. In order to access the repository and its files at a state matching exactly with the one used for the published version of the article, the Git tag “v1.0”, standing for “Published version 1.0”, should be used. 
-
- - Direct GitHub link: https://github.com/nicolnt/screen-lca-paper-supplementary-code/tree/v1.0
- - Direct INRAE Forge link: https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code/-/tree/v1.0
-
 ## Main output
 
 ### Article's figure 2
 
 ![Main article's figure 2](<Assets/Figure 2 - hotspot products.svg>)
 
-## Structure
+## Content overview
 
-### Notebook files
+### Notebook files containing the main code
 
 They can be read directly (non-interactively) from Gitlab or Github in there rendered form.
 
@@ -104,9 +97,9 @@ Other complementary notebooks:
 
 Some of the files presented here are not included due to licencing or size constraints (e.g., BACI, EXIOBASE). The user is invited to follow the relevant procedures to obtain them via the official sources ([See "Download missing data"](#Download-missing-data) or links provided in the Python notebooks).
 
-## Initial setup
+## Installation instructions
 
-### Setup Repository
+### Download this repository
 
 Clone this repository:
 
@@ -116,9 +109,20 @@ git clone https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-
 
 Use this link instead if you want to clone from GitHub: https://github.com/nicolnt/screen-lca-paper-supplementary-code/
 
+You can also simply download the zip file ([latest version](https://github.com/nicolnt/screen-lca-paper-supplementary-code/archive/refs/heads/main.zip), [published version](https://github.com/nicolnt/screen-lca-paper-supplementary-code/archive/refs/tags/v1.0.zip)) and extract on your computer.
+
+#### Access published version of the repository
+
+This repository and its content may receive future updates after journal publication. In order to access the repository and its files at a state matching exactly with the one used for the published version of the article, the Git tag “v1.0”, standing for “Published version 1.0”, should be used. 
+
+ - Direct GitHub link: https://github.com/nicolnt/screen-lca-paper-supplementary-code/tree/v1.0
+ - Direct INRAE Forge link: https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code/-/tree/v1.0
+
 ### Setup Python Environment
 
-Set up a Python virtual environment that includes all packages required to build the documentation. A [Conda environment file](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) is provided [for convenient setup](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file). The file is located at [``./environment.yml``](environment.yml). You can replace the environment name `lienart_etal_2026-screenlca-paper-si-code`. Install the environment by running from the repository root directory:
+Set up a Python virtual environment that includes all packages required to build the documentation. You need to have [conda or miniconda](https://www.anaconda.com/download/success?reg=skipped) installed.
+
+A [Conda environment file](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) is provided [for convenient setup](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file). The file is located at [``./environment.yml``](environment.yml). You can replace the environment name `lienart_etal_2026-screenlca-paper-si-code`. Install the environment by running from the repository root directory:
 
 ```bash
 conda env create -f 'environment.yml' --name 'Lienart_etal_2026-SCREEN-LCA'
@@ -132,21 +136,23 @@ conda activate 'Lienart_etal_2026-SCREEN-LCA'
 
 ### Download missing data
 
-#### EXIOBASE
+Some databases are not included in the repository. Follow the instructions below to download them.
+
+#### EXIOBASE (EE-MRIO data)
 
 EXIOBASE 3 | Published May 13, 2026 | Version 3.10.2
 Dataset link: https://zenodo.org/records/20051562
 
-#### BACI
+#### BACI (trade data)
 
 Get BACI data here: https://www.cepii.fr/DATA_DOWNLOAD/baci/doc/baci_webpage.html
 
-#### PRODCOM
+#### PRODCOM (EU products data)
 
 - Repository link: https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&alphabeticalFilter=D&searchFilter=DS
 - Reporter regions of PRODCOM download link: https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/codelist/ESTAT/geo?format=TSV
 
-#### Ecoinvent
+#### Ecoinvent (products LCI database)
 
 An Ecoinvent licence is required to calculate the products footprints. Instructions are provided in the following notebook on how to load the database: [Calculate product footprints and generate hotspot figure.ipynb](<./Python_notebooks/Calculate hotspot products footprints and contributions.ipynb#Import-some-global-variables-from-file>)
 
@@ -160,7 +166,7 @@ Get the JSON-LD correspondence file from EU ShowVoc platform: https://showvoc.op
 
 Correspondences tab > CN2024_PRODCOM2024 > Download (JSON-LD) and save it to `Prodcom_data/CN2024_PRODCOM2024-export.jsonld`
 
-## Kumu database
+## Kumu graph database (bio-based products pathways)
 
 Interactive pathway database available at https://kumu.io/nicolas-lienart/screenlca-paper-biobased-pathways
 
