@@ -174,7 +174,7 @@ Raw JSON which can be imported as a new Kumu project, Excel version of the datab
 
 The database may receive updates in the future. To view the data as of the published version of the article, open the following map: "[Published version (v1)](https://kumu.io/nicolas-lienart/screen-lca-bio-based-pathways-database#published-version-v1)"
 
-![Graph database screenshot](<Assets/Screenshot 2026-08-21 at 17-26-03 screenlca-paper-biobased-pathways • Bio-based pathways global map _ All • Kumu.png>)
+![Graph database screenshot](<Assets/Screenshot 2026-09-02 at 10-19-29 SCREEN-LCA Bio-based pathways database • Published version (v1) _ All • Kumu.png>)
 
 ## Licence
 
