@@ -2,7 +2,7 @@
 
 A graph database representing bio-based alternative pathways to high-greenhouse-gas-footprint petrochemicals in the European Union.
 
-Share link: https://kumu.io/nicolas-lienart/screenlca-paper-biobased-pathways
+Share link: https://kumu.io/nicolas-lienart/screen-lca-bio-based-pathways-database
 
 Author: [Nicolas LIENART](https://orcid.org/0009-0001-3259-2819)
 
