@@ -4,10 +4,8 @@
 
 If you utilize any portions of the code, results, or draw inspiration for your projects, please give proper credit by citing the published article below.
 
- - Title: Residual biomass to bio-based chemicals and plastics: ex-ante screening methodology for prioritizing high-impact substitutions
- - Authors: [Nicolas LIENART](https://orcid.org/0009-0001-3259-2819), [Thibaut LECOMPTE](https://orcid.org/0000-0001-9237-8454), [Lorie HAMELIN](https://orcid.org/0000-0001-9092-1900) 
- - Journal: Resources, Conservation and Recycling (RCR) - Elsevier
- - Doi: #todo
+> [Lienart, N.](https://orcid.org/0009-0001-3259-2819), [Lecompte, T.](https://orcid.org/0000-0001-9237-8454) and [Hamelin, L.](https://orcid.org/0000-0001-9092-1900) (2027) “[SCREEN-LCA: Ex-ante prioritization of bio-based pathways for chemicals and plastics under a climate-mitigation objective](https://doi.org/10.1016/j.resconrec.2026.109198),” Resources, Conservation and Recycling, 237, p. 109198. Available at: https://doi.org/10.1016/j.resconrec.2026.109198.
+
  - Git repository (Forge INRAE): https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code
  - Git repository (GitHub): https://github.com/nicolnt/screen-lca-paper-supplementary-code
 
@@ -26,11 +24,14 @@ They can be read directly (non-interactively) from Gitlab or Github in there ren
 The main notebooks are as follows:
 
  - [`Python_notebooks/Calculate sectors footprint with EXIOBASE.ipynb`](<./Python_notebooks/Calculate sectors footprint with EXIOBASE.ipynb>)
-   - Description: Greenhouse gas (GHG) footprint estimations of sectors (EXIOBASE products) belonging to given region (e.g., single country like FR, a region like EU27). The assessed flows consider product "availability" in the given region in a year, this means local production and imports, it does not exclude exports. It can assess any year available in EXIOBASE (e.g., 2019, 2022). Finally, it provides the assessed region's total GHG footprint and its direct GHG emissions. The output is in the Excel: [`Article_data/Step 2 - EXIOBASE results.xlsx`](<./Article_data/Step 2 - EXIOBASE results.xlsx>).
+   - Description: Greenhouse gas (GHG) footprint estimations of sectors (EXIOBASE products) belonging to given region (e.g., single country like FR, a region like EU27). The assessed flows consider product "availability" in the given region in a year, this means local production and imports, it does not exclude exports. It can assess any year available in EXIOBASE (e.g., 2019, 2022). Finally, it provides the assessed region's total GHG footprint and its direct GHG emissions.
+   The output is in the Excel: [`Article_data/Step 2 - EXIOBASE results.xlsx`](<./Article_data/Step 2 - EXIOBASE results.xlsx>), which corresponds to [`1-s2.0-S0921344926004210-mmc2.xlsx`](<./Article_data/Published_files/1-s2.0-S0921344926004210-mmc2.xlsx>) SM available on the article's page.
  - [`Python_notebooks/Extract PRODCOM data.ipynb`](<./Python_notebooks/Extract PRODCOM data.ipynb>)
-   - Description: Extract relevant products data from the Eurostat PRODCOM database. The output is in the Excel: [`Article_data/Step 3 - PRODCOM results.xlsx`](<./Article_data/Step 3 - PRODCOM results.xlsx>).
+   - Description: Extract relevant products data from the Eurostat PRODCOM database.
+   The output is in the Excel: [`Article_data/Step 3 - PRODCOM results.xlsx`](<./Article_data/Step 3 - PRODCOM results.xlsx>), which corresponds to [`1-s2.0-S0921344926004210-mmc3.xlsx`](<./Article_data/Published_files/1-s2.0-S0921344926004210-mmc3.xlsx>) SM available on the article's page.
  - [`Python_notebooks/Calculate hotspot products footprints and contributions.ipynb`](<./Python_notebooks/Calculate hotspot products footprints and contributions.ipynb>)
-   - Description: Perform several estimations of the GHG footprint of a selection of products. It calculates an aggregated GHG footprint of the production given a range of supplying regions and their shares. The import and production shares are also distinguished. The contribution of a list of substances to the product footprint is also evaluated by traversing the Ecoinvent database. The end-of-life footprint is also estimated. The output is in the Excel: [`Article_data/Step 4 - Figure 2 data - Hotspot products.xlsx`](<./Article_data/Step 4 - Figure 2 data - Hotspot products.xlsx>).
+   - Description: Perform several estimations of the GHG footprint of a selection of products. It calculates an aggregated GHG footprint of the production given a range of supplying regions and their shares. The import and production shares are also distinguished. The contribution of a list of substances to the product footprint is also evaluated by traversing the Ecoinvent database. The end-of-life footprint is also estimated.
+   The output is in the Excel: [`Article_data/Step 4 - Figure 2 data - Hotspot products.xlsx`](<./Article_data/Step 4 - Figure 2 data - Hotspot products.xlsx>), which corresponds to [`1-s2.0-S0921344926004210-mmc4.xlsx`](<./Article_data/Published_files/1-s2.0-S0921344926004210-mmc4.xlsx>) SM available on the article's page.
    - Depends on the following notebooks: 
     - [`Python_notebooks/Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb`](<./Python_notebooks/Convert PRODCOM codes to Harmonized System (HS) 2022 codes.ipynb>)
     - [`Python_notebooks/Get product importers from BACI and Ecoinvent geographies.ipynb`](<./Python_notebooks/Get product importers from BACI and Ecoinvent geographies.ipynb>)
@@ -45,6 +46,12 @@ Other complementary notebooks:
 ```
 .
 ├── Article_data/
+│   ├── Published_files/
+│   │   ├── 1-s2.0-S0921344926004210-main.pdf
+│   │   ├── 1-s2.0-S0921344926004210-mmc1.pdf
+│   │   ├── 1-s2.0-S0921344926004210-mmc2.xlsx
+│   │   ├── 1-s2.0-S0921344926004210-mmc3.xlsx
+│   │   └── 1-s2.0-S0921344926004210-mmc4.xlsx
 │   ├── Step 2 - EXIOBASE results.xlsx
 │   ├── Step 3 - PRODCOM results.xlsx
 │   └── Step 4 - Figure 2 data - Hotspot products.xlsx

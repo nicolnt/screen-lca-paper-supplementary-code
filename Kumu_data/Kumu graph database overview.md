@@ -34,10 +34,8 @@ For more details, please refer to the related scientific publication, including 
 
 ## Related publication
 
- - Title: Residual biomass to bio-based chemicals and plastics: ex-ante screening methodology for prioritizing high-impact substitutions
- - Authors: [Nicolas LIENART](https://orcid.org/0009-0001-3259-2819), [Thibaut LECOMPTE](https://orcid.org/0000-0001-9237-8454), [Lorie HAMELIN](https://orcid.org/0000-0001-9092-1900) 
- - Journal: Resources, Conservation and Recycling (RCR) - Elsevier
- - Doi: #todo
+> [Lienart, N.](https://orcid.org/0009-0001-3259-2819), [Lecompte, T.](https://orcid.org/0000-0001-9237-8454) and [Hamelin, L.](https://orcid.org/0000-0001-9092-1900) (2027) “[SCREEN-LCA: Ex-ante prioritization of bio-based pathways for chemicals and plastics under a climate-mitigation objective](https://doi.org/10.1016/j.resconrec.2026.109198),” Resources, Conservation and Recycling, 237, p. 109198. Available at: https://doi.org/10.1016/j.resconrec.2026.109198.
+
  - Git repository (Forge INRAE): https://forge.inrae.fr/nicolas.lienart/screen-lca-paper-supplementary-code
  - Git repository (GitHub): https://github.com/nicolnt/screen-lca-paper-supplementary-code
 
